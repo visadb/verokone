@@ -74,16 +74,12 @@ def load_tax_info(name: str, cache_dir: Path) -> Any:
 
 def format_tax_summary(name: str, tax_info: Any) -> str:
     if isinstance(tax_info, dict):
-        entries = tax_info.get("results")
-        if isinstance(entries, list):
-            if not entries:
+        results = tax_info.get("results")
+        if isinstance(results, list):
+            if not results:
                 return f"{name}: no data"
-            first = entries[0]
-            if isinstance(first, dict):
-                gross_income = first.get("gross_income") or first.get("total_income")
-                if gross_income is not None:
-                    return f"{name}: gross_income={gross_income}"
-                return f"{name}: {json.dumps(first, ensure_ascii=False)}"
+            formattedResults = "\n  " + "\n  ".join([f"{r['name']}({r['birthYear']},{r['lastCounty']})={r['taxYears']['2024']['totalIncome']:.0f}EUR" for r in results])
+            return f"{name} {tax_info['count']}: {formattedResults}"
         return f"{name}: {json.dumps(tax_info, ensure_ascii=False)}"
     return f"{name}: {tax_info}"
 
