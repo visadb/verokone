@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Pirttikoski Hannes Oskari",
+      "id": "1975Pirttikoski Hannes Oskari",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19604,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 165153.01,
+          "capitalIncome": 2914.48,
+          "salary": 162238.53,
+          "rank": 30439,
+          "rankOfLastYear": 30439,
+          "paidTaxes": 64965.02,
+          "taxRatio": 39.33626156737924,
+          "personId": "1975Pirttikoski Hannes Oskari",
+          "fragmentId": "20241975Pirttikoski_Hannes_Oskari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

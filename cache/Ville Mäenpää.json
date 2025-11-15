@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "name": "Mäenpää Ville Aulis",
+      "id": "1977Mäenpää Ville Aulis",
+      "birthYear": 1977,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61128,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 237494.65000000002,
+          "capitalIncome": 173689.85,
+          "salary": 63804.8,
+          "rank": 12778,
+          "rankOfLastYear": 12778,
+          "paidTaxes": 78382.78,
+          "taxRatio": 33.00401924843359,
+          "personId": "1977Mäenpää Ville Aulis",
+          "fragmentId": "20241977M-enp--_Ville_Aulis"
+        }
+      }
+    },
+    {
+      "name": "Mäenpää Ville Markus",
+      "id": "1971Mäenpää Ville Markus",
+      "birthYear": 1971,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60844,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 123905.6,
+          "capitalIncome": 58306.18,
+          "salary": 65599.42,
+          "rank": 64351,
+          "paidTaxes": 39322.08,
+          "taxRatio": 31.73551477899304,
+          "personId": "1971Mäenpää Ville Markus",
+          "fragmentId": "20241971M-enp--_Ville_Markus"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ruohomäki Jarno Henrik",
+      "id": "1973Ruohomäki Jarno Henrik",
+      "birthYear": 1973,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22876,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 163151.63,
+          "capitalIncome": 9233.54,
+          "salary": 153918.09,
+          "rank": 31348,
+          "rankOfLastYear": 31348,
+          "paidTaxes": 69596.94,
+          "taxRatio": 42.65782695520725,
+          "personId": "1973Ruohomäki Jarno Henrik",
+          "fragmentId": "20241973Ruohom-ki_Jarno_Henrik"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

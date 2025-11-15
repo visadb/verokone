@@ -1,0 +1,1352 @@
+{
+  "results": [
+    {
+      "name": "Poikolainen Aapo Ville Eemeli",
+      "id": "1986Poikolainen Aapo Ville Eemeli",
+      "gender": "m",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 533,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 665179.2,
+          "capitalIncome": 9693.97,
+          "salary": 655485.23,
+          "rank": 2116,
+          "rankOfLastYear": 2116,
+          "paidTaxes": 321580.02,
+          "taxRatio": 48.34487007410936,
+          "personId": "1986Poikolainen Aapo Ville Eemeli",
+          "fragmentId": "20241986Poikolainen_Aapo_Ville_Eemeli"
+        }
+      }
+    },
+    {
+      "name": "Holopainen Ville Veli-Matti",
+      "id": "1981Holopainen Ville Veli-Matti",
+      "gender": "m",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7279,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 581946.37,
+          "capitalIncome": 355853.55,
+          "salary": 226092.82,
+          "rank": 2541,
+          "rankOfLastYear": 2541,
+          "paidTaxes": 217833.25,
+          "taxRatio": 37.43184273148744,
+          "personId": "1981Holopainen Ville Veli-Matti",
+          "fragmentId": "20241981Holopainen_Ville_Veli-Matti"
+        }
+      }
+    },
+    {
+      "name": "Karkiainen Ville Pekka",
+      "id": "1977Karkiainen Ville Pekka",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 883,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 549547.15,
+          "capitalIncome": 38755.99,
+          "salary": 510791.16,
+          "rank": 2803,
+          "rankOfLastYear": 2803,
+          "paidTaxes": 258543.26,
+          "taxRatio": 47.04660191577738,
+          "personId": "1977Karkiainen Ville Pekka",
+          "fragmentId": "20241977Karkiainen_Ville_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Laine Antti Ville Tuomas",
+      "id": "1970Laine Antti Ville Tuomas",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 64307,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 463079.01,
+          "capitalIncome": 420685.88,
+          "salary": 42393.13,
+          "rank": 3657,
+          "rankOfLastYear": 3657,
+          "paidTaxes": 151436.01,
+          "taxRatio": 32.701981029112076,
+          "personId": "1970Laine Antti Ville Tuomas",
+          "fragmentId": "20241970Laine_Antti_Ville_Tuomas"
+        }
+      }
+    },
+    {
+      "name": "Kovalainen Ville-Veikko",
+      "id": "1987Kovalainen Ville-Veikko",
+      "birthYear": 1987,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42230,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 365191.41,
+          "capitalIncome": 239502.15,
+          "salary": 125689.26,
+          "rank": 5493,
+          "rankOfLastYear": 5493,
+          "paidTaxes": 130940.88,
+          "taxRatio": 35.85541072830821,
+          "personId": "1987Kovalainen Ville-Veikko",
+          "fragmentId": "20241987Kovalainen_Ville-Veikko"
+        }
+      }
+    },
+    {
+      "name": "Urpilainen Ville Jaakko Johannes",
+      "id": "1979Urpilainen Ville Jaakko Johannes",
+      "birthYear": 1979,
+      "lastCounty": "Keski-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41494,
+          "taxYear": 2024,
+          "county": "Keski-Pohjanmaa",
+          "totalIncome": 344022.9,
+          "capitalIncome": 217629.57,
+          "salary": 126393.33,
+          "rank": 6070,
+          "rankOfLastYear": 6070,
+          "paidTaxes": 123994.97,
+          "taxRatio": 36.042650067771646,
+          "personId": "1979Urpilainen Ville Jaakko Johannes",
+          "fragmentId": "20241979Urpilainen_Ville_Jaakko_Johannes"
+        }
+      }
+    },
+    {
+      "name": "Katainen Ville Veikko",
+      "id": "1981Katainen Ville Veikko",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4241,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 273926.39,
+          "capitalIncome": 0,
+          "salary": 273926.39,
+          "rank": 9429,
+          "rankOfLastYear": 9429,
+          "paidTaxes": 124615.52,
+          "taxRatio": 45.4923382883993,
+          "personId": "1981Katainen Ville Veikko",
+          "fragmentId": "20241981Katainen_Ville_Veikko"
+        }
+      }
+    },
+    {
+      "name": "Toiviainen Ville Juhani",
+      "id": "1979Toiviainen Ville Juhani",
+      "birthYear": 1979,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 68058,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 267865.66,
+          "capitalIncome": 260001.21,
+          "salary": 7864.45,
+          "rank": 9880,
+          "rankOfLastYear": 9880,
+          "paidTaxes": 94245.56,
+          "taxRatio": 35.18389031277843,
+          "personId": "1979Toiviainen Ville Juhani",
+          "fragmentId": "20241979Toiviainen_Ville_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Raatikainen Mikko Ville Oskari",
+      "id": "1990Raatikainen Mikko Ville Oskari",
+      "birthYear": 1990,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66472,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 243243.91,
+          "capitalIncome": 217303.63,
+          "salary": 25940.28,
+          "rank": 12148,
+          "rankOfLastYear": 12148,
+          "paidTaxes": 78340.99,
+          "taxRatio": 32.20676316212809,
+          "personId": "1990Raatikainen Mikko Ville Oskari",
+          "fragmentId": "20241990Raatikainen_Mikko_Ville_Oskari"
+        }
+      }
+    },
+    {
+      "name": "Veijalainen Ville Eino",
+      "id": "1971Veijalainen Ville Eino",
+      "birthYear": 1971,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54381,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 235294.91,
+          "capitalIncome": 132217.75,
+          "salary": 103077.16,
+          "rank": 13045,
+          "rankOfLastYear": 13045,
+          "paidTaxes": 82685.82,
+          "taxRatio": 35.1413551614865,
+          "personId": "1971Veijalainen Ville Eino",
+          "fragmentId": "20241971Veijalainen_Ville_Eino"
+        }
+      }
+    },
+    {
+      "name": "Kupiainen Ville Sakari",
+      "id": "1976Kupiainen Ville Sakari",
+      "birthYear": 1976,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7546,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 223185.84,
+          "capitalIncome": 0,
+          "salary": 223185.84,
+          "rank": 14632,
+          "rankOfLastYear": 14632,
+          "paidTaxes": 102695.67,
+          "taxRatio": 46.01352397625226,
+          "personId": "1976Kupiainen Ville Sakari",
+          "fragmentId": "20241976Kupiainen_Ville_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Yli-Rohdainen Ville Valtteri",
+      "id": "1963Yli-Rohdainen Ville Valtteri",
+      "gender": "m",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8489,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 214580.28,
+          "capitalIncome": 0,
+          "salary": 214580.28,
+          "rank": 16120,
+          "rankOfLastYear": 16120,
+          "paidTaxes": 98165.13,
+          "taxRatio": 45.74750764608938,
+          "personId": "1963Yli-Rohdainen Ville Valtteri",
+          "fragmentId": "20241963Yli-Rohdainen_Ville_Valtteri"
+        }
+      }
+    },
+    {
+      "name": "Taivainen Ville Marko",
+      "id": "1976Taivainen Ville Marko",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9283,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 208796.09,
+          "capitalIncome": 734.48,
+          "salary": 208061.61,
+          "rank": 17186,
+          "rankOfLastYear": 17186,
+          "paidTaxes": 89407.46,
+          "taxRatio": 42.82046660931247,
+          "personId": "1976Taivainen Ville Marko",
+          "fragmentId": "20241976Taivainen_Ville_Marko"
+        }
+      }
+    },
+    {
+      "name": "Ronkainen Seppo Ville",
+      "id": "1969Ronkainen Seppo Ville",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10034,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 202643.45,
+          "capitalIncome": 0,
+          "salary": 202643.45,
+          "rank": 18436,
+          "rankOfLastYear": 18436,
+          "paidTaxes": 86664.68,
+          "taxRatio": 42.76707685345862,
+          "personId": "1969Ronkainen Seppo Ville",
+          "fragmentId": "20241969Ronkainen_Seppo_Ville"
+        }
+      }
+    },
+    {
+      "name": "Haatainen Juha Ville",
+      "id": "1982Haatainen Juha Ville",
+      "birthYear": 1982,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10825,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 198462.56999999998,
+          "capitalIncome": 745.61,
+          "salary": 197716.96,
+          "rank": 19381,
+          "rankOfLastYear": 19381,
+          "paidTaxes": 89261.43,
+          "taxRatio": 44.97645576191017,
+          "personId": "1982Haatainen Juha Ville",
+          "fragmentId": "20241982Haatainen_Juha_Ville"
+        }
+      }
+    },
+    {
+      "name": "Pursiainen Ville Petteri",
+      "id": "1979Pursiainen Ville Petteri",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12708,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 187828.86000000002,
+          "capitalIncome": 409.51,
+          "salary": 187419.35,
+          "rank": 22143,
+          "rankOfLastYear": 22143,
+          "paidTaxes": 76817.76,
+          "taxRatio": 40.8977406347459,
+          "personId": "1979Pursiainen Ville Petteri",
+          "fragmentId": "20241979Pursiainen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Vinnikainen Ville Olavi",
+      "id": "1985Vinnikainen Ville Olavi",
+      "birthYear": 1985,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18641,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 181265.02000000002,
+          "capitalIncome": 16011.63,
+          "salary": 165253.39,
+          "rank": 24203,
+          "rankOfLastYear": 24203,
+          "paidTaxes": 77431.48,
+          "taxRatio": 42.717276615201314,
+          "personId": "1985Vinnikainen Ville Olavi",
+          "fragmentId": "20241985Vinnikainen_Ville_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Nevalainen Ville-Pekka",
+      "id": "1969Nevalainen Ville-Pekka",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58353,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Karjala",
+          "totalIncome": 179431.13,
+          "capitalIncome": 97988.43,
+          "salary": 81442.7,
+          "rank": 24821,
+          "rankOfLastYear": 24821,
+          "paidTaxes": 59785.38,
+          "taxRatio": 33.31940226871446,
+          "personId": "1969Nevalainen Ville-Pekka",
+          "fragmentId": "20241969Nevalainen_Ville-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Savolainen Ville-Veikko",
+      "id": "1986Savolainen Ville-Veikko",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16249,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 177954.87,
+          "capitalIncome": 4974.57,
+          "salary": 172980.3,
+          "rank": 25314,
+          "rankOfLastYear": 25314,
+          "paidTaxes": 77912.99,
+          "taxRatio": 43.78244326777907,
+          "personId": "1986Savolainen Ville-Veikko",
+          "fragmentId": "20241986Savolainen_Ville-Veikko"
+        }
+      }
+    },
+    {
+      "name": "Savolainen Mika Ville Juhani",
+      "id": "1984Savolainen Mika Ville Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33098,
+          "taxYear": 2024,
+          "county": "Etelä-Savo",
+          "totalIncome": 171547.64,
+          "capitalIncome": 35360.36,
+          "salary": 136187.28,
+          "rank": 27719,
+          "rankOfLastYear": 27719,
+          "paidTaxes": 66353.53,
+          "taxRatio": 38.679360438884494,
+          "personId": "1984Savolainen Mika Ville Juhani",
+          "fragmentId": "20241984Savolainen_Mika_Ville_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Nurmiainen Ville Veikko",
+      "id": "1986Nurmiainen Ville Veikko",
+      "birthYear": 1986,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63071,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 170729.47999999998,
+          "capitalIncome": 119763.45,
+          "salary": 50966.03,
+          "rank": 28089,
+          "rankOfLastYear": 28089,
+          "paidTaxes": 54859.26,
+          "taxRatio": 32.132271474147295,
+          "personId": "1986Nurmiainen Ville Veikko",
+          "fragmentId": "20241986Nurmiainen_Ville_Veikko"
+        }
+      }
+    },
+    {
+      "name": "Nikulainen Ville Petteri",
+      "id": "1970Nikulainen Ville Petteri",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17950,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 170147.12,
+          "capitalIncome": 2806.25,
+          "salary": 167340.87,
+          "rank": 28325,
+          "rankOfLastYear": 28325,
+          "paidTaxes": 73913.62,
+          "taxRatio": 43.441005642646196,
+          "personId": "1970Nikulainen Ville Petteri",
+          "fragmentId": "20241970Nikulainen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Ahtiainen Ville Petteri",
+      "id": "1979Ahtiainen Ville Petteri",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19724,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 169638.17,
+          "capitalIncome": 7740.32,
+          "salary": 161897.85,
+          "rank": 28518,
+          "rankOfLastYear": 28518,
+          "paidTaxes": 69803.08,
+          "taxRatio": 41.14821564038329,
+          "personId": "1979Ahtiainen Ville Petteri",
+          "fragmentId": "20241979Ahtiainen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Laine Ville Valtteri",
+      "id": "1979Laine Ville Valtteri",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18959,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 166272.25,
+          "capitalIncome": 2048.73,
+          "salary": 164223.52,
+          "rank": 29928,
+          "rankOfLastYear": 29928,
+          "paidTaxes": 64029.92,
+          "taxRatio": 38.509083746686535,
+          "personId": "1979Laine Ville Valtteri",
+          "fragmentId": "20241979Laine_Ville_Valtteri"
+        }
+      }
+    },
+    {
+      "name": "Tahvanainen Simo Ville",
+      "id": "1981Tahvanainen Simo Ville",
+      "birthYear": 1981,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29526,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 165337.13,
+          "capitalIncome": 24043.11,
+          "salary": 141294.02,
+          "rank": 30351,
+          "rankOfLastYear": 30351,
+          "paidTaxes": 65262.83,
+          "taxRatio": 39.472579450242065,
+          "personId": "1981Tahvanainen Simo Ville",
+          "fragmentId": "20241981Tahvanainen_Simo_Ville"
+        }
+      }
+    },
+    {
+      "name": "Saarainen Ville Pekka",
+      "id": "1979Saarainen Ville Pekka",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19966,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 161922.28,
+          "capitalIncome": 745.54,
+          "salary": 161176.74,
+          "rank": 31933,
+          "rankOfLastYear": 31933,
+          "paidTaxes": 66097.64,
+          "taxRatio": 40.82059615267275,
+          "personId": "1979Saarainen Ville Pekka",
+          "fragmentId": "20241979Saarainen_Ville_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Kolehmainen Ville Juhani",
+      "id": "1979Kolehmainen Ville Juhani",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20366,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 161398.94,
+          "capitalIncome": 1331.02,
+          "salary": 160067.92,
+          "rank": 32187,
+          "rankOfLastYear": 32187,
+          "paidTaxes": 65421.61,
+          "taxRatio": 40.53410140116162,
+          "personId": "1979Kolehmainen Ville Juhani",
+          "fragmentId": "20241979Kolehmainen_Ville_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Oravainen Juuso Ville Juhani",
+      "id": "1983Oravainen Juuso Ville Juhani",
+      "birthYear": 1983,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20933,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 158533.9,
+          "capitalIncome": 0,
+          "salary": 158533.9,
+          "rank": 33677,
+          "rankOfLastYear": 33677,
+          "paidTaxes": 67337.82,
+          "taxRatio": 42.475344390064215,
+          "personId": "1983Oravainen Juuso Ville Juhani",
+          "fragmentId": "20241983Oravainen_Juuso_Ville_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Piirainen Ville Aukusti",
+      "id": "1981Piirainen Ville Aukusti",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26651,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 158485.30000000002,
+          "capitalIncome": 12241.23,
+          "salary": 146244.07,
+          "rank": 33699,
+          "rankOfLastYear": 33699,
+          "paidTaxes": 60454.69,
+          "taxRatio": 38.145298018175815,
+          "personId": "1981Piirainen Ville Aukusti",
+          "fragmentId": "20241981Piirainen_Ville_Aukusti"
+        }
+      }
+    },
+    {
+      "name": "Tuppurainen Ville Petteri",
+      "id": "1987Tuppurainen Ville Petteri",
+      "birthYear": 1987,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59230,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 157546.86,
+          "capitalIncome": 81931.72,
+          "salary": 75615.14,
+          "rank": 34236,
+          "rankOfLastYear": 34236,
+          "paidTaxes": 53245.38,
+          "taxRatio": 33.79653520228839,
+          "personId": "1987Tuppurainen Ville Petteri",
+          "fragmentId": "20241987Tuppurainen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Rouhiainen Ville Sakari",
+      "id": "1984Rouhiainen Ville Sakari",
+      "birthYear": 1984,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43915,
+          "taxYear": 2024,
+          "county": "Etelä-Savo",
+          "totalIncome": 155435.68,
+          "capitalIncome": 31324.27,
+          "salary": 124111.41,
+          "rank": 35379,
+          "rankOfLastYear": 35379,
+          "paidTaxes": 60008.69,
+          "taxRatio": 38.60676647729788,
+          "personId": "1984Rouhiainen Ville Sakari",
+          "fragmentId": "20241984Rouhiainen_Ville_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Tapanainen Ville Robert",
+      "id": "1978Tapanainen Ville Robert",
+      "birthYear": 1978,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 64879,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 154551.75,
+          "capitalIncome": 116426.25,
+          "salary": 38125.5,
+          "rank": 35934,
+          "rankOfLastYear": 35934,
+          "paidTaxes": 47021.8,
+          "taxRatio": 30.424631231933642,
+          "personId": "1978Tapanainen Ville Robert",
+          "fragmentId": "20241978Tapanainen_Ville_Robert"
+        }
+      }
+    },
+    {
+      "name": "Jokelainen Ville Einari",
+      "id": "1968Jokelainen Ville Einari",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51902,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 152161.72,
+          "capitalIncome": 39241.68,
+          "salary": 112920.04,
+          "rank": 37438,
+          "rankOfLastYear": 37438,
+          "paidTaxes": 53325.23,
+          "taxRatio": 35.04510201383108,
+          "personId": "1968Jokelainen Ville Einari",
+          "fragmentId": "20241968Jokelainen_Ville_Einari"
+        }
+      }
+    },
+    {
+      "name": "Rautiainen Ville Antti",
+      "id": "1981Rautiainen Ville Antti",
+      "birthYear": 1981,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54407,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 152097.11,
+          "capitalIncome": 49106.34,
+          "salary": 102990.77,
+          "rank": 37487,
+          "rankOfLastYear": 37487,
+          "paidTaxes": 55290.14,
+          "taxRatio": 36.35186756671445,
+          "personId": "1981Rautiainen Ville Antti",
+          "fragmentId": "20241981Rautiainen_Ville_Antti"
+        }
+      }
+    },
+    {
+      "name": "Pikkarainen Erno Ville Matias",
+      "id": "1986Pikkarainen Erno Ville Matias",
+      "birthYear": 1986,
+      "lastCounty": "Kainuu",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23838,
+          "taxYear": 2024,
+          "county": "Kainuu",
+          "totalIncome": 151777.24,
+          "capitalIncome": 0,
+          "salary": 151777.24,
+          "rank": 37689,
+          "rankOfLastYear": 37689,
+          "paidTaxes": 65276.81,
+          "taxRatio": 43.00829953160303,
+          "personId": "1986Pikkarainen Erno Ville Matias",
+          "fragmentId": "20241986Pikkarainen_Erno_Ville_Matias"
+        }
+      }
+    },
+    {
+      "name": "Karjalainen Ville-Veikko",
+      "id": "1978Karjalainen Ville-Veikko",
+      "birthYear": 1978,
+      "lastCounty": "Kainuu",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59809,
+          "taxYear": 2024,
+          "county": "Kainuu",
+          "totalIncome": 151397.3,
+          "capitalIncome": 79155.87,
+          "salary": 72241.43,
+          "rank": 37932,
+          "rankOfLastYear": 37932,
+          "paidTaxes": 44960.43,
+          "taxRatio": 29.69698270708923,
+          "personId": "1978Karjalainen Ville-Veikko",
+          "fragmentId": "20241978Karjalainen_Ville-Veikko"
+        }
+      }
+    },
+    {
+      "name": "Vartiainen Nuutti Ville",
+      "id": "1978Vartiainen Nuutti Ville",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24660,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 150088.37,
+          "capitalIncome": 0,
+          "salary": 150088.37,
+          "rank": 38778,
+          "rankOfLastYear": 38778,
+          "paidTaxes": 56388.59,
+          "taxRatio": 37.57025944115457,
+          "personId": "1978Vartiainen Nuutti Ville",
+          "fragmentId": "20241978Vartiainen_Nuutti_Ville"
+        }
+      }
+    },
+    {
+      "name": "Koikkalainen Ville Severi",
+      "id": "1985Koikkalainen Ville Severi",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24986,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 149402.55,
+          "capitalIncome": 0,
+          "salary": 149402.55,
+          "rank": 39224,
+          "rankOfLastYear": 39224,
+          "paidTaxes": 59537.44,
+          "taxRatio": 39.85035061315889,
+          "personId": "1985Koikkalainen Ville Severi",
+          "fragmentId": "20241985Koikkalainen_Ville_Severi"
+        }
+      }
+    },
+    {
+      "name": "Toivakainen Ville Heikki",
+      "id": "1977Toivakainen Ville Heikki",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29161,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147608.76,
+          "capitalIncome": 5750,
+          "salary": 141858.76,
+          "rank": 40462,
+          "rankOfLastYear": 40462,
+          "paidTaxes": 53784.88,
+          "taxRatio": 36.43745804788279,
+          "personId": "1977Toivakainen Ville Heikki",
+          "fragmentId": "20241977Toivakainen_Ville_Heikki"
+        }
+      }
+    },
+    {
+      "name": "Koskelainen Ville Santeri",
+      "id": "1983Koskelainen Ville Santeri",
+      "birthYear": 1983,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40033,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 146758.22,
+          "capitalIncome": 18869.46,
+          "salary": 127888.76,
+          "rank": 41083,
+          "rankOfLastYear": 41083,
+          "paidTaxes": 56103.75,
+          "taxRatio": 38.22869342514511,
+          "personId": "1983Koskelainen Ville Santeri",
+          "fragmentId": "20241983Koskelainen_Ville_Santeri"
+        }
+      }
+    },
+    {
+      "name": "Karjalainen Jussi Ville",
+      "id": "1965Karjalainen Jussi Ville",
+      "birthYear": 1965,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 28903,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 142333.94,
+          "capitalIncome": 55.42,
+          "salary": 142278.52,
+          "rank": 44514,
+          "rankOfLastYear": 44514,
+          "paidTaxes": 63547.75,
+          "taxRatio": 44.646940849104574,
+          "personId": "1965Karjalainen Jussi Ville",
+          "fragmentId": "20241965Karjalainen_Jussi_Ville"
+        }
+      }
+    },
+    {
+      "name": "Kuivalainen Ville Sakari",
+      "id": "1976Kuivalainen Ville Sakari",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32785,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 140712.38999999998,
+          "capitalIncome": 4134.08,
+          "salary": 136578.31,
+          "rank": 45871,
+          "rankOfLastYear": 45871,
+          "paidTaxes": 54337.57,
+          "taxRatio": 38.61605221828725,
+          "personId": "1976Kuivalainen Ville Sakari",
+          "fragmentId": "20241976Kuivalainen_Ville_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Paavilainen Petri Ville Juhani",
+      "id": "1974Paavilainen Petri Ville Juhani",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36258,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 139734.22999999998,
+          "capitalIncome": 7605.46,
+          "salary": 132128.77,
+          "rank": 46697,
+          "rankOfLastYear": 46697,
+          "paidTaxes": 50032.03,
+          "taxRatio": 35.80513521990997,
+          "personId": "1974Paavilainen Petri Ville Juhani",
+          "fragmentId": "20241974Paavilainen_Petri_Ville_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Vainikainen Ville Matias",
+      "id": "1976Vainikainen Ville Matias",
+      "birthYear": 1976,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 56133,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 130671.82,
+          "capitalIncome": 36258.98,
+          "salary": 94412.84,
+          "rank": 55703,
+          "rankOfLastYear": 55703,
+          "paidTaxes": 45133.34,
+          "taxRatio": 34.53945923459243,
+          "personId": "1976Vainikainen Ville Matias",
+          "fragmentId": "20241976Vainikainen_Ville_Matias"
+        }
+      }
+    },
+    {
+      "name": "Antikainen Ville Oskari",
+      "id": "1986Antikainen Ville Oskari",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40803,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130140.9,
+          "capitalIncome": 3035.79,
+          "salary": 127105.11,
+          "rank": 56323,
+          "rankOfLastYear": 56323,
+          "paidTaxes": 45746.3,
+          "taxRatio": 35.15136286901351,
+          "personId": "1986Antikainen Ville Oskari",
+          "fragmentId": "20241986Antikainen_Ville_Oskari"
+        }
+      }
+    },
+    {
+      "name": "Reinikainen Ville Petteri",
+      "id": "1977Reinikainen Ville Petteri",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50477,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 127409.35,
+          "capitalIncome": 10678.02,
+          "salary": 116731.33,
+          "rank": 59632,
+          "rankOfLastYear": 59632,
+          "paidTaxes": 44337.7,
+          "taxRatio": 34.799408363671894,
+          "personId": "1977Reinikainen Ville Petteri",
+          "fragmentId": "20241977Reinikainen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Hartikainen Vesa Ville",
+      "id": "1979Hartikainen Vesa Ville",
+      "birthYear": 1979,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42904,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 125063.15,
+          "capitalIncome": 0,
+          "salary": 125063.15,
+          "rank": 62731,
+          "rankOfLastYear": 62731,
+          "paidTaxes": 47955.11,
+          "taxRatio": 38.34471624935083,
+          "personId": "1979Hartikainen Vesa Ville",
+          "fragmentId": "20241979Hartikainen_Vesa_Ville"
+        }
+      }
+    },
+    {
+      "name": "Suomalainen Sampsa Ville Petteri",
+      "id": "1982Suomalainen Sampsa Ville Petteri",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50199,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124570.23,
+          "capitalIncome": 7182.47,
+          "salary": 117387.76,
+          "rank": 63423,
+          "rankOfLastYear": 63423,
+          "paidTaxes": 46736.23,
+          "taxRatio": 37.517976807139235,
+          "personId": "1982Suomalainen Sampsa Ville Petteri",
+          "fragmentId": "20241982Suomalainen_Sampsa_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Savolainen Ville Iiro Anteri",
+      "id": "1976Savolainen Ville Iiro Anteri",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43513,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 124500.55,
+          "capitalIncome": 0,
+          "salary": 124500.55,
+          "rank": 63531,
+          "rankOfLastYear": 63531,
+          "paidTaxes": 47775.62,
+          "taxRatio": 38.373822444961085,
+          "personId": "1976Savolainen Ville Iiro Anteri",
+          "fragmentId": "20241976Savolainen_Ville_Iiro_Anteri"
+        }
+      }
+    },
+    {
+      "name": "Haapiainen Henry Villehard",
+      "id": "1985Haapiainen Henry Villehard",
+      "birthYear": 1985,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47901,
+          "taxYear": 2024,
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 121870.58,
+          "capitalIncome": 1125.88,
+          "salary": 120744.7,
+          "rank": 67330,
+          "rankOfLastYear": 67330,
+          "paidTaxes": 50061.4,
+          "taxRatio": 41.07751025719251,
+          "personId": "1985Haapiainen Henry Villehard",
+          "fragmentId": "20241985Haapiainen_Henry_Villehard"
+        }
+      }
+    },
+    {
+      "name": "Hernesniemi Ville Rainer",
+      "id": "1984Hernesniemi Ville Rainer",
+      "birthYear": 1984,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52945,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 121173.86,
+          "capitalIncome": 12046.06,
+          "salary": 109127.8,
+          "rank": 68388,
+          "rankOfLastYear": 68388,
+          "paidTaxes": 46250.59,
+          "taxRatio": 38.16878491780323,
+          "personId": "1984Hernesniemi Ville Rainer",
+          "fragmentId": "20241984Hernesniemi_Ville_Rainer"
+        }
+      }
+    },
+    {
+      "name": "Komulainen Ville Antti Taneli",
+      "id": "1980Komulainen Ville Antti Taneli",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47771,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120846.36,
+          "capitalIncome": 0,
+          "salary": 120846.36,
+          "rank": 68935,
+          "rankOfLastYear": 68935,
+          "paidTaxes": 49125.03,
+          "taxRatio": 40.65081480319308,
+          "personId": "1980Komulainen Ville Antti Taneli",
+          "fragmentId": "20241980Komulainen_Ville_Antti_Taneli"
+        }
+      }
+    },
+    {
+      "name": "Mäkilaine Ville Tapani",
+      "id": "1974Mäkilaine Ville Tapani",
+      "birthYear": 1974,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54628,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 120278.42,
+          "capitalIncome": 18274.11,
+          "salary": 102004.31,
+          "rank": 69784,
+          "rankOfLastYear": 69784,
+          "paidTaxes": 44110.64,
+          "taxRatio": 36.67377739082372,
+          "personId": "1974Mäkilaine Ville Tapani",
+          "fragmentId": "20241974M-kilaine_Ville_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 53,
+  "totResults": 53
+}

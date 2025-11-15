@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Lauronen Vesa Juhani",
+      "id": "1976Lauronen Vesa Juhani",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69719,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 161789.57,
+          "capitalIncome": 161789.57,
+          "salary": 0,
+          "rank": 31991,
+          "rankOfLastYear": 31991,
+          "paidTaxes": 53971.45,
+          "taxRatio": 33.35904162425303,
+          "personId": "1976Lauronen Vesa Juhani",
+          "fragmentId": "20241976Lauronen_Vesa_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Mantere Tuomas Heikki Juhani",
+      "id": "1969Mantere Tuomas Heikki Juhani",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3631,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 289957.2,
+          "capitalIncome": 0,
+          "salary": 289957.2,
+          "rank": 8414,
+          "rankOfLastYear": 8414,
+          "paidTaxes": 137531.87,
+          "taxRatio": 47.431783035565246,
+          "personId": "1969Mantere Tuomas Heikki Juhani",
+          "fragmentId": "20241969Mantere_Tuomas_Heikki_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Mantere Eero Heikki",
+      "id": "1950Mantere Eero Heikki",
+      "birthYear": 1950,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62891,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 168581.64,
+          "capitalIncome": 116271.98,
+          "salary": 52309.66,
+          "rank": 28938,
+          "rankOfLastYear": 28938,
+          "paidTaxes": 53734.79,
+          "taxRatio": 31.8746394921772,
+          "personId": "1950Mantere Eero Heikki",
+          "fragmentId": "20241950Mantere_Eero_Heikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

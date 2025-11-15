@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Ozguc Yilmaz",
+      "id": "1980Ozguc Yilmaz",
+      "birthYear": 1980,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15425,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 194802.69,
+          "capitalIncome": 18779.91,
+          "salary": 176022.78,
+          "rank": 20252,
+          "rankOfLastYear": 20252,
+          "paidTaxes": 81556.04,
+          "taxRatio": 41.86597217933695,
+          "personId": "1980Ozguc Yilmaz",
+          "fragmentId": "20241980Ozguc_Yilmaz"
+        }
+      }
+    },
+    {
+      "name": "Zhao Guoying",
+      "id": "1977Zhao Guoying",
+      "birthYear": 1977,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42226,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 125694.07,
+          "capitalIncome": 0,
+          "salary": 125694.07,
+          "rank": 61847,
+          "rankOfLastYear": 61847,
+          "paidTaxes": 50878.65,
+          "taxRatio": 40.47816257362022,
+          "personId": "1977Zhao Guoying",
+          "fragmentId": "20241977Zhao_Guoying"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "name": "Koskinen Tomi Juhani",
+      "id": "1972Koskinen Tomi Juhani",
+      "birthYear": 1972,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4402,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 270088.16000000003,
+          "capitalIncome": 127.57,
+          "salary": 269960.59,
+          "rank": 9699,
+          "rankOfLastYear": 9699,
+          "paidTaxes": 128377.02,
+          "taxRatio": 47.53152452147476,
+          "personId": "1972Koskinen Tomi Juhani",
+          "fragmentId": "20241972Koskinen_Tomi_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Tomi Mikael",
+      "id": "1980Koskinen Tomi Mikael",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52450,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 234517.25,
+          "capitalIncome": 123588.93,
+          "salary": 110928.32,
+          "rank": 13129,
+          "rankOfLastYear": 13129,
+          "paidTaxes": 81536.22,
+          "taxRatio": 34.76768553272734,
+          "personId": "1980Koskinen Tomi Mikael",
+          "fragmentId": "20241980Koskinen_Tomi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Tomi Petteri",
+      "id": "1979Koskinen Tomi Petteri",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33306,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 142837.72,
+          "capitalIncome": 6924.16,
+          "salary": 135913.56,
+          "rank": 44107,
+          "rankOfLastYear": 44107,
+          "paidTaxes": 56203.54,
+          "taxRatio": 39.34782773065826,
+          "personId": "1979Koskinen Tomi Petteri",
+          "fragmentId": "20241979Koskinen_Tomi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Tomi Petteri",
+      "id": "1991Koskinen Tomi Petteri",
+      "birthYear": 1991,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35560,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 138627.57,
+          "capitalIncome": 5649.67,
+          "salary": 132977.9,
+          "rank": 47724,
+          "rankOfLastYear": 47724,
+          "paidTaxes": 52412.97,
+          "taxRatio": 37.808474894279684,
+          "personId": "1991Koskinen Tomi Petteri",
+          "fragmentId": "20241991Koskinen_Tomi_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

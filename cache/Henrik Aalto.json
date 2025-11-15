@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Aalto-Alanen Heikki Yrjö Henrik",
+      "id": "1955Aalto-Alanen Heikki Yrjö Henrik",
+      "birthYear": 1955,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 28267,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 152079.12,
+          "capitalIncome": 8803.12,
+          "salary": 143276,
+          "rank": 37496,
+          "rankOfLastYear": 37496,
+          "paidTaxes": 61989.98,
+          "taxRatio": 40.7616640601287,
+          "personId": "1955Aalto-Alanen Heikki Yrjö Henrik",
+          "fragmentId": "20241955Aalto-Alanen_Heikki_Yrj-_Henrik"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Koponen Petri Mikael",
+      "id": "1972Koponen Petri Mikael",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55703,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123088.83,
+          "capitalIncome": 26399.51,
+          "salary": 96689.32,
+          "rank": 65555,
+          "rankOfLastYear": 65555,
+          "paidTaxes": 38238.83,
+          "taxRatio": 31.066043929412608,
+          "personId": "1972Koponen Petri Mikael",
+          "fragmentId": "20241972Koponen_Petri_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Koponen Antti Mikael",
+      "id": "1986Koponen Antti Mikael",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48218,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120473.33,
+          "capitalIncome": 0,
+          "salary": 120473.33,
+          "rank": 69467,
+          "rankOfLastYear": 69467,
+          "paidTaxes": 44158.44,
+          "taxRatio": 36.654120874719744,
+          "personId": "1986Koponen Antti Mikael",
+          "fragmentId": "20241986Koponen_Antti_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

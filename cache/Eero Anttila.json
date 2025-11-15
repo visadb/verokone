@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Koiso-Kanttila Jouni Eero",
+      "id": "1947Koiso-Kanttila Jouni Eero",
+      "birthYear": 1947,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39528,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 128430.05,
+          "capitalIncome": 0,
+          "salary": 128430.05,
+          "rank": 58382,
+          "rankOfLastYear": 58382,
+          "paidTaxes": 55141.75,
+          "taxRatio": 42.93523984456908,
+          "personId": "1947Koiso-Kanttila Jouni Eero",
+          "fragmentId": "20241947Koiso-Kanttila_Jouni_Eero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

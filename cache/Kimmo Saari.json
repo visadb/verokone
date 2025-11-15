@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "name": "Saarinen Kimmo Harri Tapio",
+      "id": "1958Saarinen Kimmo Harri Tapio",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62926,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 198247.37,
+          "capitalIncome": 146155.01,
+          "salary": 52092.36,
+          "rank": 19427,
+          "rankOfLastYear": 19427,
+          "paidTaxes": 63659.82,
+          "taxRatio": 32.111306192864,
+          "personId": "1958Saarinen Kimmo Harri Tapio",
+          "fragmentId": "20241958Saarinen_Kimmo_Harri_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Saario Kimmo Matti Kalevi",
+      "id": "1969Saario Kimmo Matti Kalevi",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12729,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 188953.18,
+          "capitalIncome": 1611.38,
+          "salary": 187341.8,
+          "rank": 21837,
+          "rankOfLastYear": 21837,
+          "paidTaxes": 83006.02,
+          "taxRatio": 43.9294115081842,
+          "personId": "1969Saario Kimmo Matti Kalevi",
+          "fragmentId": "20241969Saario_Kimmo_Matti_Kalevi"
+        }
+      }
+    },
+    {
+      "name": "Saarinen Kimmo Birger",
+      "id": "1950Saarinen Kimmo Birger",
+      "gender": "m",
+      "birthYear": 1950,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29586,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 149288.36,
+          "capitalIncome": 8095.68,
+          "salary": 141192.68,
+          "rank": 39305,
+          "rankOfLastYear": 39305,
+          "paidTaxes": 66669.62,
+          "taxRatio": 44.6582841421796,
+          "personId": "1950Saarinen Kimmo Birger",
+          "fragmentId": "20241950Saarinen_Kimmo_Birger"
+        }
+      }
+    },
+    {
+      "name": "Talvensaari Kimmo Kaleva",
+      "id": "1963Talvensaari Kimmo Kaleva",
+      "gender": "m",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51517,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 125951.90000000001,
+          "capitalIncome": 11835.1,
+          "salary": 114116.8,
+          "rank": 61527,
+          "rankOfLastYear": 61527,
+          "paidTaxes": 46616.37,
+          "taxRatio": 37.011247944651885,
+          "personId": "1963Talvensaari Kimmo Kaleva",
+          "fragmentId": "20241963Talvensaari_Kimmo_Kaleva"
+        }
+      }
+    },
+    {
+      "name": "Lietosaari Kimmo Petteri",
+      "id": "1980Lietosaari Kimmo Petteri",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47055,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123634.68000000001,
+          "capitalIncome": 2208.46,
+          "salary": 121426.22,
+          "rank": 64762,
+          "rankOfLastYear": 64762,
+          "paidTaxes": 47942.88,
+          "taxRatio": 38.77785747494149,
+          "personId": "1980Lietosaari Kimmo Petteri",
+          "fragmentId": "20241980Lietosaari_Kimmo_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 5,
+  "totResults": 5
+}

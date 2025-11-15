@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Koistinen Ville Veikko Tapani",
+      "id": "1981Koistinen Ville Veikko Tapani",
+      "birthYear": 1981,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38030,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 138679.37,
+          "capitalIncome": 8631.76,
+          "salary": 130047.61,
+          "rank": 47668,
+          "rankOfLastYear": 47668,
+          "paidTaxes": 59711.25,
+          "taxRatio": 43.05705311467741,
+          "personId": "1981Koistinen Ville Veikko Tapani",
+          "fragmentId": "20241981Koistinen_Ville_Veikko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

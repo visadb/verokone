@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Vesala Jussi Sakari",
+      "id": "1981Vesala Jussi Sakari",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48429,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132796.69,
+          "capitalIncome": 12499.5,
+          "salary": 120297.19,
+          "rank": 53390,
+          "rankOfLastYear": 53390,
+          "paidTaxes": 48664.74,
+          "taxRatio": 36.64604893390038,
+          "personId": "1981Vesala Jussi Sakari",
+          "fragmentId": "20241981Vesala_Jussi_Sakari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

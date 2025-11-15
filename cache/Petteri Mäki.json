@@ -1,0 +1,1405 @@
+{
+  "results": [
+    {
+      "name": "Talasmäki Ville Petteri",
+      "id": "1975Talasmäki Ville Petteri",
+      "gender": "m",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 222,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "Sammon johtaja",
+          "totalIncome": 1035433.15,
+          "capitalIncome": 46081.43,
+          "salary": 989351.72,
+          "rank": 1060,
+          "rankOfLastYear": 1060,
+          "paidTaxes": 436231.4,
+          "taxRatio": 42.130329707910164,
+          "personId": "1975Talasmäki Ville Petteri",
+          "fragmentId": "20241975Talasm-ki_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Kettumäki Janne Petteri",
+      "id": "1966Kettumäki Janne Petteri",
+      "gender": "m",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 68823,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 994570.27,
+          "capitalIncome": 994570.27,
+          "salary": 0,
+          "rank": 1135,
+          "rankOfLastYear": 1135,
+          "paidTaxes": 337146.32,
+          "taxRatio": 33.89869274897992,
+          "personId": "1966Kettumäki Janne Petteri",
+          "fragmentId": "20241966Kettum-ki_Janne_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Ilomäki Juuso Heikki Petteri",
+      "id": "1981Ilomäki Juuso Heikki Petteri",
+      "gender": "m",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67171,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 749958.88,
+          "capitalIncome": 731208.96,
+          "salary": 18749.92,
+          "rank": 1753,
+          "rankOfLastYear": 1753,
+          "paidTaxes": 247003.19,
+          "taxRatio": 32.93556441387827,
+          "personId": "1981Ilomäki Juuso Heikki Petteri",
+          "fragmentId": "20241981Ilom-ki_Juuso_Heikki_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Lehtimäki Tero Petteri",
+      "id": "1976Lehtimäki Tero Petteri",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61481,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 477744.56,
+          "capitalIncome": 416282.85,
+          "salary": 61461.71,
+          "rank": 3457,
+          "rankOfLastYear": 3457,
+          "paidTaxes": 158583.33,
+          "taxRatio": 33.19416761124396,
+          "personId": "1976Lehtimäki Tero Petteri",
+          "fragmentId": "20241976Lehtim-ki_Tero_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Viitamäki Marcus Petteri",
+      "id": "1984Viitamäki Marcus Petteri",
+      "gender": "m",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1706,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 432429.24,
+          "capitalIncome": 44680.8,
+          "salary": 387748.44,
+          "rank": 4086,
+          "rankOfLastYear": 4086,
+          "paidTaxes": 190952.5,
+          "taxRatio": 44.1580916221114,
+          "personId": "1984Viitamäki Marcus Petteri",
+          "fragmentId": "20241984Viitam-ki_Marcus_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Riihimäki Kalle Veli Petteri",
+      "id": "1981Riihimäki Kalle Veli Petteri",
+      "birthYear": 1981,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1825,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 379068.48,
+          "capitalIncome": 0,
+          "salary": 379068.48,
+          "rank": 5156,
+          "rankOfLastYear": 5156,
+          "paidTaxes": 196951.28,
+          "taxRatio": 51.95664909939228,
+          "personId": "1981Riihimäki Kalle Veli Petteri",
+          "fragmentId": "20241981Riihim-ki_Kalle_Veli_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Sami Petteri",
+      "id": "1978Mäkinen Sami Petteri",
+      "birthYear": 1978,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54452,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 333456.67000000004,
+          "capitalIncome": 230649.89,
+          "salary": 102806.78,
+          "rank": 6420,
+          "rankOfLastYear": 6420,
+          "paidTaxes": 115707.65,
+          "taxRatio": 34.69945585433933,
+          "personId": "1978Mäkinen Sami Petteri",
+          "fragmentId": "20241978M-kinen_Sami_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Pienimäki Tomi Petteri",
+      "id": "1973Pienimäki Tomi Petteri",
+      "gender": "m",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2917,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 313390.32,
+          "capitalIncome": 0,
+          "salary": 313390.32,
+          "rank": 7213,
+          "rankOfLastYear": 7213,
+          "paidTaxes": 144278.29,
+          "taxRatio": 46.03788974720087,
+          "personId": "1973Pienimäki Tomi Petteri",
+          "fragmentId": "20241973Pienim-ki_Tomi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäki Mikko Petteri",
+      "id": "1973Mäki Mikko Petteri",
+      "gender": "m",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4183,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 311744.88,
+          "capitalIncome": 36433.84,
+          "salary": 275311.04,
+          "rank": 7280,
+          "rankOfLastYear": 7280,
+          "paidTaxes": 131193.05,
+          "taxRatio": 42.08346581345618,
+          "personId": "1973Mäki Mikko Petteri",
+          "fragmentId": "20241973M-ki_Mikko_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Järvimäki Marko Juha Petteri",
+      "id": "1972Järvimäki Marko Juha Petteri",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19224,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 272047.96,
+          "capitalIncome": 108633.11,
+          "salary": 163414.85,
+          "rank": 9564,
+          "rankOfLastYear": 9564,
+          "paidTaxes": 105889.29,
+          "taxRatio": 38.923022984623735,
+          "personId": "1972Järvimäki Marko Juha Petteri",
+          "fragmentId": "20241972J-rvim-ki_Marko_Juha_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Iiskonmäki Tommi Petteri",
+      "id": "1977Iiskonmäki Tommi Petteri",
+      "birthYear": 1977,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6475,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 249838.26,
+          "capitalIncome": 14458.79,
+          "salary": 235379.47,
+          "rank": 11445,
+          "rankOfLastYear": 11445,
+          "paidTaxes": 114021.11,
+          "taxRatio": 45.63796994103305,
+          "personId": "1977Iiskonmäki Tommi Petteri",
+          "fragmentId": "20241977Iiskonm-ki_Tommi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Jousmäki Jussi Petteri",
+      "id": "1974Jousmäki Jussi Petteri",
+      "birthYear": 1974,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62323,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 242135.05,
+          "capitalIncome": 185937.78,
+          "salary": 56197.27,
+          "rank": 12274,
+          "rankOfLastYear": 12274,
+          "paidTaxes": 78205.2,
+          "taxRatio": 32.29817409747164,
+          "personId": "1974Jousmäki Jussi Petteri",
+          "fragmentId": "20241974Jousm-ki_Jussi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Ville Petteri",
+      "id": "1991Mäkinen Ville Petteri",
+      "birthYear": 1991,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7049,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 233841.48,
+          "capitalIncome": 5251.17,
+          "salary": 228590.31,
+          "rank": 13215,
+          "rankOfLastYear": 13215,
+          "paidTaxes": 100219.11,
+          "taxRatio": 42.85771284033953,
+          "personId": "1991Mäkinen Ville Petteri",
+          "fragmentId": "20241991M-kinen_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Peltomäki Juho Petteri",
+      "id": "1985Peltomäki Juho Petteri",
+      "gender": "m",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49287,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 222747.32,
+          "capitalIncome": 103541.65,
+          "salary": 119205.67,
+          "rank": 14722,
+          "rankOfLastYear": 14722,
+          "paidTaxes": 79076.91,
+          "taxRatio": 35.50072342060053,
+          "personId": "1985Peltomäki Juho Petteri",
+          "fragmentId": "20241985Peltom-ki_Juho_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Iiro Petteri",
+      "id": "1983Mäkinen Iiro Petteri",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8909,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 211603.04,
+          "capitalIncome": 606.42,
+          "salary": 210996.62,
+          "rank": 16670,
+          "rankOfLastYear": 16670,
+          "paidTaxes": 90571.74,
+          "taxRatio": 42.802664838841636,
+          "personId": "1983Mäkinen Iiro Petteri",
+          "fragmentId": "20241983M-kinen_Iiro_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Mika Petteri",
+      "id": "1970Mäkinen Mika Petteri",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17459,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 209139.12,
+          "capitalIncome": 40159.9,
+          "salary": 168979.22,
+          "rank": 17118,
+          "rankOfLastYear": 17118,
+          "paidTaxes": 82327.8,
+          "taxRatio": 39.36508865486285,
+          "personId": "1970Mäkinen Mika Petteri",
+          "fragmentId": "20241970M-kinen_Mika_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Simo Petteri",
+      "id": "1975Mäkinen Simo Petteri",
+      "birthYear": 1975,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10683,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 208836.08,
+          "capitalIncome": 10281.46,
+          "salary": 198554.62,
+          "rank": 17175,
+          "rankOfLastYear": 17175,
+          "paidTaxes": 93251.65,
+          "taxRatio": 44.653036007954185,
+          "personId": "1975Mäkinen Simo Petteri",
+          "fragmentId": "20241975M-kinen_Simo_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Niittymäki Jarkko Petteri",
+      "id": "1968Niittymäki Jarkko Petteri",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10867,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 197442.37,
+          "capitalIncome": 0,
+          "salary": 197442.37,
+          "rank": 19600,
+          "rankOfLastYear": 19600,
+          "paidTaxes": 85253.95,
+          "taxRatio": 43.179156530586624,
+          "personId": "1968Niittymäki Jarkko Petteri",
+          "fragmentId": "20241968Niittym-ki_Jarkko_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Hirsimäki Joni Henry Petteri",
+      "id": "1988Hirsimäki Joni Henry Petteri",
+      "birthYear": 1988,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11493,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 193925.13,
+          "capitalIncome": 0,
+          "salary": 193925.13,
+          "rank": 20476,
+          "rankOfLastYear": 20476,
+          "paidTaxes": 91298.27,
+          "taxRatio": 47.079133065425815,
+          "personId": "1988Hirsimäki Joni Henry Petteri",
+          "fragmentId": "20241988Hirsim-ki_Joni_Henry_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Pihlajamäki Olli Petteri",
+      "id": "1974Pihlajamäki Olli Petteri",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13065,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 187450.82,
+          "capitalIncome": 1575.37,
+          "salary": 185875.45,
+          "rank": 22236,
+          "rankOfLastYear": 22236,
+          "paidTaxes": 78687.76,
+          "taxRatio": 41.977815834574635,
+          "personId": "1974Pihlajamäki Olli Petteri",
+          "fragmentId": "20241974Pihlajam-ki_Olli_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Sami Petteri",
+      "id": "1992Mäkinen Sami Petteri",
+      "birthYear": 1992,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12755,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 187251,
+          "capitalIncome": 0,
+          "salary": 187251,
+          "rank": 22297,
+          "rankOfLastYear": 22297,
+          "paidTaxes": 93708.44,
+          "taxRatio": 50.04429348841929,
+          "personId": "1992Mäkinen Sami Petteri",
+          "fragmentId": "20241992M-kinen_Sami_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Ristamäki Toni Petteri",
+      "id": "1977Ristamäki Toni Petteri",
+      "birthYear": 1977,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14943,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 178218.13,
+          "capitalIncome": 330.72,
+          "salary": 177887.41,
+          "rank": 25223,
+          "rankOfLastYear": 25223,
+          "paidTaxes": 75426.09,
+          "taxRatio": 42.32234397252401,
+          "personId": "1977Ristamäki Toni Petteri",
+          "fragmentId": "20241977Ristam-ki_Toni_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Ville-Petteri Juhani",
+      "id": "1980Mäkinen Ville-Petteri Juhani",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14916,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 177979.84,
+          "capitalIncome": 0,
+          "salary": 177979.84,
+          "rank": 25307,
+          "rankOfLastYear": 25307,
+          "paidTaxes": 72206.1,
+          "taxRatio": 40.569819593050546,
+          "personId": "1980Mäkinen Ville-Petteri Juhani",
+          "fragmentId": "20241980M-kinen_Ville-Petteri_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Vastamäki Teemu Petteri",
+      "id": "1985Vastamäki Teemu Petteri",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27956,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 169632.06,
+          "capitalIncome": 25780.12,
+          "salary": 143851.94,
+          "rank": 28525,
+          "rankOfLastYear": 28525,
+          "paidTaxes": 65732.97,
+          "taxRatio": 38.750322315251026,
+          "personId": "1985Vastamäki Teemu Petteri",
+          "fragmentId": "20241985Vastam-ki_Teemu_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Rami Petteri",
+      "id": "1968Mäkinen Rami Petteri",
+      "birthYear": 1968,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58491,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 169543.11,
+          "capitalIncome": 88979,
+          "salary": 80564.11,
+          "rank": 28566,
+          "rankOfLastYear": 28566,
+          "paidTaxes": 58474.58,
+          "taxRatio": 34.48950535353516,
+          "personId": "1968Mäkinen Rami Petteri",
+          "fragmentId": "20241968M-kinen_Rami_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Palomäki Juha Petteri",
+      "id": "1960Palomäki Juha Petteri",
+      "birthYear": 1960,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26273,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 166582.88,
+          "capitalIncome": 19625.6,
+          "salary": 146957.28,
+          "rank": 29800,
+          "rankOfLastYear": 29800,
+          "paidTaxes": 70639.97,
+          "taxRatio": 42.40529999241219,
+          "personId": "1960Palomäki Juha Petteri",
+          "fragmentId": "20241960Palom-ki_Juha_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Lähteenmäki Ville Petteri",
+      "id": "1989Lähteenmäki Ville Petteri",
+      "birthYear": 1989,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18387,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 165993.75,
+          "capitalIncome": 0,
+          "salary": 165993.75,
+          "rank": 30062,
+          "rankOfLastYear": 30062,
+          "paidTaxes": 73265.13,
+          "taxRatio": 44.137282277194174,
+          "personId": "1989Lähteenmäki Ville Petteri",
+          "fragmentId": "20241989L-hteenm-ki_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkilä Atro Petteri",
+      "id": "1967Mäkilä Atro Petteri",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19314,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 163456.81000000003,
+          "capitalIncome": 291.89,
+          "salary": 163164.92,
+          "rank": 31202,
+          "rankOfLastYear": 31202,
+          "paidTaxes": 66327.66,
+          "taxRatio": 40.578095216711986,
+          "personId": "1967Mäkilä Atro Petteri",
+          "fragmentId": "20241967M-kil-_Atro_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Kivimäki Riku Petteri",
+      "id": "1988Kivimäki Riku Petteri",
+      "birthYear": 1988,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19239,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 163379.93,
+          "capitalIncome": 0,
+          "salary": 163379.93,
+          "rank": 31229,
+          "rankOfLastYear": 31229,
+          "paidTaxes": 68895.98,
+          "taxRatio": 42.169181979696035,
+          "personId": "1988Kivimäki Riku Petteri",
+          "fragmentId": "20241988Kivim-ki_Riku_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Myllymäki Jani Petteri",
+      "id": "1976Myllymäki Jani Petteri",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20177,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 160595.46,
+          "capitalIncome": 45.3,
+          "salary": 160550.16,
+          "rank": 32570,
+          "rankOfLastYear": 32570,
+          "paidTaxes": 66864.34,
+          "taxRatio": 41.63526166929003,
+          "personId": "1976Myllymäki Jani Petteri",
+          "fragmentId": "20241976Myllym-ki_Jani_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Kuoppamäki Pasi Petteri",
+      "id": "1970Kuoppamäki Pasi Petteri",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26206,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 152741.07,
+          "capitalIncome": 5624.32,
+          "salary": 147116.75,
+          "rank": 37046,
+          "rankOfLastYear": 37046,
+          "paidTaxes": 61226.6,
+          "taxRatio": 40.08522396759431,
+          "personId": "1970Kuoppamäki Pasi Petteri",
+          "fragmentId": "20241970Kuoppam-ki_Pasi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Uusimäki Kimmo Petteri",
+      "id": "1968Uusimäki Kimmo Petteri",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24197,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 151026.44,
+          "capitalIncome": 0,
+          "salary": 151026.44,
+          "rank": 38185,
+          "rankOfLastYear": 38185,
+          "paidTaxes": 65139.37,
+          "taxRatio": 43.131103401497114,
+          "personId": "1968Uusimäki Kimmo Petteri",
+          "fragmentId": "20241968Uusim-ki_Kimmo_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Toni Tuomas Petteri",
+      "id": "1979Mäkinen Toni Tuomas Petteri",
+      "birthYear": 1979,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32294,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 149338.07,
+          "capitalIncome": 12133,
+          "salary": 137205.07,
+          "rank": 39262,
+          "rankOfLastYear": 39262,
+          "paidTaxes": 61435.22,
+          "taxRatio": 41.13835139291675,
+          "personId": "1979Mäkinen Toni Tuomas Petteri",
+          "fragmentId": "20241979M-kinen_Toni_Tuomas_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Veitonmäki Harri Petteri",
+      "id": "1965Veitonmäki Harri Petteri",
+      "birthYear": 1965,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58318,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 146321.45,
+          "capitalIncome": 64700.85,
+          "salary": 81620.6,
+          "rank": 41409,
+          "rankOfLastYear": 41409,
+          "paidTaxes": 47448.76,
+          "taxRatio": 32.42775409893765,
+          "personId": "1965Veitonmäki Harri Petteri",
+          "fragmentId": "20241965Veitonm-ki_Harri_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Hautamäki Mikko Petteri",
+      "id": "1974Hautamäki Mikko Petteri",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32759,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 143889.66,
+          "capitalIncome": 7278.75,
+          "salary": 136610.91,
+          "rank": 43246,
+          "rankOfLastYear": 43246,
+          "paidTaxes": 53054.48,
+          "taxRatio": 36.87164178440619,
+          "personId": "1974Hautamäki Mikko Petteri",
+          "fragmentId": "20241974Hautam-ki_Mikko_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkitalo Jorma Petteri",
+      "id": "1961Mäkitalo Jorma Petteri",
+      "birthYear": 1961,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38285,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 143279.85,
+          "capitalIncome": 13521.95,
+          "salary": 129757.9,
+          "rank": 43739,
+          "rankOfLastYear": 43739,
+          "paidTaxes": 58670.78,
+          "taxRatio": 40.948381785715156,
+          "personId": "1961Mäkitalo Jorma Petteri",
+          "fragmentId": "20241961M-kitalo_Jorma_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Uusimäki Jukka-Petteri",
+      "id": "1977Uusimäki Jukka-Petteri",
+      "birthYear": 1977,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34405,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 142208.66,
+          "capitalIncome": 7824.17,
+          "salary": 134384.49,
+          "rank": 44624,
+          "rankOfLastYear": 44624,
+          "paidTaxes": 57451.61,
+          "taxRatio": 40.399515753822584,
+          "personId": "1977Uusimäki Jukka-Petteri",
+          "fragmentId": "20241977Uusim-ki_Jukka-Petteri"
+        }
+      }
+    },
+    {
+      "name": "Pitkämäki Mika Petteri",
+      "id": "1969Pitkämäki Mika Petteri",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49319,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Lappi",
+          "totalIncome": 141947.31,
+          "capitalIncome": 22785.21,
+          "salary": 119162.1,
+          "rank": 44832,
+          "rankOfLastYear": 44832,
+          "paidTaxes": 56779.58,
+          "taxRatio": 40.00046214331219,
+          "personId": "1969Pitkämäki Mika Petteri",
+          "fragmentId": "20241969Pitk-m-ki_Mika_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Jussi Petteri",
+      "id": "1980Mäkinen Jussi Petteri",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29835,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 140837.92,
+          "capitalIncome": 0,
+          "salary": 140837.92,
+          "rank": 45758,
+          "rankOfLastYear": 45758,
+          "paidTaxes": 55197.33,
+          "taxRatio": 39.19209400422841,
+          "personId": "1980Mäkinen Jussi Petteri",
+          "fragmentId": "20241980M-kinen_Jussi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Koivumäki Jouni Petteri",
+      "id": "1973Koivumäki Jouni Petteri",
+      "birthYear": 1973,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30426,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 139931.1,
+          "capitalIncome": 0,
+          "salary": 139931.1,
+          "rank": 46538,
+          "rankOfLastYear": 46538,
+          "paidTaxes": 60232.34,
+          "taxRatio": 43.04428393688036,
+          "personId": "1973Koivumäki Jouni Petteri",
+          "fragmentId": "20241973Koivum-ki_Jouni_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Jari Petteri",
+      "id": "1976Mäkinen Jari Petteri",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51928,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 139486.64,
+          "capitalIncome": 26680.72,
+          "salary": 112805.92,
+          "rank": 46940,
+          "rankOfLastYear": 46940,
+          "paidTaxes": 52221.79,
+          "taxRatio": 37.4385604241381,
+          "personId": "1976Mäkinen Jari Petteri",
+          "fragmentId": "20241976M-kinen_Jari_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Tikkamäki Janne Petteri",
+      "id": "1967Tikkamäki Janne Petteri",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31062,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 139264.47,
+          "capitalIncome": 285,
+          "salary": 138979.47,
+          "rank": 47132,
+          "rankOfLastYear": 47132,
+          "paidTaxes": 60178.75,
+          "taxRatio": 43.211847214153046,
+          "personId": "1967Tikkamäki Janne Petteri",
+          "fragmentId": "20241967Tikkam-ki_Janne_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Kivimäki Juha Petteri",
+      "id": "1987Kivimäki Juha Petteri",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52972,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 137043.03999999998,
+          "capitalIncome": 28000.75,
+          "salary": 109042.29,
+          "rank": 49202,
+          "rankOfLastYear": 49202,
+          "paidTaxes": 48407.99,
+          "taxRatio": 35.32320211227072,
+          "personId": "1987Kivimäki Juha Petteri",
+          "fragmentId": "20241987Kivim-ki_Juha_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Kuusimäki Tomi Reijo Petteri",
+      "id": "1987Kuusimäki Tomi Reijo Petteri",
+      "birthYear": 1987,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33189,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 136060.81,
+          "capitalIncome": 0,
+          "salary": 136060.81,
+          "rank": 50149,
+          "rankOfLastYear": 50149,
+          "paidTaxes": 54921.36,
+          "taxRatio": 40.36530430768419,
+          "personId": "1987Kuusimäki Tomi Reijo Petteri",
+          "fragmentId": "20241987Kuusim-ki_Tomi_Reijo_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Lehtimäki Joonas Petteri",
+      "id": "1988Lehtimäki Joonas Petteri",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36446,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 131891.8,
+          "capitalIncome": 0,
+          "salary": 131891.8,
+          "rank": 54361,
+          "rankOfLastYear": 54361,
+          "paidTaxes": 54465.2,
+          "taxRatio": 41.29536483693452,
+          "personId": "1988Lehtimäki Joonas Petteri",
+          "fragmentId": "20241988Lehtim-ki_Joonas_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Rantamäki Kimmo Petteri",
+      "id": "1977Rantamäki Kimmo Petteri",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36467,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 131863.99,
+          "capitalIncome": 2.63,
+          "salary": 131861.36,
+          "rank": 54391,
+          "rankOfLastYear": 54391,
+          "paidTaxes": 48418.5,
+          "taxRatio": 36.718515797982455,
+          "personId": "1977Rantamäki Kimmo Petteri",
+          "fragmentId": "20241977Rantam-ki_Kimmo_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Vähämäki Ville Petteri",
+      "id": "1979Vähämäki Ville Petteri",
+      "birthYear": 1979,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55023,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 131139.73,
+          "capitalIncome": 31043.99,
+          "salary": 100095.74,
+          "rank": 55162,
+          "rankOfLastYear": 55162,
+          "paidTaxes": 47508.27,
+          "taxRatio": 36.227213522553384,
+          "personId": "1979Vähämäki Ville Petteri",
+          "fragmentId": "20241979V-h-m-ki_Ville_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Ihamäki Jukka Petteri",
+      "id": "1987Ihamäki Jukka Petteri",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37874,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130243.65,
+          "capitalIncome": 0,
+          "salary": 130243.65,
+          "rank": 56217,
+          "rankOfLastYear": 56217,
+          "paidTaxes": 49852.44,
+          "taxRatio": 38.27629216472358,
+          "personId": "1987Ihamäki Jukka Petteri",
+          "fragmentId": "20241987Iham-ki_Jukka_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Erkki Mikko Petteri",
+      "id": "1967Mäkinen Erkki Mikko Petteri",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47029,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128651.81999999999,
+          "capitalIncome": 7214.28,
+          "salary": 121437.54,
+          "rank": 58101,
+          "rankOfLastYear": 58101,
+          "paidTaxes": 48914.64,
+          "taxRatio": 38.02094676935002,
+          "personId": "1967Mäkinen Erkki Mikko Petteri",
+          "fragmentId": "20241967M-kinen_Erkki_Mikko_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Ristimäki Pasi Petteri",
+      "id": "1971Ristimäki Pasi Petteri",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51205,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128006.51,
+          "capitalIncome": 13063.56,
+          "salary": 114942.95,
+          "rank": 58873,
+          "rankOfLastYear": 58873,
+          "paidTaxes": 50047.64,
+          "taxRatio": 39.097730263874865,
+          "personId": "1971Ristimäki Pasi Petteri",
+          "fragmentId": "20241971Ristim-ki_Pasi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Siljamäki Janne-Petteri",
+      "id": "1970Siljamäki Janne-Petteri",
+      "birthYear": 1970,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44723,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 123403.81,
+          "capitalIncome": 0,
+          "salary": 123403.81,
+          "rank": 65097,
+          "rankOfLastYear": 65097,
+          "paidTaxes": 50104.5,
+          "taxRatio": 40.6020689312591,
+          "personId": "1970Siljamäki Janne-Petteri",
+          "fragmentId": "20241970Siljam-ki_Janne-Petteri"
+        }
+      }
+    },
+    {
+      "name": "Hirsimäki Petteri Tuomas",
+      "id": "1980Hirsimäki Petteri Tuomas",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45424,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122801.62,
+          "capitalIncome": 0,
+          "salary": 122801.62,
+          "rank": 65988,
+          "rankOfLastYear": 65988,
+          "paidTaxes": 49080.3,
+          "taxRatio": 39.96714375592114,
+          "personId": "1980Hirsimäki Petteri Tuomas",
+          "fragmentId": "20241980Hirsim-ki_Petteri_Tuomas"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Markus Petteri",
+      "id": "1972Mäkinen Markus Petteri",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45426,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122799.25,
+          "capitalIncome": 0,
+          "salary": 122799.25,
+          "rank": 65991,
+          "rankOfLastYear": 65991,
+          "paidTaxes": 47055,
+          "taxRatio": 38.31863793956396,
+          "personId": "1972Mäkinen Markus Petteri",
+          "fragmentId": "20241972M-kinen_Markus_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Myllymäki Sami Petteri",
+      "id": "1976Myllymäki Sami Petteri",
+      "birthYear": 1976,
+      "lastCounty": "Keski-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53197,
+          "taxYear": 2024,
+          "county": "Keski-Pohjanmaa",
+          "totalIncome": 121469.56,
+          "capitalIncome": 13268.9,
+          "salary": 108200.66,
+          "rank": 67889,
+          "rankOfLastYear": 67889,
+          "paidTaxes": 44464.9,
+          "taxRatio": 36.605796546887966,
+          "personId": "1976Myllymäki Sami Petteri",
+          "fragmentId": "20241976Myllym-ki_Sami_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Multamäki Tuomas Petteri",
+      "id": "1973Multamäki Tuomas Petteri",
+      "birthYear": 1973,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52508,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 120155.62000000001,
+          "capitalIncome": 9378.52,
+          "salary": 110777.1,
+          "rank": 69976,
+          "rankOfLastYear": 69976,
+          "paidTaxes": 41760.55,
+          "taxRatio": 34.75538638975023,
+          "personId": "1973Multamäki Tuomas Petteri",
+          "fragmentId": "20241973Multam-ki_Tuomas_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 55,
+  "totResults": 55
+}

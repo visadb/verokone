@@ -1,0 +1,186 @@
+{
+  "results": [
+    {
+      "name": "Nurminen Mikko Sakari",
+      "id": "1974Nurminen Mikko Sakari",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17441,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 173711.02000000002,
+          "capitalIncome": 4668.35,
+          "salary": 169042.67,
+          "rank": 26900,
+          "rankOfLastYear": 26900,
+          "paidTaxes": 72172.26,
+          "taxRatio": 41.5473123121377,
+          "personId": "1974Nurminen Mikko Sakari",
+          "fragmentId": "20241974Nurminen_Mikko_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Nurminen Mikko Pekka",
+      "id": "1980Nurminen Mikko Pekka",
+      "gender": "m",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65961,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 161577.74,
+          "capitalIncome": 131683.9,
+          "salary": 29893.84,
+          "rank": 32109,
+          "rankOfLastYear": 32109,
+          "paidTaxes": 46049.67,
+          "taxRatio": 28.500008726449572,
+          "personId": "1980Nurminen Mikko Pekka",
+          "fragmentId": "20241980Nurminen_Mikko_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Nurmi Mikko Tapio",
+      "id": "1975Nurmi Mikko Tapio",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27072,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147538.46,
+          "capitalIncome": 2086.77,
+          "salary": 145451.69,
+          "rank": 40505,
+          "rankOfLastYear": 40505,
+          "paidTaxes": 58134.22,
+          "taxRatio": 39.402756406702366,
+          "personId": "1975Nurmi Mikko Tapio",
+          "fragmentId": "20241975Nurmi_Mikko_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Nurmi Mikko Antero",
+      "id": "1977Nurmi Mikko Antero",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38609,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 138421.82,
+          "capitalIncome": 9013.92,
+          "salary": 129407.9,
+          "rank": 47917,
+          "rankOfLastYear": 47917,
+          "paidTaxes": 50358.33,
+          "taxRatio": 36.380340902901004,
+          "personId": "1977Nurmi Mikko Antero",
+          "fragmentId": "20241977Nurmi_Mikko_Antero"
+        }
+      }
+    },
+    {
+      "name": "Nurmimäki Mikko Ilmari",
+      "id": "1973Nurmimäki Mikko Ilmari",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34351,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 136229.25999999998,
+          "capitalIncome": 1758.8,
+          "salary": 134470.46,
+          "rank": 49987,
+          "rankOfLastYear": 49987,
+          "paidTaxes": 53709.16,
+          "taxRatio": 39.425568339723796,
+          "personId": "1973Nurmimäki Mikko Ilmari",
+          "fragmentId": "20241973Nurmim-ki_Mikko_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Nurminen Mikko Santeri",
+      "id": "1963Nurminen Mikko Santeri",
+      "birthYear": 1963,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34365,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 134443.11,
+          "capitalIncome": 0,
+          "salary": 134443.11,
+          "rank": 51710,
+          "rankOfLastYear": 51710,
+          "paidTaxes": 56853.11,
+          "taxRatio": 42.28785692327409,
+          "personId": "1963Nurminen Mikko Santeri",
+          "fragmentId": "20241963Nurminen_Mikko_Santeri"
+        }
+      }
+    },
+    {
+      "name": "Nurmi Mikko Johannes",
+      "id": "1972Nurmi Mikko Johannes",
+      "birthYear": 1972,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39587,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 128371.76,
+          "capitalIncome": 0,
+          "salary": 128371.76,
+          "rank": 58452,
+          "rankOfLastYear": 58452,
+          "paidTaxes": 51461.06,
+          "taxRatio": 40.087523922706986,
+          "personId": "1972Nurmi Mikko Johannes",
+          "fragmentId": "20241972Nurmi_Mikko_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ahola Maria Tellervo",
+      "id": "1984Ahola Maria Tellervo",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19536,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 162764.36000000002,
+          "capitalIncome": 286.88,
+          "salary": 162477.48,
+          "rank": 31536,
+          "rankOfLastYear": 31536,
+          "paidTaxes": 61926.4,
+          "taxRatio": 38.046658371648434,
+          "personId": "1984Ahola Maria Tellervo",
+          "fragmentId": "20241984Ahola_Maria_Tellervo"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

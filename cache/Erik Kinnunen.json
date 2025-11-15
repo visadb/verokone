@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Kinnunen Eerik Antero",
+      "id": "1969Kinnunen Eerik Antero",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35054,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 134386.94,
+          "capitalIncome": 830.93,
+          "salary": 133556.01,
+          "rank": 51770,
+          "rankOfLastYear": 51770,
+          "paidTaxes": 51883.52,
+          "taxRatio": 38.60756112163875,
+          "personId": "1969Kinnunen Eerik Antero",
+          "fragmentId": "20241969Kinnunen_Eerik_Antero"
+        }
+      }
+    },
+    {
+      "name": "Kinnunen Henri Erik",
+      "id": "1985Kinnunen Henri Erik",
+      "birthYear": 1985,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35878,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 133495.47,
+          "capitalIncome": 921.67,
+          "salary": 132573.8,
+          "rank": 52719,
+          "rankOfLastYear": 52719,
+          "paidTaxes": 51211.61,
+          "taxRatio": 38.362058278082394,
+          "personId": "1985Kinnunen Henri Erik",
+          "fragmentId": "20241985Kinnunen_Henri_Erik"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

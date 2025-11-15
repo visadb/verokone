@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Hellsten Janne Johannes",
+      "id": "1977Hellsten Janne Johannes",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 2775713.04,
+          "capitalIncome": 23734.41,
+          "salary": 2751978.63,
+          "rank": 237,
+          "rankOfLastYear": 237,
+          "paidTaxes": 1385306.14,
+          "taxRatio": 49.90811802361241,
+          "personId": "1977Hellsten Janne Johannes",
+          "fragmentId": "20241977Hellsten_Janne_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

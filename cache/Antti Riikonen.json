@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Riikonen Antti Sakari",
+      "id": "1987Riikonen Antti Sakari",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3953,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 280491.81,
+          "capitalIncome": 0,
+          "salary": 280491.81,
+          "rank": 8986,
+          "rankOfLastYear": 8986,
+          "paidTaxes": 118132.76,
+          "taxRatio": 42.116295659399114,
+          "personId": "1987Riikonen Antti Sakari",
+          "fragmentId": "20241987Riikonen_Antti_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Riikonen Antti Emil kuolinpesä",
+      "id": "1919Riikonen Antti Emil kuolinpesä",
+      "birthYear": 1919,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69743,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 158146.3,
+          "capitalIncome": 158146.3,
+          "salary": 0,
+          "rank": 33890,
+          "rankOfLastYear": 33890,
+          "paidTaxes": 52569.74,
+          "taxRatio": 33.24120766657203,
+          "personId": "1919Riikonen Antti Emil kuolinpesä",
+          "fragmentId": "20241919Riikonen_Antti_Emil_kuolinpes-"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

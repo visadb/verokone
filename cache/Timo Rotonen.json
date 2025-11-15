@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Rotonen Timo Tapani",
+      "id": "1959Rotonen Timo Tapani",
+      "birthYear": 1959,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39830,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 136518.41,
+          "capitalIncome": 8412.5,
+          "salary": 128105.91,
+          "rank": 49681,
+          "rankOfLastYear": 49681,
+          "paidTaxes": 55989.08,
+          "taxRatio": 41.012109648801214,
+          "personId": "1959Rotonen Timo Tapani",
+          "fragmentId": "20241959Rotonen_Timo_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

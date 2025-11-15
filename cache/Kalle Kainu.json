@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Kainu Kalle Mikael",
+      "id": "1972Kainu Kalle Mikael",
+      "gender": "m",
+      "birthYear": 1972,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20947,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 1217737.74,
+          "capitalIncome": 1059228.52,
+          "salary": 158509.22,
+          "rank": 849,
+          "rankOfLastYear": 849,
+          "paidTaxes": 426836.87,
+          "taxRatio": 35.05162531958646,
+          "personId": "1972Kainu Kalle Mikael",
+          "fragmentId": "20241972Kainu_Kalle_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Kainulainen Esa Kalle Johannes",
+      "id": "1975Kainulainen Esa Kalle Johannes",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24130,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 151729.93,
+          "capitalIncome": 560.9,
+          "salary": 151169.03,
+          "rank": 37720,
+          "rankOfLastYear": 37720,
+          "paidTaxes": 59621.25,
+          "taxRatio": 39.29432380282519,
+          "personId": "1975Kainulainen Esa Kalle Johannes",
+          "fragmentId": "20241975Kainulainen_Esa_Kalle_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "name": "Laine Sami Juha-Pekka",
+      "id": "1982Laine Sami Juha-Pekka",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54862,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 177855.18,
+          "capitalIncome": 77046.95,
+          "salary": 100808.23,
+          "rank": 25346,
+          "rankOfLastYear": 25346,
+          "paidTaxes": 61019.35,
+          "taxRatio": 34.30844690607268,
+          "personId": "1982Laine Sami Juha-Pekka",
+          "fragmentId": "20241982Laine_Sami_Juha-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Lappalainen Juha-Pekka",
+      "id": "1987Lappalainen Juha-Pekka",
+      "birthYear": 1987,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63988,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 170988.84,
+          "capitalIncome": 126320.45,
+          "salary": 44668.39,
+          "rank": 27973,
+          "rankOfLastYear": 27973,
+          "paidTaxes": 55337.11,
+          "taxRatio": 32.36299515219824,
+          "personId": "1987Lappalainen Juha-Pekka",
+          "fragmentId": "20241987Lappalainen_Juha-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Ruotsalainen Arto Juha-Pekka",
+      "id": "1987Ruotsalainen Arto Juha-Pekka",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18816,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 164693.75,
+          "capitalIncome": 0,
+          "salary": 164693.75,
+          "rank": 30643,
+          "rankOfLastYear": 30643,
+          "paidTaxes": 67012.44,
+          "taxRatio": 40.689121475465825,
+          "personId": "1987Ruotsalainen Arto Juha-Pekka",
+          "fragmentId": "20241987Ruotsalainen_Arto_Juha-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Lappalainen Juha-Pekka",
+      "id": "1965Lappalainen Juha-Pekka",
+      "gender": "m",
+      "birthYear": 1965,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49244,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 125643.69,
+          "capitalIncome": 6382.78,
+          "salary": 119260.91,
+          "rank": 61911,
+          "rankOfLastYear": 61911,
+          "paidTaxes": 50002.07,
+          "taxRatio": 39.796721984207885,
+          "personId": "1965Lappalainen Juha-Pekka",
+          "fragmentId": "20241965Lappalainen_Juha-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Kainulainen Juha-Pekka Antero",
+      "id": "1966Kainulainen Juha-Pekka Antero",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47718,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120885.05,
+          "capitalIncome": 0,
+          "salary": 120885.05,
+          "rank": 68859,
+          "rankOfLastYear": 68859,
+          "paidTaxes": 43951.49,
+          "taxRatio": 36.358085635899556,
+          "personId": "1966Kainulainen Juha-Pekka Antero",
+          "fragmentId": "20241966Kainulainen_Juha-Pekka_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 5,
+  "totResults": 5
+}

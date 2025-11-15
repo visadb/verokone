@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Aschan Peik Petter Lennart",
+      "id": "1975Aschan Peik Petter Lennart",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52743,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120670.62000000001,
+          "capitalIncome": 10749.27,
+          "salary": 109921.35,
+          "rank": 69190,
+          "rankOfLastYear": 69190,
+          "paidTaxes": 42549.52,
+          "taxRatio": 35.26087791709365,
+          "personId": "1975Aschan Peik Petter Lennart",
+          "fragmentId": "20241975Aschan_Peik_Petter_Lennart"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

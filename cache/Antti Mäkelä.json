@@ -1,0 +1,237 @@
+{
+  "results": [
+    {
+      "name": "Mäkelä Jarkko Antti",
+      "id": "1953Mäkelä Jarkko Antti",
+      "gender": "m",
+      "birthYear": 1953,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11787,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 192276.92,
+          "capitalIncome": 0,
+          "salary": 192276.92,
+          "rank": 20918,
+          "rankOfLastYear": 20918,
+          "paidTaxes": 94666.78,
+          "taxRatio": 49.23460392438156,
+          "personId": "1953Mäkelä Jarkko Antti",
+          "fragmentId": "20241953M-kel-_Jarkko_Antti"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Kalevi",
+      "id": "1986Mäkelä Antti Kalevi",
+      "birthYear": 1986,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49297,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 175578.21000000002,
+          "capitalIncome": 56385.05,
+          "salary": 119193.16,
+          "rank": 26179,
+          "paidTaxes": 65823.98,
+          "taxRatio": 37.4898343023317,
+          "personId": "1986Mäkelä Antti Kalevi",
+          "fragmentId": "20241986M-kel-_Antti_Kalevi"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Ilmari",
+      "id": "1982Mäkelä Antti Ilmari",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20019,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 168145.13,
+          "capitalIncome": 7151.23,
+          "salary": 160993.9,
+          "rank": 29131,
+          "rankOfLastYear": 29131,
+          "paidTaxes": 70522.18,
+          "taxRatio": 41.94125634206593,
+          "personId": "1982Mäkelä Antti Ilmari",
+          "fragmentId": "20241982M-kel-_Antti_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Tapani",
+      "id": "1977Mäkelä Antti Tapani",
+      "birthYear": 1977,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20068,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 160884.84,
+          "capitalIncome": 0,
+          "salary": 160884.84,
+          "rank": 32425,
+          "rankOfLastYear": 32425,
+          "paidTaxes": 67375.3,
+          "taxRatio": 41.87796687369674,
+          "personId": "1977Mäkelä Antti Tapani",
+          "fragmentId": "20241977M-kel-_Antti_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Olavi",
+      "id": "1983Mäkelä Antti Olavi",
+      "birthYear": 1983,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20762,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 158984.23,
+          "capitalIncome": 0,
+          "salary": 158984.23,
+          "rank": 33431,
+          "rankOfLastYear": 69390,
+          "paidTaxes": 69688.21,
+          "taxRatio": 43.83341039548388,
+          "personId": "1983Mäkelä Antti Olavi",
+          "fragmentId": "20241983M-kel-_Antti_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Veli",
+      "id": "1970Mäkelä Antti Veli",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58580,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 153570.69,
+          "capitalIncome": 73546.95,
+          "salary": 80023.74,
+          "rank": 36521,
+          "rankOfLastYear": 36521,
+          "paidTaxes": 50687.01,
+          "taxRatio": 33.00565361788763,
+          "personId": "1970Mäkelä Antti Veli",
+          "fragmentId": "20241970M-kel-_Antti_Veli"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Aleksi",
+      "id": "1982Mäkelä Antti Aleksi",
+      "birthYear": 1982,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38950,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 129293.78,
+          "capitalIncome": 263.98,
+          "salary": 129029.8,
+          "rank": 57329,
+          "rankOfLastYear": 57329,
+          "paidTaxes": 53030.9,
+          "taxRatio": 41.01581684749259,
+          "personId": "1982Mäkelä Antti Aleksi",
+          "fragmentId": "20241982M-kel-_Antti_Aleksi"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Mikael",
+      "id": "1979Mäkelä Antti Mikael",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40061,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128382.32,
+          "capitalIncome": 517.1,
+          "salary": 127865.22,
+          "rank": 58441,
+          "rankOfLastYear": 58441,
+          "paidTaxes": 48822.73,
+          "taxRatio": 38.029169437037744,
+          "personId": "1979Mäkelä Antti Mikael",
+          "fragmentId": "20241979M-kel-_Antti_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Antti Juhani",
+      "id": "1952Mäkelä Antti Juhani",
+      "gender": "m",
+      "birthYear": 1952,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55795,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kymenlaakso",
+          "totalIncome": 125467.81,
+          "capitalIncome": 29292.37,
+          "salary": 96175.44,
+          "rank": 62178,
+          "rankOfLastYear": 62178,
+          "paidTaxes": 44116.56,
+          "taxRatio": 35.16165620488634,
+          "personId": "1952Mäkelä Antti Juhani",
+          "fragmentId": "20241952M-kel-_Antti_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 9,
+  "totResults": 9
+}

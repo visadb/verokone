@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ahonen Santtu Hannes Aleksi",
+      "id": "1988Ahonen Santtu Hannes Aleksi",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38829,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129169.6,
+          "capitalIncome": 0,
+          "salary": 129169.6,
+          "rank": 57487,
+          "rankOfLastYear": 57487,
+          "paidTaxes": 47120.04,
+          "taxRatio": 36.47920253681981,
+          "personId": "1988Ahonen Santtu Hannes Aleksi",
+          "fragmentId": "20241988Ahonen_Santtu_Hannes_Aleksi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

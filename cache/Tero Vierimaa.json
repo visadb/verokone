@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Vierimaa Jouko Antero",
+      "id": "1962Vierimaa Jouko Antero",
+      "birthYear": 1962,
+      "lastCounty": "Keski-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49411,
+          "taxYear": 2024,
+          "county": "Keski-Pohjanmaa",
+          "totalIncome": 123620.26,
+          "capitalIncome": 4625.01,
+          "salary": 118995.25,
+          "rank": 64785,
+          "rankOfLastYear": 64785,
+          "paidTaxes": 49609.24,
+          "taxRatio": 40.13034756600577,
+          "personId": "1962Vierimaa Jouko Antero",
+          "fragmentId": "20241962Vierimaa_Jouko_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

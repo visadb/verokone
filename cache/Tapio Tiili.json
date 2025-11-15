@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Tiilikainen Jarkko Tapio",
+      "id": "1972Tiilikainen Jarkko Tapio",
+      "gender": "m",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25413,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 156351.59,
+          "capitalIncome": 7799.31,
+          "salary": 148552.28,
+          "rank": 34895,
+          "rankOfLastYear": 34895,
+          "paidTaxes": 59167.42,
+          "taxRatio": 37.8425444857964,
+          "personId": "1972Tiilikainen Jarkko Tapio",
+          "fragmentId": "20241972Tiilikainen_Jarkko_Tapio"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

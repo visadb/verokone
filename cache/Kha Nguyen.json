@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nguyen Khac Vuong Tue",
+      "id": "1991Nguyen Khac Vuong Tue",
+      "birthYear": 1991,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63376,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 179379.08000000002,
+          "capitalIncome": 130553.47,
+          "salary": 48825.61,
+          "rank": 24847,
+          "rankOfLastYear": 24847,
+          "paidTaxes": 55313.58,
+          "taxRatio": 30.836137636562743,
+          "personId": "1991Nguyen Khac Vuong Tue",
+          "fragmentId": "20241991Nguyen_Khac_Vuong_Tue"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

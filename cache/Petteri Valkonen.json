@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "name": "Valkonen Hannu Petteri",
+      "id": "1977Valkonen Hannu Petteri",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1272,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 605462.26,
+          "capitalIncome": 167751.79,
+          "salary": 437710.47,
+          "rank": 2411,
+          "rankOfLastYear": 2411,
+          "paidTaxes": 258638.41,
+          "taxRatio": 42.717511410207464,
+          "personId": "1977Valkonen Hannu Petteri",
+          "fragmentId": "20241977Valkonen_Hannu_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Valkonen Mikko Markkus Petteri",
+      "id": "1948Valkonen Mikko Markkus Petteri",
+      "gender": "m",
+      "birthYear": 1948,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22117,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Karjala",
+          "totalIncome": 155690.68,
+          "capitalIncome": 0,
+          "salary": 155690.68,
+          "rank": 35247,
+          "rankOfLastYear": 35247,
+          "paidTaxes": 67629.41,
+          "taxRatio": 43.43831628200224,
+          "personId": "1948Valkonen Mikko Markkus Petteri",
+          "fragmentId": "20241948Valkonen_Mikko_Markkus_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

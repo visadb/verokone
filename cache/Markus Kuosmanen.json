@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kuosmanen Harri Markus",
+      "id": "1985Kuosmanen Harri Markus",
+      "birthYear": 1985,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17827,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 167782.1,
+          "capitalIncome": 0,
+          "salary": 167782.1,
+          "rank": 29281,
+          "rankOfLastYear": 29281,
+          "paidTaxes": 72085.58,
+          "taxRatio": 42.96380841579644,
+          "personId": "1985Kuosmanen Harri Markus",
+          "fragmentId": "20241985Kuosmanen_Harri_Markus"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

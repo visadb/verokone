@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "name": "Seppälä Jussi Kalle Matias",
+      "id": "1958Seppälä Jussi Kalle Matias",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52096,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Savo",
+          "totalIncome": 268091.06,
+          "capitalIncome": 155865.79,
+          "salary": 112225.27,
+          "rank": 9854,
+          "rankOfLastYear": 9854,
+          "paidTaxes": 96844.69,
+          "taxRatio": 36.123804352148106,
+          "personId": "1958Seppälä Jussi Kalle Matias",
+          "fragmentId": "20241958Sepp-l-_Jussi_Kalle_Matias"
+        }
+      }
+    },
+    {
+      "name": "Seppälä Joe Jussi Henrikki",
+      "id": "1973Seppälä Joe Jussi Henrikki",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7555,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 267811.22,
+          "capitalIncome": 44747.81,
+          "salary": 223063.41,
+          "rank": 9885,
+          "rankOfLastYear": 9885,
+          "paidTaxes": 109134.96,
+          "taxRatio": 40.750704918188276,
+          "personId": "1973Seppälä Joe Jussi Henrikki",
+          "fragmentId": "20241973Sepp-l-_Joe_Jussi_Henrikki"
+        }
+      }
+    },
+    {
+      "name": "Seppälä Jussi Petteri",
+      "id": "1968Seppälä Jussi Petteri",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12544,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Satakunta",
+          "totalIncome": 193303.65,
+          "capitalIncome": 4994.41,
+          "salary": 188309.24,
+          "rank": 20632,
+          "rankOfLastYear": 20632,
+          "paidTaxes": 88916.33,
+          "taxRatio": 45.99826749262107,
+          "personId": "1968Seppälä Jussi Petteri",
+          "fragmentId": "20241968Sepp-l-_Jussi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Seppälä Jussi Johannes",
+      "id": "1980Seppälä Jussi Johannes",
+      "birthYear": 1980,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40821,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 128296.28,
+          "capitalIncome": 1213.58,
+          "salary": 127082.7,
+          "rank": 58551,
+          "rankOfLastYear": 58551,
+          "paidTaxes": 55613.47,
+          "taxRatio": 43.34768708804339,
+          "personId": "1980Seppälä Jussi Johannes",
+          "fragmentId": "20241980Sepp-l-_Jussi_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

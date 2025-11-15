@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Törnroos Benny Wilhelm",
+      "id": "1979Törnroos Benny Wilhelm",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25158,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 156325.43,
+          "capitalIncome": 7263,
+          "salary": 149062.43,
+          "rank": 34911,
+          "rankOfLastYear": 34911,
+          "paidTaxes": 63974.22,
+          "taxRatio": 40.9237447803598,
+          "personId": "1979Törnroos Benny Wilhelm",
+          "fragmentId": "20241979T-rnroos_Benny_Wilhelm"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

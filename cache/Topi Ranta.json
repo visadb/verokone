@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Jokiranta Topi Juuso Olavi",
+      "id": "1975Jokiranta Topi Juuso Olavi",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10014,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 204105.71,
+          "capitalIncome": 1332.66,
+          "salary": 202773.05,
+          "rank": 18122,
+          "rankOfLastYear": 18122,
+          "paidTaxes": 90208.33,
+          "taxRatio": 44.19686739778128,
+          "personId": "1975Jokiranta Topi Juuso Olavi",
+          "fragmentId": "20241975Jokiranta_Topi_Juuso_Olavi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

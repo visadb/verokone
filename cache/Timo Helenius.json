@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Helenius Timo Juhani",
+      "id": "1969Helenius Timo Juhani",
+      "birthYear": 1969,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6386,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 242140.67,
+          "capitalIncome": 5653.97,
+          "salary": 236486.7,
+          "rank": 12273,
+          "rankOfLastYear": 12273,
+          "paidTaxes": 105471.82,
+          "taxRatio": 43.55807721189505,
+          "personId": "1969Helenius Timo Juhani",
+          "fragmentId": "20241969Helenius_Timo_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

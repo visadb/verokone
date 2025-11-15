@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Koskela Lasse Samuel",
+      "id": "1979Koskela Lasse Samuel",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29968,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 145440.43,
+          "capitalIncome": 4836.84,
+          "salary": 140603.59,
+          "rank": 42061,
+          "rankOfLastYear": 42061,
+          "paidTaxes": 55508.32,
+          "taxRatio": 38.16567374010102,
+          "personId": "1979Koskela Lasse Samuel",
+          "fragmentId": "20241979Koskela_Lasse_Samuel"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

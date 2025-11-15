@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Malinen Timo Tapani",
+      "id": "1963Malinen Timo Tapani",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3732,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 323830.29,
+          "capitalIncome": 36998.11,
+          "salary": 286832.18,
+          "rank": 6794,
+          "rankOfLastYear": 6794,
+          "paidTaxes": 141818.94,
+          "taxRatio": 43.794217026455435,
+          "personId": "1963Malinen Timo Tapani",
+          "fragmentId": "20241963Malinen_Timo_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

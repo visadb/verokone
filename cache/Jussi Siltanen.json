@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Siltanen Jussi Eerikki",
+      "id": "1976Siltanen Jussi Eerikki",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6431,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 235861.26,
+          "capitalIncome": 0,
+          "salary": 235861.26,
+          "rank": 12971,
+          "rankOfLastYear": 12971,
+          "paidTaxes": 101503.9,
+          "taxRatio": 43.03542684373008,
+          "personId": "1976Siltanen Jussi Eerikki",
+          "fragmentId": "20241976Siltanen_Jussi_Eerikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

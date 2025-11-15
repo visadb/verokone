@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "name": "Mattila Antti Juhani",
+      "id": "1978Mattila Antti Juhani",
+      "gender": "m",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2640,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 326651.55,
+          "capitalIncome": 0,
+          "salary": 326651.55,
+          "rank": 6688,
+          "rankOfLastYear": 6688,
+          "paidTaxes": 149488.06,
+          "taxRatio": 45.763768762156495,
+          "personId": "1978Mattila Antti Juhani",
+          "fragmentId": "20241978Mattila_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Mattila Antti Sami Juhani",
+      "id": "1975Mattila Antti Sami Juhani",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58317,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 196006.31,
+          "capitalIncome": 114385.48,
+          "salary": 81620.83,
+          "rank": 19948,
+          "rankOfLastYear": 19948,
+          "paidTaxes": 50377.42,
+          "taxRatio": 25.701937861082126,
+          "personId": "1975Mattila Antti Sami Juhani",
+          "fragmentId": "20241975Mattila_Antti_Sami_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Mattila Antti Heikki",
+      "id": "1965Mattila Antti Heikki",
+      "gender": "m",
+      "birthYear": 1965,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26455,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kymenlaakso",
+          "totalIncome": 152269.89,
+          "capitalIncome": 5655.91,
+          "salary": 146613.98,
+          "rank": 37347,
+          "rankOfLastYear": 37347,
+          "paidTaxes": 61752.54,
+          "taxRatio": 40.55466251404003,
+          "personId": "1965Mattila Antti Heikki",
+          "fragmentId": "20241965Mattila_Antti_Heikki"
+        }
+      }
+    },
+    {
+      "name": "Mattila Antti-Matti",
+      "id": "1968Mattila Antti-Matti",
+      "birthYear": 1968,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67691,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 126806.5,
+          "capitalIncome": 114278.5,
+          "salary": 12528,
+          "rank": 60395,
+          "rankOfLastYear": 60395,
+          "paidTaxes": 38719.7,
+          "taxRatio": 30.534475756368956,
+          "personId": "1968Mattila Antti-Matti",
+          "fragmentId": "20241968Mattila_Antti-Matti"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

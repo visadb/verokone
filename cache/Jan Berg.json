@@ -1,0 +1,1124 @@
+{
+  "results": [
+    {
+      "name": "Ståhlberg Christian Jan Gustaf",
+      "id": "1974Ståhlberg Christian Jan Gustaf",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2075,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 368494.05000000005,
+          "capitalIncome": 7498.02,
+          "salary": 360996.03,
+          "rank": 5417,
+          "rankOfLastYear": 5417,
+          "paidTaxes": 169177.42,
+          "taxRatio": 45.910488921055844,
+          "personId": "1974Ståhlberg Christian Jan Gustaf",
+          "fragmentId": "20241974St-hlberg_Christian_Jan_Gustaf"
+        }
+      }
+    },
+    {
+      "name": "Nordberg Jan Magnus",
+      "id": "1968Nordberg Jan Magnus",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3160,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 325329.35000000003,
+          "capitalIncome": 21402.26,
+          "salary": 303927.09,
+          "rank": 6745,
+          "rankOfLastYear": 6745,
+          "paidTaxes": 138112.07,
+          "taxRatio": 42.45300032105926,
+          "personId": "1968Nordberg Jan Magnus",
+          "fragmentId": "20241968Nordberg_Jan_Magnus"
+        }
+      }
+    },
+    {
+      "name": "Engberg Jani Verner",
+      "id": "1985Engberg Jani Verner",
+      "birthYear": 1985,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69148,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 313491.95,
+          "capitalIncome": 313491.95,
+          "salary": 0,
+          "rank": 7207,
+          "rankOfLastYear": 7207,
+          "paidTaxes": 102280.65,
+          "taxRatio": 32.626244469754326,
+          "personId": "1985Engberg Jani Verner",
+          "fragmentId": "20241985Engberg_Jani_Verner"
+        }
+      }
+    },
+    {
+      "name": "Holmberg Jan Olof Osvald",
+      "id": "1956Holmberg Jan Olof Osvald",
+      "gender": "m",
+      "birthYear": 1956,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3419,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 298238.04,
+          "capitalIncome": 2472.31,
+          "salary": 295765.73,
+          "rank": 7974,
+          "rankOfLastYear": 7974,
+          "paidTaxes": 135050.4,
+          "taxRatio": 45.28275467475578,
+          "personId": "1956Holmberg Jan Olof Osvald",
+          "fragmentId": "20241956Holmberg_Jan_Olof_Osvald"
+        }
+      }
+    },
+    {
+      "name": "Stenberg Jane Maria",
+      "id": "1948Stenberg Jane Maria",
+      "gender": "n",
+      "birthYear": 1948,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 68483,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Uusimaa",
+          "totalIncome": 259444.63999999998,
+          "capitalIncome": 256686.06,
+          "salary": 2758.58,
+          "rank": 10544,
+          "rankOfLastYear": 10544,
+          "paidTaxes": 86182.84,
+          "taxRatio": 33.21820022953644,
+          "personId": "1948Stenberg Jane Maria",
+          "fragmentId": "20241948Stenberg_Jane_Maria"
+        }
+      }
+    },
+    {
+      "name": "Ekberg Jan-Erik Gustav",
+      "id": "1969Ekberg Jan-Erik Gustav",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5130,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 257764.09,
+          "capitalIncome": 2195.46,
+          "salary": 255568.63,
+          "rank": 10668,
+          "rankOfLastYear": 10668,
+          "paidTaxes": 119882.45,
+          "taxRatio": 46.50859241099099,
+          "personId": "1969Ekberg Jan-Erik Gustav",
+          "fragmentId": "20241969Ekberg_Jan-Erik_Gustav"
+        }
+      }
+    },
+    {
+      "name": "Lamberg Janne Petteri",
+      "id": "1975Lamberg Janne Petteri",
+      "birthYear": 1975,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7723,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 248098.95,
+          "capitalIncome": 26751.48,
+          "salary": 221347.47,
+          "rank": 11633,
+          "rankOfLastYear": 11633,
+          "paidTaxes": 111282.34,
+          "taxRatio": 44.85401490010336,
+          "personId": "1975Lamberg Janne Petteri",
+          "fragmentId": "20241975Lamberg_Janne_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Stenberg Jan-Henry Mauritz",
+      "id": "1970Stenberg Jan-Henry Mauritz",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7509,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 234371.47999999998,
+          "capitalIncome": 10746.24,
+          "salary": 223625.24,
+          "rank": 13149,
+          "rankOfLastYear": 13149,
+          "paidTaxes": 98874.18,
+          "taxRatio": 42.18695039174561,
+          "personId": "1970Stenberg Jan-Henry Mauritz",
+          "fragmentId": "20241970Stenberg_Jan-Henry_Mauritz"
+        }
+      }
+    },
+    {
+      "name": "Holmberg Jan Axel Henrik",
+      "id": "1957Holmberg Jan Axel Henrik",
+      "gender": "m",
+      "birthYear": 1957,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67912,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 225522.46000000002,
+          "capitalIncome": 215808.42,
+          "salary": 9714.04,
+          "rank": 14303,
+          "rankOfLastYear": 14303,
+          "paidTaxes": 66864.42,
+          "taxRatio": 29.648674460184584,
+          "personId": "1957Holmberg Jan Axel Henrik",
+          "fragmentId": "20241957Holmberg_Jan_Axel_Henrik"
+        }
+      }
+    },
+    {
+      "name": "Strömberg Pasi Janne Tapani",
+      "id": "1973Strömberg Pasi Janne Tapani",
+      "gender": "m",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7492,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 223812.35,
+          "capitalIncome": 0,
+          "salary": 223812.35,
+          "rank": 14541,
+          "rankOfLastYear": 14541,
+          "paidTaxes": 98489.9,
+          "taxRatio": 44.00556984455951,
+          "personId": "1973Strömberg Pasi Janne Tapani",
+          "fragmentId": "20241973Str-mberg_Pasi_Janne_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Lindberg Jan Marcus",
+      "id": "1968Lindberg Jan Marcus",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8706,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 220492.50999999998,
+          "capitalIncome": 7894.8,
+          "salary": 212597.71,
+          "rank": 15080,
+          "rankOfLastYear": 15080,
+          "paidTaxes": 93295.05,
+          "taxRatio": 42.31211754086341,
+          "personId": "1968Lindberg Jan Marcus",
+          "fragmentId": "20241968Lindberg_Jan_Marcus"
+        }
+      }
+    },
+    {
+      "name": "Ingberg Jan Mikael",
+      "id": "1951Ingberg Jan Mikael",
+      "gender": "m",
+      "birthYear": 1951,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9452,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 219864.72,
+          "capitalIncome": 13124.28,
+          "salary": 206740.44,
+          "rank": 15197,
+          "rankOfLastYear": 15197,
+          "paidTaxes": 110984.44,
+          "taxRatio": 50.47851242345748,
+          "personId": "1951Ingberg Jan Mikael",
+          "fragmentId": "20241951Ingberg_Jan_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Rundberg Jan Gustaf Ebenhard",
+      "id": "1951Rundberg Jan Gustaf Ebenhard",
+      "birthYear": 1951,
+      "lastCounty": "Ahvenanmaa - Åland",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65460,
+          "taxYear": 2024,
+          "county": "Ahvenanmaa - Åland",
+          "totalIncome": 215265.3,
+          "capitalIncome": 181629.25,
+          "salary": 33636.05,
+          "rank": 15995,
+          "rankOfLastYear": 15995,
+          "paidTaxes": 68627.5,
+          "taxRatio": 31.880428475931794,
+          "personId": "1951Rundberg Jan Gustaf Ebenhard",
+          "fragmentId": "20241951Rundberg_Jan_Gustaf_Ebenhard"
+        }
+      }
+    },
+    {
+      "name": "Forsberg Janne Juhani",
+      "id": "1980Forsberg Janne Juhani",
+      "birthYear": 1980,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9465,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 211946.56,
+          "capitalIncome": 5349.66,
+          "salary": 206596.9,
+          "rank": 16606,
+          "rankOfLastYear": 16606,
+          "paidTaxes": 95640.51,
+          "taxRatio": 45.12482297424407,
+          "personId": "1980Forsberg Janne Juhani",
+          "fragmentId": "20241980Forsberg_Janne_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Hagelberg Jan-Christian",
+      "id": "1968Hagelberg Jan-Christian",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10095,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 202132.82,
+          "capitalIncome": 0,
+          "salary": 202132.82,
+          "rank": 18551,
+          "rankOfLastYear": 18551,
+          "paidTaxes": 86411.27,
+          "taxRatio": 42.7497474185538,
+          "personId": "1968Hagelberg Jan-Christian",
+          "fragmentId": "20241968Hagelberg_Jan-Christian"
+        }
+      }
+    },
+    {
+      "name": "Vaenerberg Jan-Eric",
+      "id": "1958Vaenerberg Jan-Eric",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20183,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 199452.07,
+          "capitalIncome": 38912.36,
+          "salary": 160539.71,
+          "rank": 19145,
+          "rankOfLastYear": 19145,
+          "paidTaxes": 77267.07,
+          "taxRatio": 38.73966813179728,
+          "personId": "1958Vaenerberg Jan-Eric",
+          "fragmentId": "20241958Vaenerberg_Jan-Eric"
+        }
+      }
+    },
+    {
+      "name": "Lundberg Janne Matias",
+      "id": "1977Lundberg Janne Matias",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55257,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 193411.90000000002,
+          "capitalIncome": 94371.99,
+          "salary": 99039.91,
+          "rank": 20616,
+          "rankOfLastYear": 20616,
+          "paidTaxes": 65122.01,
+          "taxRatio": 33.67011543757131,
+          "personId": "1977Lundberg Janne Matias",
+          "fragmentId": "20241977Lundberg_Janne_Matias"
+        }
+      }
+    },
+    {
+      "name": "Holmberg Jani Juhani",
+      "id": "1971Holmberg Jani Juhani",
+      "birthYear": 1971,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13426,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 192151.02,
+          "capitalIncome": 7872.56,
+          "salary": 184278.46,
+          "rank": 20959,
+          "rankOfLastYear": 20959,
+          "paidTaxes": 81800.92,
+          "taxRatio": 42.57116095454502,
+          "personId": "1971Holmberg Jani Juhani",
+          "fragmentId": "20241971Holmberg_Jani_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Lundberg Jan Peter",
+      "id": "1976Lundberg Jan Peter",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13191,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 186669.22,
+          "capitalIncome": 1350.93,
+          "salary": 185318.29,
+          "rank": 22486,
+          "rankOfLastYear": 22486,
+          "paidTaxes": 79981.15,
+          "taxRatio": 42.8464585645132,
+          "personId": "1976Lundberg Jan Peter",
+          "fragmentId": "20241976Lundberg_Jan_Peter"
+        }
+      }
+    },
+    {
+      "name": "Lönnberg Jan Erik",
+      "id": "1980Lönnberg Jan Erik",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57377,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 183581.49,
+          "capitalIncome": 96157.07,
+          "salary": 87424.42,
+          "rank": 23438,
+          "rankOfLastYear": 23438,
+          "paidTaxes": 60834.97,
+          "taxRatio": 33.13785610956748,
+          "personId": "1980Lönnberg Jan Erik",
+          "fragmentId": "20241980L-nnberg_Jan_Erik"
+        }
+      }
+    },
+    {
+      "name": "Åberg Jan Edvard",
+      "id": "1977Åberg Jan Edvard",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16587,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 178614.77,
+          "capitalIncome": 6850.02,
+          "salary": 171764.75,
+          "rank": 25101,
+          "paidTaxes": 76033.03,
+          "taxRatio": 42.56816499553761,
+          "personId": "1977Åberg Jan Edvard",
+          "fragmentId": "20241977-berg_Jan_Edvard"
+        }
+      }
+    },
+    {
+      "name": "Ollberg Janina Susanne",
+      "id": "1967Ollberg Janina Susanne",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58230,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 178473.88,
+          "capitalIncome": 96232.55,
+          "salary": 82241.33,
+          "rank": 25153,
+          "rankOfLastYear": 25153,
+          "paidTaxes": 57824.86,
+          "taxRatio": 32.39962060554743,
+          "personId": "1967Ollberg Janina Susanne",
+          "fragmentId": "20241967Ollberg_Janina_Susanne"
+        }
+      }
+    },
+    {
+      "name": "Nordberg Janne Mikael",
+      "id": "1987Nordberg Janne Mikael",
+      "birthYear": 1987,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15366,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 177513.51,
+          "capitalIncome": 1275.62,
+          "salary": 176237.89,
+          "rank": 25473,
+          "rankOfLastYear": 25473,
+          "paidTaxes": 80835.68,
+          "taxRatio": 45.53776216807385,
+          "personId": "1987Nordberg Janne Mikael",
+          "fragmentId": "20241987Nordberg_Janne_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Lindberg Jan Mikael",
+      "id": "1969Lindberg Jan Mikael",
+      "birthYear": 1969,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38714,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 177387.9,
+          "capitalIncome": 48106.18,
+          "salary": 129281.72,
+          "rank": 25514,
+          "rankOfLastYear": 25514,
+          "paidTaxes": 70322.06,
+          "taxRatio": 39.643098542798015,
+          "personId": "1969Lindberg Jan Mikael",
+          "fragmentId": "20241969Lindberg_Jan_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Enberg Jan Lennart Sebastian",
+      "id": "1970Enberg Jan Lennart Sebastian",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17879,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 173537.69,
+          "capitalIncome": 5904.26,
+          "salary": 167633.43,
+          "rank": 26957,
+          "rankOfLastYear": 26957,
+          "paidTaxes": 73675.65,
+          "taxRatio": 42.455128911765506,
+          "personId": "1970Enberg Jan Lennart Sebastian",
+          "fragmentId": "20241970Enberg_Jan_Lennart_Sebastian"
+        }
+      }
+    },
+    {
+      "name": "Lundberg Jan-Torsten Teodor",
+      "id": "1982Lundberg Jan-Torsten Teodor",
+      "birthYear": 1982,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20793,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 170254.07,
+          "capitalIncome": 11367.32,
+          "salary": 158886.75,
+          "rank": 28280,
+          "rankOfLastYear": 28280,
+          "paidTaxes": 73358.52,
+          "taxRatio": 43.087674790975626,
+          "personId": "1982Lundberg Jan-Torsten Teodor",
+          "fragmentId": "20241982Lundberg_Jan-Torsten_Teodor"
+        }
+      }
+    },
+    {
+      "name": "Holmberg Jan Peter",
+      "id": "1961Holmberg Jan Peter",
+      "birthYear": 1961,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 21413,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 157716.57,
+          "capitalIncome": 334.17,
+          "salary": 157382.4,
+          "rank": 34144,
+          "rankOfLastYear": 34144,
+          "paidTaxes": 67288.04,
+          "taxRatio": 42.66390018499641,
+          "personId": "1961Holmberg Jan Peter",
+          "fragmentId": "20241961Holmberg_Jan_Peter"
+        }
+      }
+    },
+    {
+      "name": "Nybergh Jan Marcus",
+      "id": "1976Nybergh Jan Marcus",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32089,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 150340.72,
+          "capitalIncome": 12833.99,
+          "salary": 137506.73,
+          "rank": 38601,
+          "rankOfLastYear": 38601,
+          "paidTaxes": 55265.76,
+          "taxRatio": 36.76034011277849,
+          "personId": "1976Nybergh Jan Marcus",
+          "fragmentId": "20241976Nybergh_Jan_Marcus"
+        }
+      }
+    },
+    {
+      "name": "Löfberg Jan-Henrik Gustaf",
+      "id": "1980Löfberg Jan-Henrik Gustaf",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30467,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 143680.23,
+          "capitalIncome": 3833.78,
+          "salary": 139846.45,
+          "rank": 43403,
+          "rankOfLastYear": 43403,
+          "paidTaxes": 55414.92,
+          "taxRatio": 38.56822890664915,
+          "personId": "1980Löfberg Jan-Henrik Gustaf",
+          "fragmentId": "20241980L-fberg_Jan-Henrik_Gustaf"
+        }
+      }
+    },
+    {
+      "name": "Åberg Janne Sakari",
+      "id": "1975Åberg Janne Sakari",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32072,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 140369.41999999998,
+          "capitalIncome": 2833.18,
+          "salary": 137536.24,
+          "rank": 46152,
+          "paidTaxes": 57708.05,
+          "taxRatio": 41.11155406925526,
+          "personId": "1975Åberg Janne Sakari",
+          "fragmentId": "20241975-berg_Janne_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Brantberg Jan Lauri Mikael",
+      "id": "1983Brantberg Jan Lauri Mikael",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 64811,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 139640.16,
+          "capitalIncome": 100948.45,
+          "salary": 38691.71,
+          "rank": 46797,
+          "rankOfLastYear": 46797,
+          "paidTaxes": 42877.96,
+          "taxRatio": 30.706037575436753,
+          "personId": "1983Brantberg Jan Lauri Mikael",
+          "fragmentId": "20241983Brantberg_Jan_Lauri_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Rönnberg Jan Rafael",
+      "id": "1955Rönnberg Jan Rafael",
+      "gender": "m",
+      "birthYear": 1955,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35716,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 139323.87999999998,
+          "capitalIncome": 6542.05,
+          "salary": 132781.83,
+          "rank": 47084,
+          "rankOfLastYear": 47084,
+          "paidTaxes": 59574.04,
+          "taxRatio": 42.759389129846234,
+          "personId": "1955Rönnberg Jan Rafael",
+          "fragmentId": "20241955R-nnberg_Jan_Rafael"
+        }
+      }
+    },
+    {
+      "name": "Österberg Jan Ingvald",
+      "id": "1980Österberg Jan Ingvald",
+      "birthYear": 1980,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55638,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 136527.08000000002,
+          "capitalIncome": 39424.28,
+          "salary": 97102.8,
+          "rank": 49676,
+          "paidTaxes": 49355.99,
+          "taxRatio": 36.15106248518608,
+          "personId": "1980Österberg Jan Ingvald",
+          "fragmentId": "20241980-sterberg_Jan_Ingvald"
+        }
+      }
+    },
+    {
+      "name": "Engberg Jani Essen",
+      "id": "1977Engberg Jani Essen",
+      "birthYear": 1977,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33850,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 135169.79,
+          "capitalIncome": 0,
+          "salary": 135169.79,
+          "rank": 51030,
+          "rankOfLastYear": 51030,
+          "paidTaxes": 55057.35,
+          "taxRatio": 40.73199344320946,
+          "personId": "1977Engberg Jani Essen",
+          "fragmentId": "20241977Engberg_Jani_Essen"
+        }
+      }
+    },
+    {
+      "name": "Hallberg Janina Maria",
+      "id": "1987Hallberg Janina Maria",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37948,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 134651.71,
+          "capitalIncome": 4503.86,
+          "salary": 130147.85,
+          "rank": 51526,
+          "rankOfLastYear": 51526,
+          "paidTaxes": 47714.23,
+          "taxRatio": 35.43529450907085,
+          "personId": "1987Hallberg Janina Maria",
+          "fragmentId": "20241987Hallberg_Janina_Maria"
+        }
+      }
+    },
+    {
+      "name": "Holmberg Jan Holger Gustav",
+      "id": "1954Holmberg Jan Holger Gustav",
+      "gender": "m",
+      "birthYear": 1954,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53267,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 133423.94999999998,
+          "capitalIncome": 25511.05,
+          "salary": 107912.9,
+          "rank": 52773,
+          "rankOfLastYear": 52773,
+          "paidTaxes": 50387.85,
+          "taxRatio": 37.7652213114662,
+          "personId": "1954Holmberg Jan Holger Gustav",
+          "fragmentId": "20241954Holmberg_Jan_Holger_Gustav"
+        }
+      }
+    },
+    {
+      "name": "Hellberg Thommy Jan Michael",
+      "id": "1952Hellberg Thommy Jan Michael",
+      "birthYear": 1952,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49402,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132659.66,
+          "capitalIncome": 13651.16,
+          "salary": 119008.5,
+          "rank": 53526,
+          "rankOfLastYear": 53526,
+          "paidTaxes": 47572.55,
+          "taxRatio": 35.86059997440066,
+          "personId": "1952Hellberg Thommy Jan Michael",
+          "fragmentId": "20241952Hellberg_Thommy_Jan_Michael"
+        }
+      }
+    },
+    {
+      "name": "Fröberg Jan Erik",
+      "id": "1973Fröberg Jan Erik",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37226,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130977.06,
+          "capitalIncome": 0,
+          "salary": 130977.06,
+          "rank": 55370,
+          "rankOfLastYear": 55370,
+          "paidTaxes": 53926.8,
+          "taxRatio": 41.172706121209316,
+          "personId": "1973Fröberg Jan Erik",
+          "fragmentId": "20241973Fr-berg_Jan_Erik"
+        }
+      }
+    },
+    {
+      "name": "Strandberg Jan Stefan",
+      "id": "1958Strandberg Jan Stefan",
+      "birthYear": 1958,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48223,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 130782.2,
+          "capitalIncome": 10311.26,
+          "salary": 120470.94,
+          "rank": 55585,
+          "rankOfLastYear": 55585,
+          "paidTaxes": 53742.45,
+          "taxRatio": 41.093092179210934,
+          "personId": "1958Strandberg Jan Stefan",
+          "fragmentId": "20241958Strandberg_Jan_Stefan"
+        }
+      }
+    },
+    {
+      "name": "Mollberg Janne Peter",
+      "id": "1981Mollberg Janne Peter",
+      "birthYear": 1981,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52372,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 124943,
+          "capitalIncome": 13709.43,
+          "salary": 111233.57,
+          "rank": 62902,
+          "rankOfLastYear": 62902,
+          "paidTaxes": 49368.81,
+          "taxRatio": 39.51306595807688,
+          "personId": "1981Mollberg Janne Peter",
+          "fragmentId": "20241981Mollberg_Janne_Peter"
+        }
+      }
+    },
+    {
+      "name": "Skogberg Jan-William Marko",
+      "id": "1970Skogberg Jan-William Marko",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44176,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123873.96,
+          "capitalIncome": 0,
+          "salary": 123873.96,
+          "rank": 64406,
+          "rankOfLastYear": 64406,
+          "paidTaxes": 48954.31,
+          "taxRatio": 39.51945186865746,
+          "personId": "1970Skogberg Jan-William Marko",
+          "fragmentId": "20241970Skogberg_Jan-William_Marko"
+        }
+      }
+    },
+    {
+      "name": "Bergqvist Janne Tapio",
+      "id": "1986Bergqvist Janne Tapio",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46057,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123316.76,
+          "capitalIncome": 1071.83,
+          "salary": 122244.93,
+          "rank": 65212,
+          "rankOfLastYear": 65212,
+          "paidTaxes": 48440.33,
+          "taxRatio": 39.28122179012812,
+          "personId": "1986Bergqvist Janne Tapio",
+          "fragmentId": "20241986Bergqvist_Janne_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Nyberg Janne Oskar Matias",
+      "id": "1986Nyberg Janne Oskar Matias",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45028,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123131.36,
+          "capitalIncome": 0,
+          "salary": 123131.36,
+          "rank": 65492,
+          "rankOfLastYear": 65492,
+          "paidTaxes": 46312.42,
+          "taxRatio": 37.61220537156416,
+          "personId": "1986Nyberg Janne Oskar Matias",
+          "fragmentId": "20241986Nyberg_Janne_Oskar_Matias"
+        }
+      }
+    },
+    {
+      "name": "Ahlberg Jani Petteri",
+      "id": "1973Ahlberg Jani Petteri",
+      "birthYear": 1973,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47423,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 121124.62,
+          "capitalIncome": 0,
+          "salary": 121124.62,
+          "rank": 68469,
+          "rankOfLastYear": 68469,
+          "paidTaxes": 50492.7,
+          "taxRatio": 41.68657040988034,
+          "personId": "1973Ahlberg Jani Petteri",
+          "fragmentId": "20241973Ahlberg_Jani_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 44,
+  "totResults": 44
+}

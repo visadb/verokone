@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Nguyen Van Phung",
+      "id": "1972Nguyen Van Phung",
+      "birthYear": 1972,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7090,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 227976.51,
+          "capitalIncome": 0,
+          "salary": 227976.51,
+          "rank": 13971,
+          "rankOfLastYear": 13971,
+          "paidTaxes": 113161.15,
+          "taxRatio": 49.63719727089426,
+          "personId": "1972Nguyen Van Phung",
+          "fragmentId": "20241972Nguyen_Van_Phung"
+        }
+      }
+    },
+    {
+      "name": "Tran Minh Phuoc Nguyen",
+      "id": "1975Tran Minh Phuoc Nguyen",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57928,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129388.34,
+          "capitalIncome": 45258.43,
+          "salary": 84129.91,
+          "rank": 57226,
+          "rankOfLastYear": 57226,
+          "paidTaxes": 39830.16,
+          "taxRatio": 30.78342298850113,
+          "personId": "1975Tran Minh Phuoc Nguyen",
+          "fragmentId": "20241975Tran_Minh_Phuoc_Nguyen"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Korhonen Aku Aaro Johannes",
+      "id": "1983Korhonen Aku Aaro Johannes",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30474,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 139839.4,
+          "capitalIncome": 0,
+          "salary": 139839.4,
+          "rank": 46614,
+          "rankOfLastYear": 46614,
+          "paidTaxes": 53710.39,
+          "taxRatio": 38.4086244649219,
+          "personId": "1983Korhonen Aku Aaro Johannes",
+          "fragmentId": "20241983Korhonen_Aku_Aaro_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

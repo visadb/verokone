@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Härkönen Janne Petteri",
+      "id": "1970Härkönen Janne Petteri",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50456,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 171224.77000000002,
+          "capitalIncome": 54437.55,
+          "salary": 116787.22,
+          "rank": 27863,
+          "rankOfLastYear": 27863,
+          "paidTaxes": 65718.23,
+          "taxRatio": 38.381263411829956,
+          "personId": "1970Härkönen Janne Petteri",
+          "fragmentId": "20241970H-rk-nen_Janne_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

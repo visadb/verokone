@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Tukiainen Matti Petteri",
+      "id": "1960Tukiainen Matti Petteri",
+      "gender": "m",
+      "birthYear": 1960,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1061,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Savo",
+          "totalIncome": 578406.28,
+          "capitalIncome": 107021.14,
+          "salary": 471385.14,
+          "rank": 2568,
+          "rankOfLastYear": 2568,
+          "paidTaxes": 171988.17,
+          "taxRatio": 29.734837941247804,
+          "personId": "1960Tukiainen Matti Petteri",
+          "fragmentId": "20241960Tukiainen_Matti_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

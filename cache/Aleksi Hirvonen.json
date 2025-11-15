@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Hirvonen Mikko Aleksi",
+      "id": "1991Hirvonen Mikko Aleksi",
+      "birthYear": 1991,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7885,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 219932.8,
+          "capitalIncome": 0,
+          "salary": 219932.8,
+          "rank": 15185,
+          "rankOfLastYear": 15185,
+          "paidTaxes": 97576.64,
+          "taxRatio": 44.366570152337445,
+          "personId": "1991Hirvonen Mikko Aleksi",
+          "fragmentId": "20241991Hirvonen_Mikko_Aleksi"
+        }
+      }
+    },
+    {
+      "name": "Hirvonen Mikko Aleksi",
+      "id": "1990Hirvonen Mikko Aleksi",
+      "birthYear": 1990,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45818,
+          "taxYear": 2024,
+          "county": "Etelä-Savo",
+          "totalIncome": 122442.51,
+          "capitalIncome": 0,
+          "salary": 122442.51,
+          "rank": 66492,
+          "rankOfLastYear": 66492,
+          "paidTaxes": 51353.52,
+          "taxRatio": 41.94092394871683,
+          "personId": "1990Hirvonen Mikko Aleksi",
+          "fragmentId": "20241990Hirvonen_Mikko_Aleksi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

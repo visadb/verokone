@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Puustinen Jarkko Petri Juhani",
+      "id": "1978Puustinen Jarkko Petri Juhani",
+      "birthYear": 1978,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35132,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 133469.89,
+          "capitalIncome": 0,
+          "salary": 133469.89,
+          "rank": 52739,
+          "rankOfLastYear": 52739,
+          "paidTaxes": 53778.27,
+          "taxRatio": 40.29243599436547,
+          "personId": "1978Puustinen Jarkko Petri Juhani",
+          "fragmentId": "20241978Puustinen_Jarkko_Petri_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kauhanen Mikko Aleksi Johannes",
+      "id": "1978Kauhanen Mikko Aleksi Johannes",
+      "birthYear": 1978,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31671,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 162499.41999999998,
+          "capitalIncome": 24414.21,
+          "salary": 138085.21,
+          "rank": 31664,
+          "rankOfLastYear": 31664,
+          "paidTaxes": 63755.73,
+          "taxRatio": 39.23443542136951,
+          "personId": "1978Kauhanen Mikko Aleksi Johannes",
+          "fragmentId": "20241978Kauhanen_Mikko_Aleksi_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

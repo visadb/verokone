@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kosola Jaakko Ilkka",
+      "id": "1973Kosola Jaakko Ilkka",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15931,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 187576.21,
+          "capitalIncome": 13508.91,
+          "salary": 174067.3,
+          "rank": 22209,
+          "rankOfLastYear": 22209,
+          "paidTaxes": 77877.49,
+          "taxRatio": 41.517786290702865,
+          "personId": "1973Kosola Jaakko Ilkka",
+          "fragmentId": "20241973Kosola_Jaakko_Ilkka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "name": "Sutinen Mika Esko Petteri",
+      "id": "1966Sutinen Mika Esko Petteri",
+      "gender": "m",
+      "pictureId": "9ac05c06131b4499ba191c32bd17bb01.jpg",
+      "birthYear": 1966,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3175,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 327314.88,
+          "capitalIncome": 23822.95,
+          "salary": 303491.93,
+          "rank": 6654,
+          "rankOfLastYear": 6654,
+          "paidTaxes": 157667.37,
+          "taxRatio": 48.16993654550627,
+          "personId": "1966Sutinen Mika Esko Petteri",
+          "fragmentId": "20241966Sutinen_Mika_Esko_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

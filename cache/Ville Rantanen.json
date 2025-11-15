@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Rantanen Ville Tapio Rafael",
+      "id": "1991Rantanen Ville Tapio Rafael",
+      "birthYear": 1991,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23844,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 151765.93,
+          "capitalIncome": 0,
+          "salary": 151765.93,
+          "rank": 37698,
+          "rankOfLastYear": 37698,
+          "paidTaxes": 59853.64,
+          "taxRatio": 39.43812685758918,
+          "personId": "1991Rantanen Ville Tapio Rafael",
+          "fragmentId": "20241991Rantanen_Ville_Tapio_Rafael"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Ville Jussi",
+      "id": "1982Rantanen Ville Jussi",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39088,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128863.37,
+          "capitalIncome": 0,
+          "salary": 128863.37,
+          "rank": 57847,
+          "rankOfLastYear": 57847,
+          "paidTaxes": 46026.33,
+          "taxRatio": 35.717155309534434,
+          "personId": "1982Rantanen Ville Jussi",
+          "fragmentId": "20241982Rantanen_Ville_Jussi"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Ville-Veikko",
+      "id": "1974Rantanen Ville-Veikko",
+      "birthYear": 1974,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48219,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 120472.96,
+          "capitalIncome": 0,
+          "salary": 120472.96,
+          "rank": 69468,
+          "rankOfLastYear": 69468,
+          "paidTaxes": 47623.18,
+          "taxRatio": 39.530181710485074,
+          "personId": "1974Rantanen Ville-Veikko",
+          "fragmentId": "20241974Rantanen_Ville-Veikko"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

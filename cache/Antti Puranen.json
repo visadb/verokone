@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Puranen Mikko Antti Kalevi",
+      "id": "1981Puranen Mikko Antti Kalevi",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17234,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 169747.04,
+          "capitalIncome": 0,
+          "salary": 169747.04,
+          "rank": 28483,
+          "rankOfLastYear": 28483,
+          "paidTaxes": 68744.44,
+          "taxRatio": 40.4981671550797,
+          "personId": "1981Puranen Mikko Antti Kalevi",
+          "fragmentId": "20241981Puranen_Mikko_Antti_Kalevi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

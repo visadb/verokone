@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Viljakainen Antti-Pekka",
+      "id": "1986Viljakainen Antti-Pekka",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48506,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 154313.02000000002,
+          "capitalIncome": 34068.78,
+          "salary": 120244.24,
+          "rank": 36074,
+          "rankOfLastYear": 36074,
+          "paidTaxes": 55230.26,
+          "taxRatio": 35.791056386557656,
+          "personId": "1986Viljakainen Antti-Pekka",
+          "fragmentId": "20241986Viljakainen_Antti-Pekka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

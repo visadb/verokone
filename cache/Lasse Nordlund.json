@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nordlund Lasse Peter",
+      "id": "1977Nordlund Lasse Peter",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2691,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 323988.2,
+          "capitalIncome": 0,
+          "salary": 323988.2,
+          "rank": 6788,
+          "rankOfLastYear": 6788,
+          "paidTaxes": 146262.98,
+          "taxRatio": 45.1445392146998,
+          "personId": "1977Nordlund Lasse Peter",
+          "fragmentId": "20241977Nordlund_Lasse_Peter"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

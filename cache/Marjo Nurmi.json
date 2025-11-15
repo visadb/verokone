@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nurmi Marjo Johanna",
+      "id": "1975Nurmi Marjo Johanna",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25866,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147742.24,
+          "capitalIncome": 0,
+          "salary": 147742.24,
+          "rank": 40366,
+          "rankOfLastYear": 40366,
+          "paidTaxes": 57411.76,
+          "taxRatio": 38.85940811510642,
+          "personId": "1975Nurmi Marjo Johanna",
+          "fragmentId": "20241975Nurmi_Marjo_Johanna"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

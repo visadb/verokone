@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Alanen Tero Jaakko",
+      "id": "1979Alanen Tero Jaakko",
+      "gender": "m",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1880,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 375284.02,
+          "capitalIncome": 0,
+          "salary": 375284.02,
+          "rank": 5239,
+          "rankOfLastYear": 5239,
+          "paidTaxes": 174340.92,
+          "taxRatio": 46.45572705174071,
+          "personId": "1979Alanen Tero Jaakko",
+          "fragmentId": "20241979Alanen_Tero_Jaakko"
+        }
+      }
+    },
+    {
+      "name": "Paalanen Jaakko Juhani",
+      "id": "1989Paalanen Jaakko Juhani",
+      "birthYear": 1989,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26027,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147446.2,
+          "capitalIncome": 0,
+          "salary": 147446.2,
+          "rank": 40576,
+          "rankOfLastYear": 40576,
+          "paidTaxes": 58236.52,
+          "taxRatio": 39.49679272846638,
+          "personId": "1989Paalanen Jaakko Juhani",
+          "fragmentId": "20241989Paalanen_Jaakko_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

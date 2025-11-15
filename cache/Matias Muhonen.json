@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Muhonen Vesa Matias",
+      "id": "1965Muhonen Vesa Matias",
+      "birthYear": 1965,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57956,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 131587.97,
+          "capitalIncome": 47657.01,
+          "salary": 83930.96,
+          "rank": 54709,
+          "rankOfLastYear": 54709,
+          "paidTaxes": 43924.32,
+          "taxRatio": 33.38019425331966,
+          "personId": "1965Muhonen Vesa Matias",
+          "fragmentId": "20241965Muhonen_Vesa_Matias"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

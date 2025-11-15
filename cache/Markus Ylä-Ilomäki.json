@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ylä-Ilomäki Markus Mikael",
+      "id": "1978Ylä-Ilomäki Markus Mikael",
+      "birthYear": 1978,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5558,
+          "taxYear": 2024,
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 325215.36,
+          "capitalIncome": 76985.49,
+          "salary": 248229.87,
+          "rank": 6752,
+          "rankOfLastYear": 6752,
+          "paidTaxes": 142234.65,
+          "taxRatio": 43.735526513876835,
+          "personId": "1978Ylä-Ilomäki Markus Mikael",
+          "fragmentId": "20241978Yl--Ilom-ki_Markus_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

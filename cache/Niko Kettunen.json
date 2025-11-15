@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Kettunen Niko Markus",
+      "id": "1987Kettunen Niko Markus",
+      "gender": "m",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 432,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 733260.3,
+          "capitalIncome": 7998.87,
+          "salary": 725261.43,
+          "rank": 1814,
+          "rankOfLastYear": 1814,
+          "paidTaxes": 361479.38,
+          "taxRatio": 49.29755231532377,
+          "personId": "1987Kettunen Niko Markus",
+          "fragmentId": "20241987Kettunen_Niko_Markus"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

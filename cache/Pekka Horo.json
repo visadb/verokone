@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Horo Pekka Toni Rikhard",
+      "id": "1976Horo Pekka Toni Rikhard",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1397,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 495308.36,
+          "capitalIncome": 73748.74,
+          "salary": 421559.62,
+          "rank": 3285,
+          "rankOfLastYear": 3285,
+          "paidTaxes": 209815.05,
+          "taxRatio": 42.36049034181454,
+          "personId": "1976Horo Pekka Toni Rikhard",
+          "fragmentId": "20241976Horo_Pekka_Toni_Rikhard"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

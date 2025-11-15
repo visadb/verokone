@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Ylitalo Mikko Juhani",
+      "id": "1967Ylitalo Mikko Juhani",
+      "gender": "m",
+      "birthYear": 1967,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14296,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Lappi",
+          "totalIncome": 180455.51,
+          "capitalIncome": 0,
+          "salary": 180455.51,
+          "rank": 24470,
+          "rankOfLastYear": 24470,
+          "paidTaxes": 83060.98,
+          "taxRatio": 46.02850863351304,
+          "personId": "1967Ylitalo Mikko Juhani",
+          "fragmentId": "20241967Ylitalo_Mikko_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

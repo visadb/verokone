@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Kajasrinne Jyrki Antero",
+      "id": "1982Kajasrinne Jyrki Antero",
+      "birthYear": 1982,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60057,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 145653.33000000002,
+          "capitalIncome": 75000,
+          "salary": 70653.33,
+          "rank": 41917,
+          "rankOfLastYear": 41917,
+          "paidTaxes": 45852.06,
+          "taxRatio": 31.48026893720864,
+          "personId": "1982Kajasrinne Jyrki Antero",
+          "fragmentId": "20241982Kajasrinne_Jyrki_Antero"
+        }
+      }
+    },
+    {
+      "name": "Lautarinne Jyrki Olavi",
+      "id": "1955Lautarinne Jyrki Olavi",
+      "gender": "m",
+      "birthYear": 1955,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43500,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 131651.78,
+          "capitalIncome": 7140.46,
+          "salary": 124511.32,
+          "rank": 54642,
+          "rankOfLastYear": 54642,
+          "paidTaxes": 58480.58,
+          "taxRatio": 44.42065272493847,
+          "personId": "1955Lautarinne Jyrki Olavi",
+          "fragmentId": "20241955Lautarinne_Jyrki_Olavi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

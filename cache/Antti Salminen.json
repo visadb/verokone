@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "name": "Salminen Antti Kalevi",
+      "id": "1971Salminen Antti Kalevi",
+      "gender": "m",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 70,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1839269.79,
+          "capitalIncome": 57317.95,
+          "salary": 1781951.84,
+          "rank": 432,
+          "rankOfLastYear": 432,
+          "paidTaxes": 903359.17,
+          "taxRatio": 49.11509855223578,
+          "personId": "1971Salminen Antti Kalevi",
+          "fragmentId": "20241971Salminen_Antti_Kalevi"
+        }
+      }
+    },
+    {
+      "name": "Salminen Antti Juhani",
+      "id": "1982Salminen Antti Juhani",
+      "gender": "m",
+      "birthYear": 1982,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63986,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 926181.4299999999,
+          "capitalIncome": 881503.19,
+          "salary": 44678.24,
+          "rank": 1270,
+          "rankOfLastYear": 1270,
+          "paidTaxes": 310030.73,
+          "taxRatio": 33.47408185456709,
+          "personId": "1982Salminen Antti Juhani",
+          "fragmentId": "20241982Salminen_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Salminen Antti Henrik",
+      "id": "1989Salminen Antti Henrik",
+      "birthYear": 1989,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31192,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 138789.17,
+          "capitalIncome": 0,
+          "salary": 138789.17,
+          "rank": 47583,
+          "rankOfLastYear": 47583,
+          "paidTaxes": 57833.1,
+          "taxRatio": 41.669749880340085,
+          "personId": "1989Salminen Antti Henrik",
+          "fragmentId": "20241989Salminen_Antti_Henrik"
+        }
+      }
+    },
+    {
+      "name": "Salminen Antti Pekka",
+      "id": "1980Salminen Antti Pekka",
+      "birthYear": 1980,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44260,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 124109.66,
+          "capitalIncome": 311.83,
+          "salary": 123797.83,
+          "rank": 64069,
+          "rankOfLastYear": 64069,
+          "paidTaxes": 50300.74,
+          "taxRatio": 40.52927064662009,
+          "personId": "1980Salminen Antti Pekka",
+          "fragmentId": "20241980Salminen_Antti_Pekka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

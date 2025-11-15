@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Freeman Joni Marko Olavi",
+      "id": "1972Freeman Joni Marko Olavi",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27407,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 192374.34000000003,
+          "capitalIncome": 47494.89,
+          "salary": 144879.45,
+          "rank": 20892,
+          "rankOfLastYear": 20892,
+          "paidTaxes": 71815.79,
+          "taxRatio": 37.331272975387456,
+          "personId": "1972Freeman Joni Marko Olavi",
+          "fragmentId": "20241972Freeman_Joni_Marko_Olavi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

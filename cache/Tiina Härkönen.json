@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Härkönen Marleena Eevastiina",
+      "id": "1986Härkönen Marleena Eevastiina",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46544,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 121842.54,
+          "capitalIncome": 0,
+          "salary": 121842.54,
+          "rank": 67363,
+          "rankOfLastYear": 67363,
+          "paidTaxes": 42803.33,
+          "taxRatio": 35.13003750578411,
+          "personId": "1986Härkönen Marleena Eevastiina",
+          "fragmentId": "20241986H-rk-nen_Marleena_Eevastiina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

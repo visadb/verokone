@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "name": "Törmälä Anssi Ilari Sergei",
+      "id": "1979Törmälä Anssi Ilari Sergei",
+      "gender": "m",
+      "birthYear": 1979,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55220,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Karjala",
+          "totalIncome": 1798439.85,
+          "capitalIncome": 1699274.01,
+          "salary": 99165.84,
+          "rank": 460,
+          "rankOfLastYear": 460,
+          "paidTaxes": 611318.18,
+          "taxRatio": 33.991583315950216,
+          "personId": "1979Törmälä Anssi Ilari Sergei",
+          "fragmentId": "20241979T-rm-l-_Anssi_Ilari_Sergei"
+        }
+      }
+    },
+    {
+      "name": "Törmänen Tero Anssi",
+      "id": "1974Törmänen Tero Anssi",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14145,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 181033.87,
+          "capitalIncome": 0,
+          "salary": 181033.87,
+          "rank": 24285,
+          "rankOfLastYear": 24285,
+          "paidTaxes": 67466.69,
+          "taxRatio": 37.26744061760377,
+          "personId": "1974Törmänen Tero Anssi",
+          "fragmentId": "20241974T-rm-nen_Tero_Anssi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

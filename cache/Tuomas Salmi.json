@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "name": "Salminen Mika Tuomas Petteri",
+      "id": "1970Salminen Mika Tuomas Petteri",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4121,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 282820.68,
+          "capitalIncome": 5979.29,
+          "salary": 276841.39,
+          "rank": 8851,
+          "rankOfLastYear": 8851,
+          "paidTaxes": 132044.79,
+          "taxRatio": 46.68852008983219,
+          "personId": "1970Salminen Mika Tuomas Petteri",
+          "fragmentId": "20241970Salminen_Mika_Tuomas_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Salminen Tuomas Matti Olavi",
+      "id": "1982Salminen Tuomas Matti Olavi",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16138,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 173338.39,
+          "capitalIncome": 0,
+          "salary": 173338.39,
+          "rank": 27026,
+          "rankOfLastYear": 27026,
+          "paidTaxes": 71514.58,
+          "taxRatio": 41.25720793876071,
+          "personId": "1982Salminen Tuomas Matti Olavi",
+          "fragmentId": "20241982Salminen_Tuomas_Matti_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Salminen Tuomas Matti Juhani",
+      "id": "1981Salminen Tuomas Matti Juhani",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20783,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 158915.06,
+          "capitalIncome": 0,
+          "salary": 158915.06,
+          "rank": 33467,
+          "rankOfLastYear": 33467,
+          "paidTaxes": 65990.97,
+          "taxRatio": 41.52593844787272,
+          "personId": "1981Salminen Tuomas Matti Juhani",
+          "fragmentId": "20241981Salminen_Tuomas_Matti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Salminen Jukka Tuomas",
+      "id": "1963Salminen Jukka Tuomas",
+      "gender": "m",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27553,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 144586.17,
+          "capitalIncome": 0,
+          "salary": 144586.17,
+          "rank": 42696,
+          "rankOfLastYear": 42696,
+          "paidTaxes": 58443.27,
+          "taxRatio": 40.42106516826609,
+          "personId": "1963Salminen Jukka Tuomas",
+          "fragmentId": "20241963Salminen_Jukka_Tuomas"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

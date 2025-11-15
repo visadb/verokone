@@ -1,0 +1,182 @@
+{
+  "results": [
+    {
+      "name": "Ruusunlehti Heini Johanna",
+      "id": "1985Ruusunlehti Heini Johanna",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61867,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 375116.46,
+          "capitalIncome": 316238.31,
+          "salary": 58878.15,
+          "rank": 5243,
+          "rankOfLastYear": 5243,
+          "paidTaxes": 120015.05,
+          "taxRatio": 31.994077252701736,
+          "personId": "1985Ruusunlehti Heini Johanna",
+          "fragmentId": "20241985Ruusunlehti_Heini_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Heinilä Mervi Kati Johanna",
+      "id": "1971Heinilä Mervi Kati Johanna",
+      "birthYear": 1971,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44110,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 199374.52000000002,
+          "capitalIncome": 75446.5,
+          "salary": 123928.02,
+          "rank": 19166,
+          "rankOfLastYear": 19166,
+          "paidTaxes": 77373.18,
+          "taxRatio": 38.807958007873815,
+          "personId": "1971Heinilä Mervi Kati Johanna",
+          "fragmentId": "20241971Heinil-_Mervi_Kati_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Toivonen Heini Johanna",
+      "id": "1974Toivonen Heini Johanna",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 21293,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 157787.4,
+          "capitalIncome": 112.5,
+          "salary": 157674.9,
+          "rank": 34106,
+          "rankOfLastYear": 34106,
+          "paidTaxes": 62385.08,
+          "taxRatio": 39.53742821036407,
+          "personId": "1974Toivonen Heini Johanna",
+          "fragmentId": "20241974Toivonen_Heini_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lehtomäki Heini Johanna",
+      "id": "1978Lehtomäki Heini Johanna",
+      "birthYear": 1978,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22963,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 153831.45,
+          "capitalIncome": 96,
+          "salary": 153735.45,
+          "rank": 36350,
+          "rankOfLastYear": 36350,
+          "paidTaxes": 66452.6,
+          "taxRatio": 43.198318679307775,
+          "personId": "1978Lehtomäki Heini Johanna",
+          "fragmentId": "20241978Lehtom-ki_Heini_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Scheinin Annalotta",
+      "id": "1984Scheinin Annalotta",
+      "birthYear": 1984,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30359,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 140039.23,
+          "capitalIncome": 0,
+          "salary": 140039.23,
+          "rank": 46450,
+          "rankOfLastYear": 46450,
+          "paidTaxes": 56328.3,
+          "taxRatio": 40.223228876651206,
+          "personId": "1984Scheinin Annalotta",
+          "fragmentId": "20241984Scheinin_Annalotta"
+        }
+      }
+    },
+    {
+      "name": "Lassus Heini Johanna",
+      "id": "1974Lassus Heini Johanna",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47347,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122753.92,
+          "capitalIncome": 1569.69,
+          "salary": 121184.23,
+          "rank": 66053,
+          "rankOfLastYear": 66053,
+          "paidTaxes": 43805.03,
+          "taxRatio": 35.68523921680057,
+          "personId": "1974Lassus Heini Johanna",
+          "fragmentId": "20241974Lassus_Heini_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Salo Heini Annamaaria",
+      "id": "1986Salo Heini Annamaaria",
+      "birthYear": 1986,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47455,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 121474.16,
+          "capitalIncome": 381.27,
+          "salary": 121092.89,
+          "rank": 67878,
+          "rankOfLastYear": 67878,
+          "paidTaxes": 49117.17,
+          "taxRatio": 40.43425367172738,
+          "personId": "1986Salo Heini Annamaaria",
+          "fragmentId": "20241986Salo_Heini_Annamaaria"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

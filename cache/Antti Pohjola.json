@@ -1,0 +1,113 @@
+{
+  "results": [
+    {
+      "name": "Pohjolainen Antti Juhani",
+      "id": "1964Pohjolainen Antti Juhani",
+      "gender": "m",
+      "birthYear": 1964,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55759,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 276999,
+          "capitalIncome": 180577.9,
+          "salary": 96421.1,
+          "rank": 9228,
+          "rankOfLastYear": 9228,
+          "paidTaxes": 95559.61,
+          "taxRatio": 34.498178693785896,
+          "personId": "1964Pohjolainen Antti Juhani",
+          "fragmentId": "20241964Pohjolainen_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Pohjola Juuso Antti Matias",
+      "id": "1974Pohjola Juuso Antti Matias",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4723,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 267935.07,
+          "capitalIncome": 4374.8,
+          "salary": 263560.27,
+          "rank": 9870,
+          "rankOfLastYear": 9870,
+          "paidTaxes": 120889.7,
+          "taxRatio": 45.119028278007804,
+          "personId": "1974Pohjola Juuso Antti Matias",
+          "fragmentId": "20241974Pohjola_Juuso_Antti_Matias"
+        }
+      }
+    },
+    {
+      "name": "Pohjola Antti Valio",
+      "id": "1954Pohjola Antti Valio",
+      "gender": "m",
+      "birthYear": 1954,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38229,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 144284.24,
+          "capitalIncome": 14468.06,
+          "salary": 129816.18,
+          "rank": 42909,
+          "rankOfLastYear": 42909,
+          "paidTaxes": 59083.14,
+          "taxRatio": 40.949129301994454,
+          "personId": "1954Pohjola Antti Valio",
+          "fragmentId": "20241954Pohjola_Antti_Valio"
+        }
+      }
+    },
+    {
+      "name": "Pohjola Jouni Antti Samuel",
+      "id": "1969Pohjola Jouni Antti Samuel",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30252,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 143255.8,
+          "capitalIncome": 3044.96,
+          "salary": 140210.84,
+          "rank": 43758,
+          "rankOfLastYear": 43758,
+          "paidTaxes": 55911.46,
+          "taxRatio": 39.02910737296501,
+          "personId": "1969Pohjola Jouni Antti Samuel",
+          "fragmentId": "20241969Pohjola_Jouni_Antti_Samuel"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

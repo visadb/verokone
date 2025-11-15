@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Kalliokoski Teemu Mikael",
+      "id": "1972Kalliokoski Teemu Mikael",
+      "gender": "m",
+      "birthYear": 1972,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4438,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjanmaa",
+          "totalIncome": 269235.11,
+          "capitalIncome": 0,
+          "salary": 269235.11,
+          "rank": 9758,
+          "rankOfLastYear": 9758,
+          "paidTaxes": 135503.53,
+          "taxRatio": 50.329071123004724,
+          "personId": "1972Kalliokoski Teemu Mikael",
+          "fragmentId": "20241972Kalliokoski_Teemu_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

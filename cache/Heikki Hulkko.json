@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Hulkkonen Juha Heikki Sakari",
+      "id": "1959Hulkkonen Juha Heikki Sakari",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29515,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 144836.41999999998,
+          "capitalIncome": 3512.99,
+          "salary": 141323.43,
+          "rank": 42525,
+          "rankOfLastYear": 42525,
+          "paidTaxes": 56112.41,
+          "taxRatio": 38.74192002260205,
+          "personId": "1959Hulkkonen Juha Heikki Sakari",
+          "fragmentId": "20241959Hulkkonen_Juha_Heikki_Sakari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

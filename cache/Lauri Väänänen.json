@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Väänänen Lauri Tommi Tapani",
+      "id": "1971Väänänen Lauri Tommi Tapani",
+      "birthYear": 1971,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48217,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 305233.87,
+          "capitalIncome": 184760.37,
+          "salary": 120473.5,
+          "rank": 7592,
+          "rankOfLastYear": 7592,
+          "paidTaxes": 109797.4,
+          "taxRatio": 35.97156501668704,
+          "personId": "1971Väänänen Lauri Tommi Tapani",
+          "fragmentId": "20241971V--n-nen_Lauri_Tommi_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

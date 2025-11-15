@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Lappalainen Janne Tapani",
+      "id": "1964Lappalainen Janne Tapani",
+      "birthYear": 1964,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31824,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 155488.74,
+          "capitalIncome": 17607.72,
+          "salary": 137881.02,
+          "rank": 35341,
+          "rankOfLastYear": 35341,
+          "paidTaxes": 60778.09,
+          "taxRatio": 39.08841887843454,
+          "personId": "1964Lappalainen Janne Tapani",
+          "fragmentId": "20241964Lappalainen_Janne_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Routto Tuomas Aarne Sakari",
+      "id": "1975Routto Tuomas Aarne Sakari",
+      "gender": "m",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3785,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 407209.15,
+          "capitalIncome": 121912.37,
+          "salary": 285296.78,
+          "rank": 4530,
+          "rankOfLastYear": 4530,
+          "paidTaxes": 99366.23,
+          "taxRatio": 24.401767494664593,
+          "personId": "1975Routto Tuomas Aarne Sakari",
+          "fragmentId": "20241975Routto_Tuomas_Aarne_Sakari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

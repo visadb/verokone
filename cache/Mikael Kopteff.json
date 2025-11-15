@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kopteff Mikael",
+      "id": "1982Kopteff Mikael",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22425,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 170781.19,
+          "capitalIncome": 15830.03,
+          "salary": 154951.16,
+          "rank": 28065,
+          "rankOfLastYear": 28065,
+          "paidTaxes": 64885.29,
+          "taxRatio": 37.99322981646866,
+          "personId": "1982Kopteff Mikael",
+          "fragmentId": "20241982Kopteff_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

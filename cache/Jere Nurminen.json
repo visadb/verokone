@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Nurminen Jere Heikki Petteri",
+      "id": "1982Nurminen Jere Heikki Petteri",
+      "birthYear": 1982,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19933,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 165823.69999999998,
+          "capitalIncome": 4544.43,
+          "salary": 161279.27,
+          "rank": 30152,
+          "rankOfLastYear": 30152,
+          "paidTaxes": 68125.42,
+          "taxRatio": 41.08304180886086,
+          "personId": "1982Nurminen Jere Heikki Petteri",
+          "fragmentId": "20241982Nurminen_Jere_Heikki_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Nurminen Jere Jukka",
+      "id": "1978Nurminen Jere Jukka",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30364,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 140042.69,
+          "capitalIncome": 16.66,
+          "salary": 140026.03,
+          "rank": 46446,
+          "rankOfLastYear": 46446,
+          "paidTaxes": 56161.9,
+          "taxRatio": 40.103414180347436,
+          "personId": "1978Nurminen Jere Jukka",
+          "fragmentId": "20241978Nurminen_Jere_Jukka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

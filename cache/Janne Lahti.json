@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "name": "Rajalahti Janne Antero",
+      "id": "1964Rajalahti Janne Antero",
+      "gender": "m",
+      "birthYear": 1964,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2240,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "PwC:n partneri, KHT-tilintarkastaja",
+          "totalIncome": 364102.44,
+          "capitalIncome": 13834.12,
+          "salary": 350268.32,
+          "rank": 5532,
+          "rankOfLastYear": 5532,
+          "paidTaxes": 162613.35,
+          "taxRatio": 44.661428250796675,
+          "personId": "1964Rajalahti Janne Antero",
+          "fragmentId": "20241964Rajalahti_Janne_Antero"
+        }
+      }
+    },
+    {
+      "name": "Vuorilahti Janne Tapio",
+      "id": "1964Vuorilahti Janne Tapio",
+      "birthYear": 1964,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35472,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 144946,
+          "capitalIncome": 11880.19,
+          "salary": 133065.81,
+          "rank": 42431,
+          "rankOfLastYear": 42431,
+          "paidTaxes": 57363.47,
+          "taxRatio": 39.57575234915072,
+          "personId": "1964Vuorilahti Janne Tapio",
+          "fragmentId": "20241964Vuorilahti_Janne_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Haukilahti Janne Eerikki",
+      "id": "1977Haukilahti Janne Eerikki",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34041,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 140922.81,
+          "capitalIncome": 6000,
+          "salary": 134922.81,
+          "rank": 45686,
+          "rankOfLastYear": 45686,
+          "paidTaxes": 56494.11,
+          "taxRatio": 40.08869110685488,
+          "personId": "1977Haukilahti Janne Eerikki",
+          "fragmentId": "20241977Haukilahti_Janne_Eerikki"
+        }
+      }
+    },
+    {
+      "name": "Lahtinen Niko Janne Oskari",
+      "id": "1986Lahtinen Niko Janne Oskari",
+      "birthYear": 1986,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48906,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 135523.30000000002,
+          "capitalIncome": 15648.67,
+          "salary": 119874.63,
+          "rank": 50672,
+          "rankOfLastYear": 50672,
+          "paidTaxes": 50821.24,
+          "taxRatio": 37.50000184470124,
+          "personId": "1986Lahtinen Niko Janne Oskari",
+          "fragmentId": "20241986Lahtinen_Niko_Janne_Oskari"
+        }
+      }
+    },
+    {
+      "name": "Pirttilahti Janne Santeri",
+      "id": "1976Pirttilahti Janne Santeri",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36330,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132397.39,
+          "capitalIncome": 367.47,
+          "salary": 132029.92,
+          "rank": 53819,
+          "rankOfLastYear": 53819,
+          "paidTaxes": 47246.47,
+          "taxRatio": 35.685348480056895,
+          "personId": "1976Pirttilahti Janne Santeri",
+          "fragmentId": "20241976Pirttilahti_Janne_Santeri"
+        }
+      }
+    },
+    {
+      "name": "Lahti Janne Sakari",
+      "id": "1980Lahti Janne Sakari",
+      "birthYear": 1980,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42006,
+          "taxYear": 2024,
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 126238.06,
+          "capitalIncome": 316.01,
+          "salary": 125922.05,
+          "rank": 61147,
+          "rankOfLastYear": 61147,
+          "paidTaxes": 53753.69,
+          "taxRatio": 42.581207284078985,
+          "personId": "1980Lahti Janne Sakari",
+          "fragmentId": "20241980Lahti_Janne_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Puronlahti Janne Mikko Olavi",
+      "id": "1970Puronlahti Janne Mikko Olavi",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63144,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120325,
+          "capitalIncome": 69936.4,
+          "salary": 50388.6,
+          "rank": 69712,
+          "rankOfLastYear": 69712,
+          "paidTaxes": 35655.11,
+          "taxRatio": 29.632337419488884,
+          "personId": "1970Puronlahti Janne Mikko Olavi",
+          "fragmentId": "20241970Puronlahti_Janne_Mikko_Olavi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Tujunen Taru Annikki",
+      "id": "1970Tujunen Taru Annikki",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14538,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 190250.65,
+          "capitalIncome": 10753.31,
+          "salary": 179497.34,
+          "rank": 21482,
+          "rankOfLastYear": 21482,
+          "paidTaxes": 83363.47,
+          "taxRatio": 43.81770574765448,
+          "personId": "1970Tujunen Taru Annikki",
+          "fragmentId": "20241970Tujunen_Taru_Annikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Pitkänen Eero Antti Juhani",
+      "id": "1984Pitkänen Eero Antti Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30573,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 150475.61,
+          "capitalIncome": 10789.11,
+          "salary": 139686.5,
+          "rank": 38519,
+          "rankOfLastYear": 38519,
+          "paidTaxes": 56641.92,
+          "taxRatio": 37.64192748578989,
+          "personId": "1984Pitkänen Eero Antti Juhani",
+          "fragmentId": "20241984Pitk-nen_Eero_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Juha Eero Tapani",
+      "id": "1959Pitkänen Juha Eero Tapani",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35424,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 135068.33000000002,
+          "capitalIncome": 1957.13,
+          "salary": 133111.2,
+          "rank": 51144,
+          "rankOfLastYear": 51144,
+          "paidTaxes": 57689.58,
+          "taxRatio": 42.711403924221166,
+          "personId": "1959Pitkänen Juha Eero Tapani",
+          "fragmentId": "20241959Pitk-nen_Juha_Eero_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

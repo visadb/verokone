@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Latva Kaisa Kerttu Emilia",
+      "id": "1987Latva Kaisa Kerttu Emilia",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23065,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 153653.02,
+          "capitalIncome": 155.34,
+          "salary": 153497.68,
+          "rank": 36459,
+          "rankOfLastYear": 36459,
+          "paidTaxes": 63009.84,
+          "taxRatio": 41.00787605736614,
+          "personId": "1987Latva Kaisa Kerttu Emilia",
+          "fragmentId": "20241987Latva_Kaisa_Kerttu_Emilia"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

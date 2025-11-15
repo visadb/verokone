@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "name": "Aaltonen Marko Juhani",
+      "id": "1968Aaltonen Marko Juhani",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11600,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 219665.17,
+          "capitalIncome": 26306.57,
+          "salary": 193358.6,
+          "rank": 15231,
+          "rankOfLastYear": 15231,
+          "paidTaxes": 89851.02,
+          "taxRatio": 40.90362618707372,
+          "personId": "1968Aaltonen Marko Juhani",
+          "fragmentId": "20241968Aaltonen_Marko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Aalto Marko Antero",
+      "id": "1979Aalto Marko Antero",
+      "birthYear": 1979,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26035,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 147433.64,
+          "capitalIncome": 0,
+          "salary": 147433.64,
+          "rank": 40584,
+          "rankOfLastYear": 40584,
+          "paidTaxes": 64888.52,
+          "taxRatio": 44.01201788140074,
+          "personId": "1979Aalto Marko Antero",
+          "fragmentId": "20241979Aalto_Marko_Antero"
+        }
+      }
+    },
+    {
+      "name": "Aalto Marko Tapani",
+      "id": "1969Aalto Marko Tapani",
+      "birthYear": 1969,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57398,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 135216.58,
+          "capitalIncome": 47893.04,
+          "salary": 87323.54,
+          "rank": 50977,
+          "rankOfLastYear": 50977,
+          "paidTaxes": 45650.34,
+          "taxRatio": 33.76090417314208,
+          "personId": "1969Aalto Marko Tapani",
+          "fragmentId": "20241969Aalto_Marko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

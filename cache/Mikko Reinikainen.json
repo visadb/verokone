@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Reinikainen Mikko Sakari",
+      "id": "1970Reinikainen Mikko Sakari",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5135,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 255483.59,
+          "capitalIncome": 0,
+          "salary": 255483.59,
+          "rank": 10890,
+          "rankOfLastYear": 10890,
+          "paidTaxes": 112237.01,
+          "taxRatio": 43.931201217268004,
+          "personId": "1970Reinikainen Mikko Sakari",
+          "fragmentId": "20241970Reinikainen_Mikko_Sakari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

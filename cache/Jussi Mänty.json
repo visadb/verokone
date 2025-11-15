@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "name": "Mäntynen Jussi Antero",
+      "id": "1975Mäntynen Jussi Antero",
+      "gender": "m",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5653,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 246738.84,
+          "capitalIncome": 0,
+          "salary": 246738.84,
+          "rank": 11777,
+          "rankOfLastYear": 11777,
+          "paidTaxes": 110724.15,
+          "taxRatio": 44.87503872515571,
+          "personId": "1975Mäntynen Jussi Antero",
+          "fragmentId": "20241975M-ntynen_Jussi_Antero"
+        }
+      }
+    },
+    {
+      "name": "Mäntyniemi Jussi Petri",
+      "id": "1962Mäntyniemi Jussi Petri",
+      "birthYear": 1962,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13999,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 190311.25,
+          "capitalIncome": 8702.77,
+          "salary": 181608.48,
+          "rank": 21467,
+          "rankOfLastYear": 21467,
+          "paidTaxes": 84859.41,
+          "taxRatio": 44.58980223187016,
+          "personId": "1962Mäntyniemi Jussi Petri",
+          "fragmentId": "20241962M-ntyniemi_Jussi_Petri"
+        }
+      }
+    },
+    {
+      "name": "Mäntylä Martti Jussi Tapani",
+      "id": "1955Mäntylä Martti Jussi Tapani",
+      "birthYear": 1955,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32922,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 145576.81,
+          "capitalIncome": 9170.05,
+          "salary": 136406.76,
+          "rank": 41965,
+          "rankOfLastYear": 41965,
+          "paidTaxes": 61013.89,
+          "taxRatio": 41.91181960918088,
+          "personId": "1955Mäntylä Martti Jussi Tapani",
+          "fragmentId": "20241955M-ntyl-_Martti_Jussi_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

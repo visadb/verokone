@@ -1,0 +1,184 @@
+{
+  "results": [
+    {
+      "name": "Virtanen Esa Pentti Juhani",
+      "id": "1955Virtanen Esa Pentti Juhani",
+      "birthYear": 1955,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6498,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 235224.86,
+          "capitalIncome": 209.31,
+          "salary": 235015.55,
+          "rank": 13054,
+          "rankOfLastYear": 13054,
+          "paidTaxes": 116883.38,
+          "taxRatio": 49.69006252145288,
+          "personId": "1955Virtanen Esa Pentti Juhani",
+          "fragmentId": "20241955Virtanen_Esa_Pentti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Esa Olavi",
+      "id": "1975Virtanen Esa Olavi",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11318,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 194889.53,
+          "capitalIncome": 0,
+          "salary": 194889.53,
+          "rank": 20237,
+          "rankOfLastYear": 20237,
+          "paidTaxes": 83868.52,
+          "taxRatio": 43.03387667875232,
+          "personId": "1975Virtanen Esa Olavi",
+          "fragmentId": "20241975Virtanen_Esa_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Esa Johannes",
+      "id": "1961Virtanen Esa Johannes",
+      "birthYear": 1961,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46230,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 184590.76,
+          "capitalIncome": 62488.93,
+          "salary": 122101.83,
+          "rank": 23140,
+          "rankOfLastYear": 23140,
+          "paidTaxes": 68287.93,
+          "taxRatio": 36.994229830355536,
+          "personId": "1961Virtanen Esa Johannes",
+          "fragmentId": "20241961Virtanen_Esa_Johannes"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Vesa Kalevi",
+      "id": "1958Virtanen Vesa Kalevi",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22024,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 168445.19,
+          "capitalIncome": 12523.65,
+          "salary": 155921.54,
+          "rank": 28990,
+          "rankOfLastYear": 28990,
+          "paidTaxes": 73170.37,
+          "taxRatio": 43.43868174567644,
+          "personId": "1958Virtanen Vesa Kalevi",
+          "fragmentId": "20241958Virtanen_Vesa_Kalevi"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Vesa Juhani",
+      "id": "1966Virtanen Vesa Juhani",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25270,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 148832.22,
+          "capitalIncome": 0,
+          "salary": 148832.22,
+          "rank": 39596,
+          "rankOfLastYear": 39596,
+          "paidTaxes": 58950.31,
+          "taxRatio": 39.608567284691446,
+          "personId": "1966Virtanen Vesa Juhani",
+          "fragmentId": "20241966Virtanen_Vesa_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Kalle Vesanpoika",
+      "id": "1986Virtanen Kalle Vesanpoika",
+      "birthYear": 1986,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 68648,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 140687.85,
+          "capitalIncome": 139831.62,
+          "salary": 856.23,
+          "rank": 45900,
+          "rankOfLastYear": 45900,
+          "paidTaxes": 44644.2,
+          "taxRatio": 31.732804218701183,
+          "personId": "1986Virtanen Kalle Vesanpoika",
+          "fragmentId": "20241986Virtanen_Kalle_Vesanpoika"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Esa Tapani",
+      "id": "1952Virtanen Esa Tapani",
+      "birthYear": 1952,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44309,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 123754.83,
+          "capitalIncome": 0,
+          "salary": 123754.83,
+          "rank": 64585,
+          "rankOfLastYear": 64585,
+          "paidTaxes": 46707.55,
+          "taxRatio": 37.74200166571276,
+          "personId": "1952Virtanen Esa Tapani",
+          "fragmentId": "20241952Virtanen_Esa_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

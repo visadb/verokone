@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Saulo Lara Kristiaana",
+      "id": "1972Saulo Lara Kristiaana",
+      "gender": "n",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 861,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Uusimaa",
+          "totalIncome": 518763.24,
+          "capitalIncome": 2828.31,
+          "salary": 515934.93,
+          "rank": 3048,
+          "rankOfLastYear": 3048,
+          "paidTaxes": 248259.03,
+          "taxRatio": 47.85594098764592,
+          "personId": "1972Saulo Lara Kristiaana",
+          "fragmentId": "20241972Saulo_Lara_Kristiaana"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

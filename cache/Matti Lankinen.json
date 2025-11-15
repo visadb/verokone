@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Lankinen Matti Antero",
+      "id": "1959Lankinen Matti Antero",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 21216,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 157887.06,
+          "capitalIncome": 0,
+          "salary": 157887.06,
+          "rank": 34044,
+          "rankOfLastYear": 34044,
+          "paidTaxes": 62678.65,
+          "taxRatio": 39.698408469953144,
+          "personId": "1959Lankinen Matti Antero",
+          "fragmentId": "20241959Lankinen_Matti_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

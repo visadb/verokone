@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Rautanen Antti Veli Johannes",
+      "id": "1988Rautanen Antti Veli Johannes",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42598,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 125368.86,
+          "capitalIncome": 0,
+          "salary": 125368.86,
+          "rank": 62310,
+          "rankOfLastYear": 62310,
+          "paidTaxes": 48597.26,
+          "taxRatio": 38.76342179389683,
+          "personId": "1988Rautanen Antti Veli Johannes",
+          "fragmentId": "20241988Rautanen_Antti_Veli_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

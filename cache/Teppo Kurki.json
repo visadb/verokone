@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kurki Teppo Juhani",
+      "id": "1966Kurki Teppo Juhani",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49209,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120134.84,
+          "capitalIncome": 822.92,
+          "salary": 119311.92,
+          "rank": 70014,
+          "rankOfLastYear": 70014,
+          "paidTaxes": 44544.23,
+          "taxRatio": 37.07852776097259,
+          "personId": "1966Kurki Teppo Juhani",
+          "fragmentId": "20241966Kurki_Teppo_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

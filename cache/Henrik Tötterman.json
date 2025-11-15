@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Tötterman Claes Henrik",
+      "id": "1955Tötterman Claes Henrik",
+      "gender": "m",
+      "birthYear": 1955,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8996,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 255754.09,
+          "capitalIncome": 45405.97,
+          "salary": 210348.12,
+          "rank": 10870,
+          "rankOfLastYear": 10870,
+          "paidTaxes": 109971.32,
+          "taxRatio": 42.99885096656715,
+          "personId": "1955Tötterman Claes Henrik",
+          "fragmentId": "20241955T-tterman_Claes_Henrik"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

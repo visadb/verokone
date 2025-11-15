@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Vainionpää Asko Harri Johannes",
+      "id": "1966Vainionpää Asko Harri Johannes",
+      "birthYear": 1966,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 70055,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 129752.72,
+          "capitalIncome": 129752.72,
+          "salary": 0,
+          "rank": 56783,
+          "rankOfLastYear": 56783,
+          "paidTaxes": 42915.92,
+          "taxRatio": 33.07516019702708,
+          "personId": "1966Vainionpää Asko Harri Johannes",
+          "fragmentId": "20241966Vainionp--_Asko_Harri_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

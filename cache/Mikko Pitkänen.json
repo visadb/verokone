@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Pitkänen Mikko Tapani",
+      "id": "1956Pitkänen Mikko Tapani",
+      "gender": "m",
+      "birthYear": 1956,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31517,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 155422.22,
+          "capitalIncome": 17111.3,
+          "salary": 138310.92,
+          "rank": 35385,
+          "rankOfLastYear": 35385,
+          "paidTaxes": 62923.59,
+          "taxRatio": 40.48558179132945,
+          "personId": "1956Pitkänen Mikko Tapani",
+          "fragmentId": "20241956Pitk-nen_Mikko_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Mikko Antero",
+      "id": "1980Pitkänen Mikko Antero",
+      "birthYear": 1980,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31704,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 138050.68,
+          "capitalIncome": 0,
+          "salary": 138050.68,
+          "rank": 48249,
+          "rankOfLastYear": 48249,
+          "paidTaxes": 57284.72,
+          "taxRatio": 41.495427621218525,
+          "personId": "1980Pitkänen Mikko Antero",
+          "fragmentId": "20241980Pitk-nen_Mikko_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

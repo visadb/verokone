@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "name": "Laakso Terho Antero",
+      "id": "1962Laakso Terho Antero",
+      "gender": "m",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53573,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1751996.43,
+          "capitalIncome": 1645233.22,
+          "salary": 106763.21,
+          "rank": 480,
+          "rankOfLastYear": 480,
+          "paidTaxes": 596079.53,
+          "taxRatio": 34.022873551174996,
+          "personId": "1962Laakso Terho Antero",
+          "fragmentId": "20241962Laakso_Terho_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Tero Taneli",
+      "id": "1977Laakso Tero Taneli",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1020,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 490538.63,
+          "capitalIncome": 11570.1,
+          "salary": 478968.53,
+          "rank": 3331,
+          "rankOfLastYear": 3331,
+          "paidTaxes": 238060.26,
+          "taxRatio": 48.53037975826695,
+          "personId": "1977Laakso Tero Taneli",
+          "fragmentId": "20241977Laakso_Tero_Taneli"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Tero Mikael",
+      "id": "1946Laaksonen Tero Mikael",
+      "gender": "m",
+      "birthYear": 1946,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8460,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "Nokian entinen verkkoryhmän johtaja, Telian entinen toimitusjohtaja",
+          "totalIncome": 467498.76,
+          "capitalIncome": 252802.39,
+          "salary": 214696.37,
+          "rank": 3596,
+          "rankOfLastYear": 3596,
+          "paidTaxes": 182373.4,
+          "taxRatio": 39.01045641276139,
+          "personId": "1946Laaksonen Tero Mikael",
+          "fragmentId": "20241946Laaksonen_Tero_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Toni Antero",
+      "id": "1982Laaksonen Toni Antero",
+      "gender": "m",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1805,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 394392.24,
+          "capitalIncome": 13954.47,
+          "salary": 380437.77,
+          "rank": 4777,
+          "rankOfLastYear": 4777,
+          "paidTaxes": 178989.81,
+          "taxRatio": 45.383704811230565,
+          "personId": "1982Laaksonen Toni Antero",
+          "fragmentId": "20241982Laaksonen_Toni_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Vesa Antero",
+      "id": "1965Laakso Vesa Antero",
+      "gender": "m",
+      "birthYear": 1965,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57937,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 391192.94,
+          "capitalIncome": 307157.86,
+          "salary": 84035.08,
+          "rank": 4856,
+          "rankOfLastYear": 4856,
+          "paidTaxes": 132369.87,
+          "taxRatio": 33.837489500705196,
+          "personId": "1965Laakso Vesa Antero",
+          "fragmentId": "20241965Laakso_Vesa_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Jani Antero Rudolf",
+      "id": "1973Laakso Jani Antero Rudolf",
+      "gender": "m",
+      "birthYear": 1973,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1985,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 372029.36,
+          "capitalIncome": 4132.38,
+          "salary": 367896.98,
+          "rank": 5325,
+          "rankOfLastYear": 5325,
+          "paidTaxes": 177356.56,
+          "taxRatio": 47.67273206609285,
+          "personId": "1973Laakso Jani Antero Rudolf",
+          "fragmentId": "20241973Laakso_Jani_Antero_Rudolf"
+        }
+      }
+    },
+    {
+      "name": "Laakso Ari Antero",
+      "id": "1947Laakso Ari Antero",
+      "gender": "m",
+      "birthYear": 1947,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4194,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 292640.21,
+          "capitalIncome": 17817.65,
+          "salary": 274822.56,
+          "rank": 8263,
+          "rankOfLastYear": 8263,
+          "paidTaxes": 143491.61,
+          "taxRatio": 49.0334564754447,
+          "personId": "1947Laakso Ari Antero",
+          "fragmentId": "20241947Laakso_Ari_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Kari Antero",
+      "id": "1959Laakso Kari Antero",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58136,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "Vitrean toimitusjohtaja ja hallituksen puheenjohtaja, Lasitiilirakenteen hallituksen puheenjohtaja.",
+          "totalIncome": 251342.19,
+          "capitalIncome": 168521.06,
+          "salary": 82821.13,
+          "rank": 11290,
+          "rankOfLastYear": 11290,
+          "paidTaxes": 80890.48,
+          "taxRatio": 32.18340701177148,
+          "personId": "1959Laakso Kari Antero",
+          "fragmentId": "20241959Laakso_Kari_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Simo Matti Antero",
+      "id": "1962Laakso Simo Matti Antero",
+      "gender": "m",
+      "birthYear": 1962,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 56625,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 185060.7,
+          "capitalIncome": 93227.99,
+          "salary": 91832.71,
+          "rank": 23000,
+          "rankOfLastYear": 23000,
+          "paidTaxes": 65092.45,
+          "taxRatio": 35.173567375461126,
+          "personId": "1962Laakso Simo Matti Antero",
+          "fragmentId": "20241962Laakso_Simo_Matti_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Raimo Antero",
+      "id": "1959Laakso Raimo Antero",
+      "birthYear": 1959,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32641,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 178185.67,
+          "capitalIncome": 41424.6,
+          "salary": 136761.07,
+          "rank": 25236,
+          "rankOfLastYear": 25236,
+          "paidTaxes": 67892.92,
+          "taxRatio": 38.102345716128575,
+          "personId": "1959Laakso Raimo Antero",
+          "fragmentId": "20241959Laakso_Raimo_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Markku Antero",
+      "id": "1991Laaksonen Markku Antero",
+      "birthYear": 1991,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63924,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 163979.87,
+          "capitalIncome": 118909.96,
+          "salary": 45069.91,
+          "rank": 30945,
+          "rankOfLastYear": 30945,
+          "paidTaxes": 51437.51,
+          "taxRatio": 31.368185619369015,
+          "personId": "1991Laaksonen Markku Antero",
+          "fragmentId": "20241991Laaksonen_Markku_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Kimmo Antero",
+      "id": "1968Laaksonen Kimmo Antero",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19602,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 162242,
+          "capitalIncome": 0,
+          "salary": 162242,
+          "rank": 31776,
+          "rankOfLastYear": 31776,
+          "paidTaxes": 71891.07,
+          "taxRatio": 44.3110107123926,
+          "personId": "1968Laaksonen Kimmo Antero",
+          "fragmentId": "20241968Laaksonen_Kimmo_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Markku Antero",
+      "id": "1969Laaksonen Markku Antero",
+      "birthYear": 1969,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26831,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 145904.99,
+          "capitalIncome": 0,
+          "salary": 145904.99,
+          "rank": 41726,
+          "rankOfLastYear": 41726,
+          "paidTaxes": 60727.71,
+          "taxRatio": 41.621407191076884,
+          "personId": "1969Laaksonen Markku Antero",
+          "fragmentId": "20241969Laaksonen_Markku_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laakso Sami Antero",
+      "id": "1974Laakso Sami Antero",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38208,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129843.98,
+          "capitalIncome": 0,
+          "salary": 129843.98,
+          "rank": 56664,
+          "rankOfLastYear": 56664,
+          "paidTaxes": 53022.58,
+          "taxRatio": 40.83560901321725,
+          "personId": "1974Laakso Sami Antero",
+          "fragmentId": "20241974Laakso_Sami_Antero"
+        }
+      }
+    },
+    {
+      "name": "Laaksonen Jarkko Antero",
+      "id": "1976Laaksonen Jarkko Antero",
+      "birthYear": 1976,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 64966,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 123412.91,
+          "capitalIncome": 85973,
+          "salary": 37439.91,
+          "rank": 65081,
+          "rankOfLastYear": 65081,
+          "paidTaxes": 37802.18,
+          "taxRatio": 30.63065282230198,
+          "personId": "1976Laaksonen Jarkko Antero",
+          "fragmentId": "20241976Laaksonen_Jarkko_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 15,
+  "totResults": 15
+}

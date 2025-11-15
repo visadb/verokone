@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Levola Mikko Henrikki",
+      "id": "1970Levola Mikko Henrikki",
+      "birthYear": 1970,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14263,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 183493.72,
+          "capitalIncome": 2917.67,
+          "salary": 180576.05,
+          "rank": 23462,
+          "rankOfLastYear": 23462,
+          "paidTaxes": 81948.7,
+          "taxRatio": 44.660220524168345,
+          "personId": "1970Levola Mikko Henrikki",
+          "fragmentId": "20241970Levola_Mikko_Henrikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

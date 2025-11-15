@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Vuorisalo Valtteri Raimo",
+      "id": "1973Vuorisalo Valtteri Raimo",
+      "birthYear": 1973,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12112,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 190673.13999999998,
+          "capitalIncome": 118.28,
+          "salary": 190554.86,
+          "rank": 21365,
+          "rankOfLastYear": 21365,
+          "paidTaxes": 87956.07,
+          "taxRatio": 46.12923980797716,
+          "personId": "1973Vuorisalo Valtteri Raimo",
+          "fragmentId": "20241973Vuorisalo_Valtteri_Raimo"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

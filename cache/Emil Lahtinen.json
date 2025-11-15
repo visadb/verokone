@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Lahtinen Anna Emilia",
+      "id": "1979Lahtinen Anna Emilia",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35753,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132742.54,
+          "capitalIncome": 0.14,
+          "salary": 132742.4,
+          "rank": 53442,
+          "rankOfLastYear": 53442,
+          "paidTaxes": 53566.32,
+          "taxRatio": 40.35354453817141,
+          "personId": "1979Lahtinen Anna Emilia",
+          "fragmentId": "20241979Lahtinen_Anna_Emilia"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Salonen Ilkka Ilari",
+      "id": "1959Salonen Ilkka Ilari",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7785,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kanta-Häme",
+          "totalIncome": 230325.41,
+          "capitalIncome": 9586.02,
+          "salary": 220739.39,
+          "rank": 13656,
+          "rankOfLastYear": 13656,
+          "paidTaxes": 107648.63,
+          "taxRatio": 46.73762656061266,
+          "personId": "1959Salonen Ilkka Ilari",
+          "fragmentId": "20241959Salonen_Ilkka_Ilari"
+        }
+      }
+    },
+    {
+      "name": "Salonen Olli Ilari",
+      "id": "1971Salonen Olli Ilari",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34380,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 134415.57,
+          "capitalIncome": 0,
+          "salary": 134415.57,
+          "rank": 51737,
+          "rankOfLastYear": 51737,
+          "paidTaxes": 56360.67,
+          "taxRatio": 41.93016478671332,
+          "personId": "1971Salonen Olli Ilari",
+          "fragmentId": "20241971Salonen_Olli_Ilari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

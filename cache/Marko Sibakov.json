@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Sibakov Marko Tapani",
+      "id": "1973Sibakov Marko Tapani",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24925,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 153630.61,
+          "capitalIncome": 4115.52,
+          "salary": 149515.09,
+          "rank": 36477,
+          "rankOfLastYear": 36477,
+          "paidTaxes": 60112.82,
+          "taxRatio": 39.12815291171467,
+          "personId": "1973Sibakov Marko Tapani",
+          "fragmentId": "20241973Sibakov_Marko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

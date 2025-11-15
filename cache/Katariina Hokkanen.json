@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Hokkanen Leena Katariina",
+      "id": "1966Hokkanen Leena Katariina",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63799,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 330251.39,
+          "capitalIncome": 284372.88,
+          "salary": 45878.51,
+          "rank": 6547,
+          "rankOfLastYear": 6547,
+          "paidTaxes": 104688.78,
+          "taxRatio": 31.699724261569344,
+          "personId": "1966Hokkanen Leena Katariina",
+          "fragmentId": "20241966Hokkanen_Leena_Katariina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

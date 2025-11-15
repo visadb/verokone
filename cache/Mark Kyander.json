@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kyander Mark Artur",
+      "id": "1983Kyander Mark Artur",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53181,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 142679.2,
+          "capitalIncome": 34426.13,
+          "salary": 108253.07,
+          "rank": 44244,
+          "rankOfLastYear": 44244,
+          "paidTaxes": 49126.31,
+          "taxRatio": 34.43130463305092,
+          "personId": "1983Kyander Mark Artur",
+          "fragmentId": "20241983Kyander_Mark_Artur"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

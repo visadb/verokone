@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Jansson Per-Mikael",
+      "id": "1974Jansson Per-Mikael",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65275,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 165599.71,
+          "capitalIncome": 130541,
+          "salary": 35058.71,
+          "rank": 30236,
+          "rankOfLastYear": 30236,
+          "paidTaxes": 51088.31,
+          "taxRatio": 30.850482769565236,
+          "personId": "1974Jansson Per-Mikael",
+          "fragmentId": "20241974Jansson_Per-Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

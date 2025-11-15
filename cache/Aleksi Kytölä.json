@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kytölä Aleksi Johannes",
+      "id": "1995Kytölä Aleksi Johannes",
+      "birthYear": 1995,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 28013,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 143722.75,
+          "capitalIncome": 0,
+          "salary": 143722.75,
+          "rank": 43372,
+          "rankOfLastYear": 43372,
+          "paidTaxes": 58375.01,
+          "taxRatio": 40.61640206578291,
+          "personId": "1995Kytölä Aleksi Johannes",
+          "fragmentId": "20241995Kyt-l-_Aleksi_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

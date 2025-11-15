@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "name": "Nylund Tor Mikael",
+      "id": "1975Nylund Tor Mikael",
+      "birthYear": 1975,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5871,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 333421.4,
+          "capitalIncome": 89866.25,
+          "salary": 243555.15,
+          "rank": 6422,
+          "rankOfLastYear": 6422,
+          "paidTaxes": 142948.27,
+          "taxRatio": 42.87315391273625,
+          "personId": "1975Nylund Tor Mikael",
+          "fragmentId": "20241975Nylund_Tor_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Nylund Nils Mikael Gerhard",
+      "id": "1966Nylund Nils Mikael Gerhard",
+      "birthYear": 1966,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6636,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 245945.27,
+          "capitalIncome": 12458.02,
+          "salary": 233487.25,
+          "rank": 11860,
+          "rankOfLastYear": 11860,
+          "paidTaxes": 127399.96,
+          "taxRatio": 51.80012610122569,
+          "personId": "1966Nylund Nils Mikael Gerhard",
+          "fragmentId": "20241966Nylund_Nils_Mikael_Gerhard"
+        }
+      }
+    },
+    {
+      "name": "Nylund Kristian Axel Mikael",
+      "id": "1978Nylund Kristian Axel Mikael",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25818,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 163725.32,
+          "capitalIncome": 15912.16,
+          "salary": 147813.16,
+          "rank": 31070,
+          "rankOfLastYear": 31070,
+          "paidTaxes": 63321.13,
+          "taxRatio": 38.675221401307994,
+          "personId": "1978Nylund Kristian Axel Mikael",
+          "fragmentId": "20241978Nylund_Kristian_Axel_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Nylund Mikael Andreas",
+      "id": "1978Nylund Mikael Andreas",
+      "birthYear": 1978,
+      "lastCounty": "Ahvenanmaa - Åland",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60122,
+          "taxYear": 2024,
+          "county": "Ahvenanmaa - Åland",
+          "totalIncome": 149248.18,
+          "capitalIncome": 78959.57,
+          "salary": 70288.61,
+          "rank": 39328,
+          "rankOfLastYear": 39328,
+          "paidTaxes": 46866.68,
+          "taxRatio": 31.40184356016938,
+          "personId": "1978Nylund Mikael Andreas",
+          "fragmentId": "20241978Nylund_Mikael_Andreas"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

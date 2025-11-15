@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nameki Hiroshi",
+      "id": "1987Nameki Hiroshi",
+      "birthYear": 1987,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5122,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 256114.53,
+          "capitalIncome": 390.72,
+          "salary": 255723.81,
+          "rank": 10827,
+          "rankOfLastYear": 10827,
+          "paidTaxes": 120605.94,
+          "taxRatio": 47.09062777500363,
+          "personId": "1987Nameki Hiroshi",
+          "fragmentId": "20241987Nameki_Hiroshi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

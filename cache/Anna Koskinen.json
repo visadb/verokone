@@ -1,0 +1,182 @@
+{
+  "results": [
+    {
+      "name": "Koskinen Pia Johanna",
+      "id": "1977Koskinen Pia Johanna",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7951,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 224517.41999999998,
+          "capitalIncome": 5196.55,
+          "salary": 219320.87,
+          "rank": 14440,
+          "rankOfLastYear": 14440,
+          "paidTaxes": 100935.93,
+          "taxRatio": 44.95683675680934,
+          "personId": "1977Koskinen Pia Johanna",
+          "fragmentId": "20241977Koskinen_Pia_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Hult-Koskinen Anna Maritta",
+      "id": "1959Hult-Koskinen Anna Maritta",
+      "birthYear": 1959,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50350,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 155792.88,
+          "capitalIncome": 38739.43,
+          "salary": 117053.45,
+          "rank": 35189,
+          "rankOfLastYear": 35189,
+          "paidTaxes": 58298.39,
+          "taxRatio": 37.420445658363846,
+          "personId": "1959Hult-Koskinen Anna Maritta",
+          "fragmentId": "20241959Hult-Koskinen_Anna_Maritta"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Marjo Johanna",
+      "id": "1970Koskinen Marjo Johanna",
+      "birthYear": 1970,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32028,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 144041.5,
+          "capitalIncome": 6447.04,
+          "salary": 137594.46,
+          "rank": 43115,
+          "rankOfLastYear": 43115,
+          "paidTaxes": 58941.13,
+          "taxRatio": 40.91954749152154,
+          "personId": "1970Koskinen Marjo Johanna",
+          "fragmentId": "20241970Koskinen_Marjo_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Sarianna Tuulikki",
+      "id": "1988Koskinen Sarianna Tuulikki",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30488,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 143496.76,
+          "capitalIncome": 3669.42,
+          "salary": 139827.34,
+          "rank": 43542,
+          "rankOfLastYear": 43542,
+          "paidTaxes": 55734.97,
+          "taxRatio": 38.840577306414446,
+          "personId": "1988Koskinen Sarianna Tuulikki",
+          "fragmentId": "20241988Koskinen_Sarianna_Tuulikki"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Hannaleena",
+      "id": "1972Koskinen Hannaleena",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33566,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 135582.43,
+          "capitalIncome": 0,
+          "salary": 135582.43,
+          "rank": 50613,
+          "rankOfLastYear": 50613,
+          "paidTaxes": 53359.71,
+          "taxRatio": 39.35591801976111,
+          "personId": "1972Koskinen Hannaleena",
+          "fragmentId": "20241972Koskinen_Hannaleena"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Maria Johanna",
+      "id": "1976Koskinen Maria Johanna",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36289,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132978.69,
+          "capitalIncome": 886.51,
+          "salary": 132092.18,
+          "rank": 53219,
+          "rankOfLastYear": 53219,
+          "paidTaxes": 50210.7,
+          "taxRatio": 37.75845588492411,
+          "personId": "1976Koskinen Maria Johanna",
+          "fragmentId": "20241976Koskinen_Maria_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Johanna Minna Marita",
+      "id": "1979Koskinen Johanna Minna Marita",
+      "birthYear": 1979,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37126,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 131075.7,
+          "capitalIncome": 0,
+          "salary": 131075.7,
+          "rank": 55243,
+          "rankOfLastYear": 55243,
+          "paidTaxes": 53735.39,
+          "taxRatio": 40.99569180252327,
+          "personId": "1979Koskinen Johanna Minna Marita",
+          "fragmentId": "20241979Koskinen_Johanna_Minna_Marita"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

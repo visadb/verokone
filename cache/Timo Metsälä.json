@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Metsälä Timo Iisakki",
+      "id": "1986Metsälä Timo Iisakki",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 56331,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122375.39,
+          "capitalIncome": 28957.22,
+          "salary": 93418.17,
+          "rank": 66612,
+          "rankOfLastYear": 66612,
+          "paidTaxes": 40708,
+          "taxRatio": 33.26485823661113,
+          "personId": "1986Metsälä Timo Iisakki",
+          "fragmentId": "20241986Mets-l-_Timo_Iisakki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

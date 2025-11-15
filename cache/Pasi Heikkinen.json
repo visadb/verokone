@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Heikkinen Pasi Kalervo",
+      "id": "1972Heikkinen Pasi Kalervo",
+      "birthYear": 1972,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42678,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 152122.63,
+          "capitalIncome": 26823.34,
+          "salary": 125299.29,
+          "rank": 37465,
+          "rankOfLastYear": 37465,
+          "paidTaxes": 57860.82,
+          "taxRatio": 38.035642691688935,
+          "personId": "1972Heikkinen Pasi Kalervo",
+          "fragmentId": "20241972Heikkinen_Pasi_Kalervo"
+        }
+      }
+    },
+    {
+      "name": "Heikkinen Pasi Petteri",
+      "id": "1962Heikkinen Pasi Petteri",
+      "birthYear": 1962,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55986,
+          "taxYear": 2024,
+          "county": "Pohjois-Karjala",
+          "totalIncome": 141260.7,
+          "capitalIncome": 46116.12,
+          "salary": 95144.58,
+          "rank": 45386,
+          "rankOfLastYear": 45386,
+          "paidTaxes": 51310.45,
+          "taxRatio": 36.32323073579558,
+          "personId": "1962Heikkinen Pasi Petteri",
+          "fragmentId": "20241962Heikkinen_Pasi_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Heikkinen Pasi Mika Juhani",
+      "id": "1979Heikkinen Pasi Mika Juhani",
+      "birthYear": 1979,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 56112,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 126781.25,
+          "capitalIncome": 32278.76,
+          "salary": 94502.49,
+          "rank": 60434,
+          "rankOfLastYear": 60434,
+          "paidTaxes": 41999.02,
+          "taxRatio": 33.12715405472023,
+          "personId": "1979Heikkinen Pasi Mika Juhani",
+          "fragmentId": "20241979Heikkinen_Pasi_Mika_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

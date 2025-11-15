@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Manninen Ville Ilppo Aleksi",
+      "id": "1988Manninen Ville Ilppo Aleksi",
+      "birthYear": 1988,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9476,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 209866.59,
+          "capitalIncome": 3380.88,
+          "salary": 206485.71,
+          "rank": 16987,
+          "rankOfLastYear": 16987,
+          "paidTaxes": 95190.49,
+          "taxRatio": 45.357619809803936,
+          "personId": "1988Manninen Ville Ilppo Aleksi",
+          "fragmentId": "20241988Manninen_Ville_Ilppo_Aleksi"
+        }
+      }
+    },
+    {
+      "name": "Manninen Aleksi Topias",
+      "id": "1978Manninen Aleksi Topias",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43316,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 126443.48,
+          "capitalIncome": 1764.31,
+          "salary": 124679.17,
+          "rank": 60876,
+          "rankOfLastYear": 60876,
+          "paidTaxes": 50236.88,
+          "taxRatio": 39.73070023064851,
+          "personId": "1978Manninen Aleksi Topias",
+          "fragmentId": "20241978Manninen_Aleksi_Topias"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

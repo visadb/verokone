@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Engblom Niklas Mikael",
+      "id": "1977Engblom Niklas Mikael",
+      "birthYear": 1977,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32588,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 136824.23,
+          "capitalIncome": 0,
+          "salary": 136824.23,
+          "rank": 49382,
+          "rankOfLastYear": 49382,
+          "paidTaxes": 55580.55,
+          "taxRatio": 40.62186207808368,
+          "personId": "1977Engblom Niklas Mikael",
+          "fragmentId": "20241977Engblom_Niklas_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

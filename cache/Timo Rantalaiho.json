@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Rantalaiho Timo Heikki",
+      "id": "1975Rantalaiho Timo Heikki",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6439,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 382420.29000000004,
+          "capitalIncome": 146625.97,
+          "salary": 235794.32,
+          "rank": 5079,
+          "rankOfLastYear": 5079,
+          "paidTaxes": 151898.8,
+          "taxRatio": 39.72038199123796,
+          "personId": "1975Rantalaiho Timo Heikki",
+          "fragmentId": "20241975Rantalaiho_Timo_Heikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

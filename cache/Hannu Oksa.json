@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Oksanen Hannu Sakari",
+      "id": "1958Oksanen Hannu Sakari",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3548,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 298090.83999999997,
+          "capitalIncome": 5773.98,
+          "salary": 292316.86,
+          "rank": 7980,
+          "rankOfLastYear": 7980,
+          "paidTaxes": 137717.74,
+          "taxRatio": 46.19992348641106,
+          "personId": "1958Oksanen Hannu Sakari",
+          "fragmentId": "20241958Oksanen_Hannu_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Oksanen Tuomas Hannu",
+      "id": "1979Oksanen Tuomas Hannu",
+      "birthYear": 1979,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 57724,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 141254.68,
+          "capitalIncome": 55817.11,
+          "salary": 85437.57,
+          "rank": 45396,
+          "rankOfLastYear": 45396,
+          "paidTaxes": 46325.21,
+          "taxRatio": 32.795522243935565,
+          "personId": "1979Oksanen Tuomas Hannu",
+          "fragmentId": "20241979Oksanen_Tuomas_Hannu"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

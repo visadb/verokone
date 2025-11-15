@@ -1,0 +1,132 @@
+{
+  "results": [
+    {
+      "name": "Lehtinen Petri Antero",
+      "id": "1970Lehtinen Petri Antero",
+      "birthYear": 1970,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63828,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 203749.35,
+          "capitalIncome": 158069.75,
+          "salary": 45679.6,
+          "rank": 18190,
+          "rankOfLastYear": 18190,
+          "paidTaxes": 64461.11,
+          "taxRatio": 31.637455530532982,
+          "personId": "1970Lehtinen Petri Antero",
+          "fragmentId": "20241970Lehtinen_Petri_Antero"
+        }
+      }
+    },
+    {
+      "name": "Lehtinen Tero Petri",
+      "id": "1975Lehtinen Tero Petri",
+      "birthYear": 1975,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24984,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 149407.19999999998,
+          "capitalIncome": 0.34,
+          "salary": 149406.86,
+          "rank": 39220,
+          "rankOfLastYear": 39220,
+          "paidTaxes": 63066.82,
+          "taxRatio": 42.21136598503954,
+          "personId": "1975Lehtinen Tero Petri",
+          "fragmentId": "20241975Lehtinen_Tero_Petri"
+        }
+      }
+    },
+    {
+      "name": "Lehtinen Petri Sakari",
+      "id": "1986Lehtinen Petri Sakari",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26268,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147750.66999999998,
+          "capitalIncome": 779.02,
+          "salary": 146971.65,
+          "rank": 40358,
+          "rankOfLastYear": 40358,
+          "paidTaxes": 57296,
+          "taxRatio": 38.778842762608114,
+          "personId": "1986Lehtinen Petri Sakari",
+          "fragmentId": "20241986Lehtinen_Petri_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Lehtinen Jari-Petri",
+      "id": "1968Lehtinen Jari-Petri",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29530,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147636.08,
+          "capitalIncome": 6354.47,
+          "salary": 141281.61,
+          "rank": 40439,
+          "rankOfLastYear": 40439,
+          "paidTaxes": 61629.02,
+          "taxRatio": 41.743874532566835,
+          "personId": "1968Lehtinen Jari-Petri",
+          "fragmentId": "20241968Lehtinen_Jari-Petri"
+        }
+      }
+    },
+    {
+      "name": "Lehtinen Petri Juhani",
+      "id": "1974Lehtinen Petri Juhani",
+      "birthYear": 1974,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39268,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 130665.77,
+          "capitalIncome": 2003.86,
+          "salary": 128661.91,
+          "rank": 55709,
+          "rankOfLastYear": 55709,
+          "paidTaxes": 54956.02,
+          "taxRatio": 42.058467186930436,
+          "personId": "1974Lehtinen Petri Juhani",
+          "fragmentId": "20241974Lehtinen_Petri_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 5,
+  "totResults": 5
+}

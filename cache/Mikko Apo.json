@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Honkapohja Seppo Mikko Sakari",
+      "id": "1951Honkapohja Seppo Mikko Sakari",
+      "gender": "m",
+      "birthYear": 1951,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 21673,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 193617.66999999998,
+          "capitalIncome": 36839.86,
+          "salary": 156777.81,
+          "rank": 20561,
+          "rankOfLastYear": 20561,
+          "paidTaxes": 76785.36,
+          "taxRatio": 39.65823987035894,
+          "personId": "1951Honkapohja Seppo Mikko Sakari",
+          "fragmentId": "20241951Honkapohja_Seppo_Mikko_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Lapola Mikko Risto",
+      "id": "1970Lapola Mikko Risto",
+      "birthYear": 1970,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30465,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 139849.07,
+          "capitalIncome": 0,
+          "salary": 139849.07,
+          "rank": 46601,
+          "rankOfLastYear": 46601,
+          "paidTaxes": 60047.71,
+          "taxRatio": 42.93751113253738,
+          "personId": "1970Lapola Mikko Risto",
+          "fragmentId": "20241970Lapola_Mikko_Risto"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

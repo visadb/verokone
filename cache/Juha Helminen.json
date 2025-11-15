@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Helminen Juha Petteri",
+      "id": "1977Helminen Juha Petteri",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6157,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 239698.64,
+          "capitalIncome": 0,
+          "salary": 239698.64,
+          "rank": 12529,
+          "rankOfLastYear": 12529,
+          "paidTaxes": 110608.78,
+          "taxRatio": 46.144934322530986,
+          "personId": "1977Helminen Juha Petteri",
+          "fragmentId": "20241977Helminen_Juha_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Helminen Juha-Pekka",
+      "id": "1971Helminen Juha-Pekka",
+      "birthYear": 1971,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11696,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 192786.62,
+          "capitalIncome": 0,
+          "salary": 192786.62,
+          "rank": 20785,
+          "rankOfLastYear": 20785,
+          "paidTaxes": 87261.59,
+          "taxRatio": 45.263301986413786,
+          "personId": "1971Helminen Juha-Pekka",
+          "fragmentId": "20241971Helminen_Juha-Pekka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

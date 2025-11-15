@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Uusitalo Päivi Kaisu Marianne",
+      "id": "1964Uusitalo Päivi Kaisu Marianne",
+      "birthYear": 1964,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69732,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 159679.24,
+          "capitalIncome": 159679.24,
+          "salary": 0,
+          "rank": 33052,
+          "rankOfLastYear": 33052,
+          "paidTaxes": 53253.94,
+          "taxRatio": 33.35057205933596,
+          "personId": "1964Uusitalo Päivi Kaisu Marianne",
+          "fragmentId": "20241964Uusitalo_P-ivi_Kaisu_Marianne"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

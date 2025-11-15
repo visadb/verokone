@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Hautala Mikko Tapani",
+      "id": "1972Hautala Mikko Tapani",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41951,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 131857.06,
+          "capitalIncome": 5883,
+          "salary": 125974.06,
+          "rank": 54396,
+          "rankOfLastYear": 54396,
+          "paidTaxes": 50742.08,
+          "taxRatio": 38.48264173340434,
+          "personId": "1972Hautala Mikko Tapani",
+          "fragmentId": "20241972Hautala_Mikko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

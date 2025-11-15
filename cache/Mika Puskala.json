@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Puskala Mika Tapani",
+      "id": "1971Puskala Mika Tapani",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69218,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 285758.49,
+          "capitalIncome": 285758.49,
+          "salary": 0,
+          "rank": 8651,
+          "rankOfLastYear": 8651,
+          "paidTaxes": 96120.89,
+          "taxRatio": 33.637107334938676,
+          "personId": "1971Puskala Mika Tapani",
+          "fragmentId": "20241971Puskala_Mika_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Puskala Harri Mikael",
+      "id": "1985Puskala Harri Mikael",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19049,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 163901.73,
+          "capitalIncome": 0,
+          "salary": 163901.73,
+          "rank": 30984,
+          "rankOfLastYear": 30984,
+          "paidTaxes": 68395.83,
+          "taxRatio": 41.729779179267965,
+          "personId": "1985Puskala Harri Mikael",
+          "fragmentId": "20241985Puskala_Harri_Mikael"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

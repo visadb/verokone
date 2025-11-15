@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Peltonen Mikko Olavi",
+      "id": "1986Peltonen Mikko Olavi",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22957,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 153743.67,
+          "capitalIncome": 0,
+          "salary": 153743.67,
+          "rank": 36401,
+          "rankOfLastYear": 36401,
+          "paidTaxes": 60355.08,
+          "taxRatio": 39.256952822838166,
+          "personId": "1986Peltonen Mikko Olavi",
+          "fragmentId": "20241986Peltonen_Mikko_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Peltonen Heikki Mikko Tapani",
+      "id": "1947Peltonen Heikki Mikko Tapani",
+      "gender": "m",
+      "birthYear": 1947,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42258,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 126601.15,
+          "capitalIncome": 938.11,
+          "salary": 125663.04,
+          "rank": 60666,
+          "rankOfLastYear": 60666,
+          "paidTaxes": 55319.37,
+          "taxRatio": 43.69578791345893,
+          "personId": "1947Peltonen Heikki Mikko Tapani",
+          "fragmentId": "20241947Peltonen_Heikki_Mikko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

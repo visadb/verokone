@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "name": "de Bruijn Visa Tapio",
+      "id": "1984de Bruijn Visa Tapio",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62069,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 204530.75999999998,
+          "capitalIncome": 146955.77,
+          "salary": 57574.99,
+          "rank": 18030,
+          "paidTaxes": 64449.33,
+          "taxRatio": 31.510825071006437,
+          "personId": "1984de Bruijn Visa Tapio",
+          "fragmentId": "20241984de_Bruijn_Visa_Tapio"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

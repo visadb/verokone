@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Vilkki Kati Kia Aleksa",
+      "id": "1960Vilkki Kati Kia Aleksa",
+      "birthYear": 1960,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51305,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124299.84000000001,
+          "capitalIncome": 9601.63,
+          "salary": 114698.21,
+          "rank": 63798,
+          "rankOfLastYear": 63798,
+          "paidTaxes": 42663.44,
+          "taxRatio": 34.32300476010266,
+          "personId": "1960Vilkki Kati Kia Aleksa",
+          "fragmentId": "20241960Vilkki_Kati_Kia_Aleksa"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

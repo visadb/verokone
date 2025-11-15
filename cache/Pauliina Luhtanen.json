@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Luhtanen Pauliina",
+      "id": "1975Luhtanen Pauliina",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24101,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 151863.94,
+          "capitalIncome": 634.23,
+          "salary": 151229.71,
+          "rank": 37622,
+          "rankOfLastYear": 37622,
+          "paidTaxes": 62020.83,
+          "taxRatio": 40.8397345676663,
+          "personId": "1975Luhtanen Pauliina",
+          "fragmentId": "20241975Luhtanen_Pauliina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

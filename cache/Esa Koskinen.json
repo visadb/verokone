@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "name": "Koskinen Vesa Veikko",
+      "id": "1979Koskinen Vesa Veikko",
+      "gender": "m",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 299,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "EQT Partnersin Suomen toimintojen johtaja",
+          "totalIncome": 1001438.11,
+          "capitalIncome": 140471.14,
+          "salary": 860966.97,
+          "rank": 1122,
+          "rankOfLastYear": 1122,
+          "paidTaxes": 434492.34,
+          "taxRatio": 43.386838953033255,
+          "personId": "1979Koskinen Vesa Veikko",
+          "fragmentId": "20241979Koskinen_Vesa_Veikko"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Esa Pekka",
+      "id": "1974Koskinen Esa Pekka",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6312,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 275030.27,
+          "capitalIncome": 37615.28,
+          "salary": 237414.99,
+          "rank": 9352,
+          "rankOfLastYear": 9352,
+          "paidTaxes": 115974.6,
+          "taxRatio": 42.167940277991946,
+          "personId": "1974Koskinen Esa Pekka",
+          "fragmentId": "20241974Koskinen_Esa_Pekka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

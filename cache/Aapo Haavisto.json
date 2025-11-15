@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Haavisto Aapo Lauri Johannes",
+      "id": "1976Haavisto Aapo Lauri Johannes",
+      "birthYear": 1976,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22906,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 154949.84,
+          "capitalIncome": 1092.71,
+          "salary": 153857.13,
+          "rank": 35687,
+          "rankOfLastYear": 35687,
+          "paidTaxes": 68489.06,
+          "taxRatio": 44.20079426993922,
+          "personId": "1976Haavisto Aapo Lauri Johannes",
+          "fragmentId": "20241976Haavisto_Aapo_Lauri_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

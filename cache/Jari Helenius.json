@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Helenius Jari Juhani",
+      "id": "1966Helenius Jari Juhani",
+      "birthYear": 1966,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24004,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 155099.68,
+          "capitalIncome": 3657.21,
+          "salary": 151442.47,
+          "rank": 35583,
+          "rankOfLastYear": 35583,
+          "paidTaxes": 69726.28,
+          "taxRatio": 44.955785853329935,
+          "personId": "1966Helenius Jari Juhani",
+          "fragmentId": "20241966Helenius_Jari_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

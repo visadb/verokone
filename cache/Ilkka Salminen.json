@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Salminen Ilkka Antero",
+      "id": "1988Salminen Ilkka Antero",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19399,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 162909.36,
+          "capitalIncome": 18.09,
+          "salary": 162891.27,
+          "rank": 31469,
+          "rankOfLastYear": 31469,
+          "paidTaxes": 66528.62,
+          "taxRatio": 40.837813125040825,
+          "personId": "1988Salminen Ilkka Antero",
+          "fragmentId": "20241988Salminen_Ilkka_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Toivonen Marko Samuli",
+      "id": "1969Toivonen Marko Samuli",
+      "birthYear": 1969,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5500,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 254207.53,
+          "capitalIncome": 5156.31,
+          "salary": 249051.22,
+          "rank": 11007,
+          "rankOfLastYear": 11007,
+          "paidTaxes": 118958.69,
+          "taxRatio": 46.79589546383618,
+          "personId": "1969Toivonen Marko Samuli",
+          "fragmentId": "20241969Toivonen_Marko_Samuli"
+        }
+      }
+    },
+    {
+      "name": "Toivonen Mikko Samuli",
+      "id": "1974Toivonen Mikko Samuli",
+      "birthYear": 1974,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60108,
+          "taxYear": 2024,
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 196604.58000000002,
+          "capitalIncome": 126233.49,
+          "salary": 70371.09,
+          "rank": 19812,
+          "rankOfLastYear": 19812,
+          "paidTaxes": 65085.96,
+          "taxRatio": 33.10500701458734,
+          "personId": "1974Toivonen Mikko Samuli",
+          "fragmentId": "20241974Toivonen_Mikko_Samuli"
+        }
+      }
+    },
+    {
+      "name": "Toivonen Samuli Petri",
+      "id": "1976Toivonen Samuli Petri",
+      "birthYear": 1976,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30669,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 151017.96,
+          "capitalIncome": 11489.15,
+          "salary": 139528.81,
+          "rank": 38190,
+          "rankOfLastYear": 38190,
+          "paidTaxes": 60786.52,
+          "taxRatio": 40.251186017874964,
+          "personId": "1976Toivonen Samuli Petri",
+          "fragmentId": "20241976Toivonen_Samuli_Petri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

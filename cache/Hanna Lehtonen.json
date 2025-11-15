@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "name": "Lehtonen Satu Merja Johanna",
+      "id": "1972Lehtonen Satu Merja Johanna",
+      "birthYear": 1972,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53687,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 264871.78,
+          "capitalIncome": 158608.91,
+          "salary": 106262.87,
+          "rank": 10128,
+          "rankOfLastYear": 10128,
+          "paidTaxes": 92510.3,
+          "taxRatio": 34.92644629790308,
+          "personId": "1972Lehtonen Satu Merja Johanna",
+          "fragmentId": "20241972Lehtonen_Satu_Merja_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lehtonen Hanna Katja Tuulikki",
+      "id": "1980Lehtonen Hanna Katja Tuulikki",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14655,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 179001.83,
+          "capitalIncome": 0,
+          "salary": 179001.83,
+          "rank": 24972,
+          "rankOfLastYear": 24972,
+          "paidTaxes": 75144.52,
+          "taxRatio": 41.97974959250417,
+          "personId": "1980Lehtonen Hanna Katja Tuulikki",
+          "fragmentId": "20241980Lehtonen_Hanna_Katja_Tuulikki"
+        }
+      }
+    },
+    {
+      "name": "Lehtonen Heli Johanna",
+      "id": "1967Lehtonen Heli Johanna",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 26393,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 150529.9,
+          "capitalIncome": 3808.74,
+          "salary": 146721.16,
+          "rank": 38479,
+          "rankOfLastYear": 38479,
+          "paidTaxes": 59396.88,
+          "taxRatio": 39.458526179848654,
+          "personId": "1967Lehtonen Heli Johanna",
+          "fragmentId": "20241967Lehtonen_Heli_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lehtonen Heli Johanna",
+      "id": "1977Lehtonen Heli Johanna",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29918,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 140694.51,
+          "capitalIncome": 0,
+          "salary": 140694.51,
+          "rank": 45891,
+          "rankOfLastYear": 45891,
+          "paidTaxes": 51973.91,
+          "taxRatio": 36.940965216055694,
+          "personId": "1977Lehtonen Heli Johanna",
+          "fragmentId": "20241977Lehtonen_Heli_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lehtonen Sari Johanna",
+      "id": "1965Lehtonen Sari Johanna",
+      "birthYear": 1965,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52571,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 136873.31,
+          "capitalIncome": 26307.89,
+          "salary": 110565.42,
+          "rank": 49337,
+          "rankOfLastYear": 49337,
+          "paidTaxes": 46880.61,
+          "taxRatio": 34.251096871990605,
+          "personId": "1965Lehtonen Sari Johanna",
+          "fragmentId": "20241965Lehtonen_Sari_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lehtonen Johanna Maria",
+      "id": "1982Lehtonen Johanna Maria",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41156,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 126748.33,
+          "capitalIncome": 0,
+          "salary": 126748.33,
+          "rank": 60478,
+          "rankOfLastYear": 60478,
+          "paidTaxes": 48155.39,
+          "taxRatio": 37.99291872326838,
+          "personId": "1982Lehtonen Johanna Maria",
+          "fragmentId": "20241982Lehtonen_Johanna_Maria"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 6,
+  "totResults": 6
+}

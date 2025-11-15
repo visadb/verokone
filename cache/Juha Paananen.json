@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "name": "Paananen Mikko Juhani",
+      "id": "1963Paananen Mikko Juhani",
+      "gender": "m",
+      "birthYear": 1963,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5927,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 280476.96,
+          "capitalIncome": 37637.62,
+          "salary": 242839.34,
+          "rank": 8988,
+          "rankOfLastYear": 8988,
+          "paidTaxes": 128695.17,
+          "taxRatio": 45.884399916485116,
+          "personId": "1963Paananen Mikko Juhani",
+          "fragmentId": "20241963Paananen_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Timo Juhani",
+      "id": "1979Paananen Timo Juhani",
+      "birthYear": 1979,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15803,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 180763.08,
+          "capitalIncome": 6209.81,
+          "salary": 174553.27,
+          "rank": 24378,
+          "rankOfLastYear": 24378,
+          "paidTaxes": 77588.43,
+          "taxRatio": 42.92271961730238,
+          "personId": "1979Paananen Timo Juhani",
+          "fragmentId": "20241979Paananen_Timo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Juha Pekka Olavi",
+      "id": "1965Paananen Juha Pekka Olavi",
+      "birthYear": 1965,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17306,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 169533.73,
+          "capitalIncome": 0,
+          "salary": 169533.73,
+          "rank": 28574,
+          "rankOfLastYear": 28574,
+          "paidTaxes": 76481.06,
+          "taxRatio": 45.1125920487917,
+          "personId": "1965Paananen Juha Pekka Olavi",
+          "fragmentId": "20241965Paananen_Juha_Pekka_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Paananen Markus Veikko Juhani",
+      "id": "1987Paananen Markus Veikko Juhani",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23912,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 156172.53,
+          "capitalIncome": 4537.11,
+          "salary": 151635.42,
+          "rank": 34993,
+          "rankOfLastYear": 34993,
+          "paidTaxes": 61707.3,
+          "taxRatio": 39.512262495843544,
+          "personId": "1987Paananen Markus Veikko Juhani",
+          "fragmentId": "20241987Paananen_Markus_Veikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Sami Juhani",
+      "id": "1978Paananen Sami Juhani",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22636,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 154461.35,
+          "capitalIncome": 0,
+          "salary": 154461.35,
+          "rank": 35986,
+          "rankOfLastYear": 35986,
+          "paidTaxes": 65475.34,
+          "taxRatio": 42.38946506682739,
+          "personId": "1978Paananen Sami Juhani",
+          "fragmentId": "20241978Paananen_Sami_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Jarmo Juhani",
+      "id": "1961Paananen Jarmo Juhani",
+      "birthYear": 1961,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31124,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 148587.72,
+          "capitalIncome": 9689.71,
+          "salary": 138898.01,
+          "rank": 39766,
+          "rankOfLastYear": 39766,
+          "paidTaxes": 60359.89,
+          "taxRatio": 40.62239463664965,
+          "personId": "1961Paananen Jarmo Juhani",
+          "fragmentId": "20241961Paananen_Jarmo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Esko Väinö Juhani",
+      "id": "1959Paananen Esko Väinö Juhani",
+      "birthYear": 1959,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61003,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 146473.22,
+          "capitalIncome": 81932.14,
+          "salary": 64541.08,
+          "rank": 41283,
+          "rankOfLastYear": 41283,
+          "paidTaxes": 48666.21,
+          "taxRatio": 33.22532951757324,
+          "personId": "1959Paananen Esko Väinö Juhani",
+          "fragmentId": "20241959Paananen_Esko_V-in-_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Samuli Juhani",
+      "id": "1983Paananen Samuli Juhani",
+      "birthYear": 1983,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63318,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 144803.02000000002,
+          "capitalIncome": 95642.46,
+          "salary": 49160.56,
+          "rank": 42545,
+          "rankOfLastYear": 42545,
+          "paidTaxes": 46959.23,
+          "taxRatio": 32.429731092625005,
+          "personId": "1983Paananen Samuli Juhani",
+          "fragmentId": "20241983Paananen_Samuli_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Esa Juhani",
+      "id": "1954Paananen Esa Juhani",
+      "birthYear": 1954,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59382,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 126728.79999999999,
+          "capitalIncome": 51984.62,
+          "salary": 74744.18,
+          "rank": 60506,
+          "rankOfLastYear": 60506,
+          "paidTaxes": 42469.31,
+          "taxRatio": 33.511964131278766,
+          "personId": "1954Paananen Esa Juhani",
+          "fragmentId": "20241954Paananen_Esa_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Paananen Jouko Juhani",
+      "id": "1952Paananen Jouko Juhani",
+      "gender": "m",
+      "birthYear": 1952,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51607,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 124738.87,
+          "capitalIncome": 10918.03,
+          "salary": 113820.84,
+          "rank": 63190,
+          "rankOfLastYear": 63190,
+          "paidTaxes": 48029.51,
+          "taxRatio": 38.504044489099506,
+          "personId": "1952Paananen Jouko Juhani",
+          "fragmentId": "20241952Paananen_Jouko_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 10,
+  "totResults": 10
+}

@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Koskinen Toni Kustaa Sebastian",
+      "id": "1975Koskinen Toni Kustaa Sebastian",
+      "birthYear": 1975,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12219,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 189912.24,
+          "capitalIncome": 0,
+          "salary": 189912.24,
+          "rank": 21570,
+          "rankOfLastYear": 21570,
+          "paidTaxes": 85975.61,
+          "taxRatio": 45.27123159623624,
+          "personId": "1975Koskinen Toni Kustaa Sebastian",
+          "fragmentId": "20241975Koskinen_Toni_Kustaa_Sebastian"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

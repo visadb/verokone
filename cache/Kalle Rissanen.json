@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "name": "Rissanen Jaakko Kalle Sakari",
+      "id": "1986Rissanen Jaakko Kalle Sakari",
+      "gender": "m",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 894,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 517792.69,
+          "capitalIncome": 10090.21,
+          "salary": 507702.48,
+          "rank": 3054,
+          "rankOfLastYear": 3054,
+          "paidTaxes": 243446.74,
+          "taxRatio": 47.016256641243814,
+          "personId": "1986Rissanen Jaakko Kalle Sakari",
+          "fragmentId": "20241986Rissanen_Jaakko_Kalle_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Rissanen Kalle Edward",
+      "id": "1974Rissanen Kalle Edward",
+      "birthYear": 1974,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35336,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 138765.74000000002,
+          "capitalIncome": 5555.04,
+          "salary": 133210.7,
+          "rank": 47605,
+          "rankOfLastYear": 47605,
+          "paidTaxes": 55964.54,
+          "taxRatio": 40.33022848435067,
+          "personId": "1974Rissanen Kalle Edward",
+          "fragmentId": "20241974Rissanen_Kalle_Edward"
+        }
+      }
+    },
+    {
+      "name": "Rissanen Kalle Kalevi",
+      "id": "1954Rissanen Kalle Kalevi",
+      "gender": "m",
+      "birthYear": 1954,
+      "lastCounty": "Kainuu",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43318,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kainuu",
+          "totalIncome": 124678.41,
+          "capitalIncome": 1.25,
+          "salary": 124677.16,
+          "rank": 63268,
+          "rankOfLastYear": 63268,
+          "paidTaxes": 57210.27,
+          "taxRatio": 45.88626852074869,
+          "personId": "1954Rissanen Kalle Kalevi",
+          "fragmentId": "20241954Rissanen_Kalle_Kalevi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

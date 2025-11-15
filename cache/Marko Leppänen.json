@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Leppänen Marko Tapani",
+      "id": "1987Leppänen Marko Tapani",
+      "birthYear": 1987,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18313,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 167235.78,
+          "capitalIncome": 986.46,
+          "salary": 166249.32,
+          "rank": 29500,
+          "rankOfLastYear": 29500,
+          "paidTaxes": 71713.54,
+          "taxRatio": 42.881696727817456,
+          "personId": "1987Leppänen Marko Tapani",
+          "fragmentId": "20241987Lepp-nen_Marko_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

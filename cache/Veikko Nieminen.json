@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Nieminen Veikko Juhani",
+      "id": "1967Nieminen Veikko Juhani",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14503,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 215776.04,
+          "capitalIncome": 36168.12,
+          "salary": 179607.92,
+          "rank": 15907,
+          "rankOfLastYear": 15907,
+          "paidTaxes": 84659.59,
+          "taxRatio": 39.23493544510317,
+          "personId": "1967Nieminen Veikko Juhani",
+          "fragmentId": "20241967Nieminen_Veikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Nieminen Veikko Henrikki",
+      "id": "1949Nieminen Veikko Henrikki",
+      "birthYear": 1949,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66610,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 141552.32,
+          "capitalIncome": 116901,
+          "salary": 24651.32,
+          "rank": 45159,
+          "rankOfLastYear": 45159,
+          "paidTaxes": 44882.28,
+          "taxRatio": 31.707201973093763,
+          "personId": "1949Nieminen Veikko Henrikki",
+          "fragmentId": "20241949Nieminen_Veikko_Henrikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

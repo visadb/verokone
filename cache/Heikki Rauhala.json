@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Rauhala Antti Heikki",
+      "id": "1973Rauhala Antti Heikki",
+      "gender": "m",
+      "birthYear": 1973,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 28513,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 179735.7,
+          "capitalIncome": 36855.95,
+          "salary": 142879.75,
+          "rank": 24711,
+          "rankOfLastYear": 24711,
+          "paidTaxes": 71092.39,
+          "taxRatio": 39.55385045931331,
+          "personId": "1973Rauhala Antti Heikki",
+          "fragmentId": "20241973Rauhala_Antti_Heikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

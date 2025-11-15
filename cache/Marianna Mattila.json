@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Mattila Annika Marianna",
+      "id": "1969Mattila Annika Marianna",
+      "birthYear": 1969,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 70186,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 121893.81,
+          "capitalIncome": 121893.81,
+          "salary": 0,
+          "rank": 67304,
+          "rankOfLastYear": 67304,
+          "paidTaxes": 40913.66,
+          "taxRatio": 33.56500219330252,
+          "personId": "1969Mattila Annika Marianna",
+          "fragmentId": "20241969Mattila_Annika_Marianna"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Savo Henri Samuli",
+      "id": "1975Savo Henri Samuli",
+      "gender": "m",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2299,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 345501.9,
+          "capitalIncome": 0,
+          "salary": 345501.9,
+          "rank": 6014,
+          "rankOfLastYear": 6014,
+          "paidTaxes": 163008.78,
+          "taxRatio": 47.18028468150247,
+          "personId": "1975Savo Henri Samuli",
+          "fragmentId": "20241975Savo_Henri_Samuli"
+        }
+      }
+    },
+    {
+      "name": "Savolainen Juuso Samuli",
+      "id": "1997Savolainen Juuso Samuli",
+      "birthYear": 1997,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39188,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130597.01,
+          "capitalIncome": 1845,
+          "salary": 128752.01,
+          "rank": 55783,
+          "rankOfLastYear": 55783,
+          "paidTaxes": 49667.92,
+          "taxRatio": 38.03143732004278,
+          "personId": "1997Savolainen Juuso Samuli",
+          "fragmentId": "20241997Savolainen_Juuso_Samuli"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

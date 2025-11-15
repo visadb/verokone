@@ -1,0 +1,369 @@
+{
+  "results": [
+    {
+      "name": "Rantanen Juha Ilari",
+      "id": "1952Rantanen Juha Ilari",
+      "gender": "m",
+      "pictureId": "016e69496f28400ab2e7933eab7fafdb.jpg",
+      "birthYear": 1952,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 470,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "jobTitle": "Outokummun ja Ahlstromin entinen toimitusjohtaja",
+          "totalIncome": 767100.3899999999,
+          "capitalIncome": 73751.07,
+          "salary": 693349.32,
+          "rank": 1696,
+          "rankOfLastYear": 1696,
+          "paidTaxes": 391916.96,
+          "taxRatio": 51.090700136392854,
+          "personId": "1952Rantanen Juha Ilari",
+          "fragmentId": "20241952Rantanen_Juha_Ilari"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Juha Jouko Ilmari",
+      "id": "1956Rantanen Juha Jouko Ilmari",
+      "gender": "m",
+      "birthYear": 1956,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54202,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 688143.61,
+          "capitalIncome": 584118.22,
+          "salary": 104025.39,
+          "rank": 2014,
+          "rankOfLastYear": 2014,
+          "paidTaxes": 237639.62,
+          "taxRatio": 34.53343408943375,
+          "personId": "1956Rantanen Juha Jouko Ilmari",
+          "fragmentId": "20241956Rantanen_Juha_Jouko_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Matti Juhani",
+      "id": "1949Rantanen Matti Juhani",
+      "gender": "m",
+      "birthYear": 1949,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8900,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 279156.7,
+          "capitalIncome": 68093.86,
+          "salary": 211062.84,
+          "rank": 9083,
+          "rankOfLastYear": 9083,
+          "paidTaxes": 129533.67,
+          "taxRatio": 46.40177720971769,
+          "personId": "1949Rantanen Matti Juhani",
+          "fragmentId": "20241949Rantanen_Matti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Teppo Juhani",
+      "id": "1959Rantanen Teppo Juhani",
+      "birthYear": 1959,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7254,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 265662,
+          "capitalIncome": 39354.47,
+          "salary": 226307.53,
+          "rank": 10073,
+          "rankOfLastYear": 10073,
+          "paidTaxes": 117350.92,
+          "taxRatio": 44.17301684094827,
+          "personId": "1959Rantanen Teppo Juhani",
+          "fragmentId": "20241959Rantanen_Teppo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Jani Juhani",
+      "id": "1976Rantanen Jani Juhani",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53078,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 212931.32,
+          "capitalIncome": 104275.46,
+          "salary": 108655.86,
+          "rank": 16416,
+          "rankOfLastYear": 16416,
+          "paidTaxes": 73301.81,
+          "taxRatio": 34.4250953781717,
+          "personId": "1976Rantanen Jani Juhani",
+          "fragmentId": "20241976Rantanen_Jani_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Markku Juhani",
+      "id": "1966Rantanen Markku Juhani",
+      "gender": "m",
+      "birthYear": 1966,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9747,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pirkanmaa",
+          "totalIncome": 205152.84,
+          "capitalIncome": 560.33,
+          "salary": 204592.51,
+          "rank": 17901,
+          "rankOfLastYear": 17901,
+          "paidTaxes": 93918.04,
+          "taxRatio": 45.77954660535043,
+          "personId": "1966Rantanen Markku Juhani",
+          "fragmentId": "20241966Rantanen_Markku_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Jyrki Juhani",
+      "id": "1970Rantanen Jyrki Juhani",
+      "birthYear": 1970,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10272,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 200954.27,
+          "capitalIncome": 0,
+          "salary": 200954.27,
+          "rank": 18792,
+          "rankOfLastYear": 18792,
+          "paidTaxes": 94761.14,
+          "taxRatio": 47.15557425079845,
+          "personId": "1970Rantanen Jyrki Juhani",
+          "fragmentId": "20241970Rantanen_Jyrki_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Juha Jeremias",
+      "id": "1980Rantanen Juha Jeremias",
+      "birthYear": 1980,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19068,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 167479.84999999998,
+          "capitalIncome": 3637.08,
+          "salary": 163842.77,
+          "rank": 29404,
+          "rankOfLastYear": 29404,
+          "paidTaxes": 73676.78,
+          "taxRatio": 43.99142941673283,
+          "personId": "1980Rantanen Juha Jeremias",
+          "fragmentId": "20241980Rantanen_Juha_Jeremias"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Juha Veikko",
+      "id": "1982Rantanen Juha Veikko",
+      "birthYear": 1982,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23956,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 151534.91,
+          "capitalIncome": 0,
+          "salary": 151534.91,
+          "rank": 37849,
+          "rankOfLastYear": 37849,
+          "paidTaxes": 66858.29,
+          "taxRatio": 44.12071779367539,
+          "personId": "1982Rantanen Juha Veikko",
+          "fragmentId": "20241982Rantanen_Juha_Veikko"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Mikko Juhani",
+      "id": "1988Rantanen Mikko Juhani",
+      "birthYear": 1988,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50950,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 136992.52,
+          "capitalIncome": 21380.43,
+          "salary": 115612.09,
+          "rank": 49239,
+          "rankOfLastYear": 49239,
+          "paidTaxes": 53663.36,
+          "taxRatio": 39.172474526346406,
+          "personId": "1988Rantanen Mikko Juhani",
+          "fragmentId": "20241988Rantanen_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Ari Juhani",
+      "id": "1972Rantanen Ari Juhani",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49182,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 126879.15,
+          "capitalIncome": 7520.89,
+          "salary": 119358.26,
+          "rank": 60298,
+          "rankOfLastYear": 60298,
+          "paidTaxes": 49681.42,
+          "taxRatio": 39.15648867445912,
+          "personId": "1972Rantanen Ari Juhani",
+          "fragmentId": "20241972Rantanen_Ari_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Juha-Pekka Matias",
+      "id": "1980Rantanen Juha-Pekka Matias",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42966,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124997.74,
+          "capitalIncome": 0,
+          "salary": 124997.74,
+          "rank": 62813,
+          "rankOfLastYear": 62813,
+          "paidTaxes": 48529.63,
+          "taxRatio": 38.824405945259485,
+          "personId": "1980Rantanen Juha-Pekka Matias",
+          "fragmentId": "20241980Rantanen_Juha-Pekka_Matias"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Matti Juhani",
+      "id": "1957Rantanen Matti Juhani",
+      "gender": "m",
+      "birthYear": 1957,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59921,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Satakunta",
+          "totalIncome": 124644.78,
+          "capitalIncome": 53121.05,
+          "salary": 71523.73,
+          "rank": 63331,
+          "rankOfLastYear": 63331,
+          "paidTaxes": 41006.87,
+          "taxRatio": 32.898987025369216,
+          "personId": "1957Rantanen Matti Juhani",
+          "fragmentId": "20241957Rantanen_Matti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rantanen Hannu Juhani",
+      "id": "1959Rantanen Hannu Juhani",
+      "birthYear": 1959,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51033,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 120262.62,
+          "capitalIncome": 4871.08,
+          "salary": 115391.54,
+          "rank": 69808,
+          "rankOfLastYear": 69808,
+          "paidTaxes": 48443.47,
+          "taxRatio": 40.281402483997105,
+          "personId": "1959Rantanen Hannu Juhani",
+          "fragmentId": "20241959Rantanen_Hannu_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 14,
+  "totResults": 14
+}

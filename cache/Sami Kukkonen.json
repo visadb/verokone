@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kukkonen Sami Kai Juhani",
+      "id": "1971Kukkonen Sami Kai Juhani",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19530,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 180769.28,
+          "capitalIncome": 18267.23,
+          "salary": 162502.05,
+          "rank": 24375,
+          "rankOfLastYear": 24375,
+          "paidTaxes": 72088.71,
+          "taxRatio": 39.878849990440855,
+          "personId": "1971Kukkonen Sami Kai Juhani",
+          "fragmentId": "20241971Kukkonen_Sami_Kai_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

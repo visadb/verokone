@@ -1,0 +1,232 @@
+{
+  "results": [
+    {
+      "name": "Saar Paul Henrik",
+      "id": "1979Saar Paul Henrik",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8948,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 214797.49,
+          "capitalIncome": 4117.34,
+          "salary": 210680.15,
+          "rank": 16081,
+          "rankOfLastYear": 16081,
+          "paidTaxes": 91873.16,
+          "taxRatio": 42.7719895609581,
+          "personId": "1979Saar Paul Henrik",
+          "fragmentId": "20241979Saar_Paul_Henrik"
+        }
+      }
+    },
+    {
+      "name": "Nuuttila Henrik Pauli Juhani",
+      "id": "1982Nuuttila Henrik Pauli Juhani",
+      "birthYear": 1982,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23056,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 169542.02000000002,
+          "capitalIncome": 16018.17,
+          "salary": 153523.85,
+          "rank": 28567,
+          "rankOfLastYear": 28567,
+          "paidTaxes": 72181.91,
+          "taxRatio": 42.574643147462794,
+          "personId": "1982Nuuttila Henrik Pauli Juhani",
+          "fragmentId": "20241982Nuuttila_Henrik_Pauli_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Ylikoski Henrik Pauli Akseli",
+      "id": "1970Ylikoski Henrik Pauli Akseli",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20670,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 160712.04,
+          "capitalIncome": 1487.67,
+          "salary": 159224.37,
+          "rank": 32511,
+          "rankOfLastYear": 32511,
+          "paidTaxes": 64198.46,
+          "taxRatio": 39.94626662694344,
+          "personId": "1970Ylikoski Henrik Pauli Akseli",
+          "fragmentId": "20241970Ylikoski_Henrik_Pauli_Akseli"
+        }
+      }
+    },
+    {
+      "name": "Nurminen Pauli Hemming Henrikki",
+      "id": "1949Nurminen Pauli Hemming Henrikki",
+      "birthYear": 1949,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59548,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 151623.91999999998,
+          "capitalIncome": 77965.94,
+          "salary": 73657.98,
+          "rank": 37789,
+          "rankOfLastYear": 37789,
+          "paidTaxes": 49975.91,
+          "taxRatio": 32.9604392235737,
+          "personId": "1949Nurminen Pauli Hemming Henrikki",
+          "fragmentId": "20241949Nurminen_Pauli_Hemming_Henrikki"
+        }
+      }
+    },
+    {
+      "name": "Pätsi Pauli Henrik",
+      "id": "1981Pätsi Pauli Henrik",
+      "birthYear": 1981,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27538,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 146795.68,
+          "capitalIncome": 2176.35,
+          "salary": 144619.33,
+          "rank": 41056,
+          "rankOfLastYear": 41056,
+          "paidTaxes": 59405.94,
+          "taxRatio": 40.468452477620595,
+          "personId": "1981Pätsi Pauli Henrik",
+          "fragmentId": "20241981P-tsi_Pauli_Henrik"
+        }
+      }
+    },
+    {
+      "name": "Henriksén Paula Mari Johanna",
+      "id": "1979Henriksén Paula Mari Johanna",
+      "birthYear": 1979,
+      "lastCounty": "Keski-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55876,
+          "taxYear": 2024,
+          "county": "Keski-Pohjanmaa",
+          "totalIncome": 131845.66999999998,
+          "capitalIncome": 36113.92,
+          "salary": 95731.75,
+          "rank": 54407,
+          "rankOfLastYear": 54407,
+          "paidTaxes": 46279.02,
+          "taxRatio": 35.10090244146812,
+          "personId": "1979Henriksén Paula Mari Johanna",
+          "fragmentId": "20241979Henriks-n_Paula_Mari_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Luoma Martti Pauli Henrik",
+      "id": "1974Luoma Martti Pauli Henrik",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42912,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130184.23,
+          "capitalIncome": 5126.37,
+          "salary": 125057.86,
+          "rank": 56279,
+          "rankOfLastYear": 56279,
+          "paidTaxes": 48024.4,
+          "taxRatio": 36.88956796072766,
+          "personId": "1974Luoma Martti Pauli Henrik",
+          "fragmentId": "20241974Luoma_Martti_Pauli_Henrik"
+        }
+      }
+    },
+    {
+      "name": "Henriksson Paul Torsten Olof",
+      "id": "1952Henriksson Paul Torsten Olof",
+      "birthYear": 1952,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58538,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 126273.73,
+          "capitalIncome": 45963.39,
+          "salary": 80310.34,
+          "rank": 61085,
+          "rankOfLastYear": 61085,
+          "paidTaxes": 42088.49,
+          "taxRatio": 33.331152885085444,
+          "personId": "1952Henriksson Paul Torsten Olof",
+          "fragmentId": "20241952Henriksson_Paul_Torsten_Olof"
+        }
+      }
+    },
+    {
+      "name": "Sandström Paul Henrik",
+      "id": "1957Sandström Paul Henrik",
+      "birthYear": 1957,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55821,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124609.71,
+          "capitalIncome": 28565.86,
+          "salary": 96043.85,
+          "rank": 63369,
+          "rankOfLastYear": 63369,
+          "paidTaxes": 43597.38,
+          "taxRatio": 34.98714506277239,
+          "personId": "1957Sandström Paul Henrik",
+          "fragmentId": "20241957Sandstr-m_Paul_Henrik"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 9,
+  "totResults": 9
+}

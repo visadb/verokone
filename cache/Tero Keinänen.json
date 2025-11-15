@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Keinänen Anssi Martti Antero",
+      "id": "1977Keinänen Anssi Martti Antero",
+      "birthYear": 1977,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11827,
+          "taxYear": 2024,
+          "county": "Pohjois-Karjala",
+          "totalIncome": 192385.97,
+          "capitalIncome": 312.03,
+          "salary": 192073.94,
+          "rank": 20887,
+          "rankOfLastYear": 20887,
+          "paidTaxes": 87345.81,
+          "taxRatio": 45.40134085661236,
+          "personId": "1977Keinänen Anssi Martti Antero",
+          "fragmentId": "20241977Kein-nen_Anssi_Martti_Antero"
+        }
+      }
+    },
+    {
+      "name": "Keinänen Tero Tapio",
+      "id": "1964Keinänen Tero Tapio",
+      "birthYear": 1964,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59479,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 164612.41999999998,
+          "capitalIncome": 90487.61,
+          "salary": 74124.81,
+          "rank": 30677,
+          "rankOfLastYear": 30677,
+          "paidTaxes": 54149.9,
+          "taxRatio": 32.89539148990095,
+          "personId": "1964Keinänen Tero Tapio",
+          "fragmentId": "20241964Kein-nen_Tero_Tapio"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

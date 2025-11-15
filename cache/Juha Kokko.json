@@ -1,0 +1,546 @@
+{
+  "results": [
+    {
+      "name": "Kokkonen Juha Pekka",
+      "id": "1969Kokkonen Juha Pekka",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1920455.7,
+          "capitalIncome": 29236.94,
+          "salary": 1891218.76,
+          "rank": 402,
+          "rankOfLastYear": 402,
+          "paidTaxes": 971649.54,
+          "taxRatio": 50.594738530027016,
+          "personId": "1969Kokkonen Juha Pekka",
+          "fragmentId": "20241969Kokkonen_Juha_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Kokko Hannes Juhani",
+      "id": "1980Kokko Hannes Juhani",
+      "gender": "m",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51511,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1395449.19,
+          "capitalIncome": 1281317.71,
+          "salary": 114131.48,
+          "rank": 682,
+          "rankOfLastYear": 682,
+          "paidTaxes": 485575.15,
+          "taxRatio": 34.797049830241406,
+          "personId": "1980Kokko Hannes Juhani",
+          "fragmentId": "20241980Kokko_Hannes_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkola Matti Heikki Juhani",
+      "id": "1977Kokkola Matti Heikki Juhani",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20566,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 259343.53999999998,
+          "capitalIncome": 99883.3,
+          "salary": 159460.24,
+          "rank": 10551,
+          "rankOfLastYear": 10551,
+          "paidTaxes": 97394.62,
+          "taxRatio": 37.554288030463375,
+          "personId": "1977Kokkola Matti Heikki Juhani",
+          "fragmentId": "20241977Kokkola_Matti_Heikki_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Juha Tuomas",
+      "id": "1978Kokkonen Juha Tuomas",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58736,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 232885.18,
+          "capitalIncome": 154015.44,
+          "salary": 78869.74,
+          "rank": 13339,
+          "rankOfLastYear": 13339,
+          "paidTaxes": 77825.2,
+          "taxRatio": 33.417841358561326,
+          "personId": "1978Kokkonen Juha Tuomas",
+          "fragmentId": "20241978Kokkonen_Juha_Tuomas"
+        }
+      }
+    },
+    {
+      "name": "Kokko Vesa Ahti Juhani",
+      "id": "1965Kokko Vesa Ahti Juhani",
+      "gender": "m",
+      "birthYear": 1965,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19789,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Keski-Suomi",
+          "totalIncome": 192938.4,
+          "capitalIncome": 31250.79,
+          "salary": 161687.61,
+          "rank": 20739,
+          "rankOfLastYear": 20739,
+          "paidTaxes": 80451.3,
+          "taxRatio": 41.69792016519263,
+          "personId": "1965Kokko Vesa Ahti Juhani",
+          "fragmentId": "20241965Kokko_Vesa_Ahti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokko Juha Martti",
+      "id": "1968Kokko Juha Martti",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Keski-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14315,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Keski-Pohjanmaa",
+          "totalIncome": 180370.17,
+          "capitalIncome": 0,
+          "salary": 180370.17,
+          "rank": 24496,
+          "rankOfLastYear": 24496,
+          "paidTaxes": 75618.15,
+          "taxRatio": 41.92386690105131,
+          "personId": "1968Kokko Juha Martti",
+          "fragmentId": "20241968Kokko_Juha_Martti"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Juha Pekka",
+      "id": "1963Kokkonen Juha Pekka",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35771,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 178491.50999999998,
+          "capitalIncome": 45766.93,
+          "salary": 132724.58,
+          "rank": 25146,
+          "rankOfLastYear": 25146,
+          "paidTaxes": 66289.79,
+          "taxRatio": 37.138903693514614,
+          "personId": "1963Kokkonen Juha Pekka",
+          "fragmentId": "20241963Kokkonen_Juha_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Antti Juhani",
+      "id": "1962Kokkonen Antti Juhani",
+      "birthYear": 1962,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16828,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 171884,
+          "capitalIncome": 854.18,
+          "salary": 171029.82,
+          "rank": 27570,
+          "rankOfLastYear": 27570,
+          "paidTaxes": 75230.74,
+          "taxRatio": 43.76832049521771,
+          "personId": "1962Kokkonen Antti Juhani",
+          "fragmentId": "20241962Kokkonen_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Sami Juhani",
+      "id": "1979Kokkonen Sami Juhani",
+      "gender": "m",
+      "birthYear": 1979,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23132,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 158270.04,
+          "capitalIncome": 4963.53,
+          "salary": 153306.51,
+          "rank": 33831,
+          "rankOfLastYear": 33831,
+          "paidTaxes": 68118.64,
+          "taxRatio": 43.03950387578091,
+          "personId": "1979Kokkonen Sami Juhani",
+          "fragmentId": "20241979Kokkonen_Sami_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Janne Juhani",
+      "id": "1979Kokkonen Janne Juhani",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22579,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 157500.89,
+          "capitalIncome": 2899.57,
+          "salary": 154601.32,
+          "rank": 34267,
+          "rankOfLastYear": 34267,
+          "paidTaxes": 64536.05,
+          "taxRatio": 40.97503829978357,
+          "personId": "1979Kokkonen Janne Juhani",
+          "fragmentId": "20241979Kokkonen_Janne_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Timo Juhani",
+      "id": "1967Kokkonen Timo Juhani",
+      "gender": "m",
+      "birthYear": 1967,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25462,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Karjala",
+          "totalIncome": 148453.41,
+          "capitalIncome": 0,
+          "salary": 148453.41,
+          "rank": 39859,
+          "rankOfLastYear": 39859,
+          "paidTaxes": 60675.27,
+          "taxRatio": 40.87159062226997,
+          "personId": "1967Kokkonen Timo Juhani",
+          "fragmentId": "20241967Kokkonen_Timo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Pekka Reino Juhani",
+      "id": "1965Kokkonen Pekka Reino Juhani",
+      "birthYear": 1965,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63919,
+          "taxYear": 2024,
+          "county": "Pohjois-Karjala",
+          "totalIncome": 139703.45,
+          "capitalIncome": 94596.01,
+          "salary": 45107.44,
+          "rank": 46739,
+          "rankOfLastYear": 46739,
+          "paidTaxes": 42578.31,
+          "taxRatio": 30.477636736959607,
+          "personId": "1965Kokkonen Pekka Reino Juhani",
+          "fragmentId": "20241965Kokkonen_Pekka_Reino_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokko Anssi Pekka Juhani",
+      "id": "1984Kokko Anssi Pekka Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50162,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 137063.47,
+          "capitalIncome": 19615.35,
+          "salary": 117448.12,
+          "rank": 49180,
+          "rankOfLastYear": 49180,
+          "paidTaxes": 50530.24,
+          "taxRatio": 36.86630726626139,
+          "personId": "1984Kokko Anssi Pekka Juhani",
+          "fragmentId": "20241984Kokko_Anssi_Pekka_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokko Antti Juhana",
+      "id": "1975Kokko Antti Juhana",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40346,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 133586.1,
+          "capitalIncome": 5995.93,
+          "salary": 127590.17,
+          "rank": 52603,
+          "rankOfLastYear": 52603,
+          "paidTaxes": 50114.48,
+          "taxRatio": 37.51474142893609,
+          "personId": "1975Kokko Antti Juhana",
+          "fragmentId": "20241975Kokko_Antti_Juhana"
+        }
+      }
+    },
+    {
+      "name": "Kokko Mikko Juhani",
+      "id": "1985Kokko Mikko Juhani",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37293,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 131141.30000000002,
+          "capitalIncome": 246.39,
+          "salary": 130894.91,
+          "rank": 55160,
+          "rankOfLastYear": 55160,
+          "paidTaxes": 51737.3,
+          "taxRatio": 39.4515686515232,
+          "personId": "1985Kokko Mikko Juhani",
+          "fragmentId": "20241985Kokko_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Pasi Veikko Juhani",
+      "id": "1984Kokkonen Pasi Veikko Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39559,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 128588.02,
+          "capitalIncome": 190.22,
+          "salary": 128397.8,
+          "rank": 58175,
+          "rankOfLastYear": 58175,
+          "paidTaxes": 54736.34,
+          "taxRatio": 42.56721582617105,
+          "personId": "1984Kokkonen Pasi Veikko Juhani",
+          "fragmentId": "20241984Kokkonen_Pasi_Veikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Eero Juhani",
+      "id": "1969Kokkonen Eero Juhani",
+      "birthYear": 1969,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58398,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 128560.13,
+          "capitalIncome": 47441.92,
+          "salary": 81118.21,
+          "rank": 58206,
+          "rankOfLastYear": 58206,
+          "paidTaxes": 43422.64,
+          "taxRatio": 33.77613261592066,
+          "personId": "1969Kokkonen Eero Juhani",
+          "fragmentId": "20241969Kokkonen_Eero_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkonen Tomi Juhani",
+      "id": "1981Kokkonen Tomi Juhani",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42793,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 126398.01000000001,
+          "capitalIncome": 1204.88,
+          "salary": 125193.13,
+          "rank": 60927,
+          "rankOfLastYear": 60927,
+          "paidTaxes": 48614.4,
+          "taxRatio": 38.461365016743535,
+          "personId": "1981Kokkonen Tomi Juhani",
+          "fragmentId": "20241981Kokkonen_Tomi_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokkola Arto Juhani",
+      "id": "1960Kokkola Arto Juhani",
+      "birthYear": 1960,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51134,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123863.07999999999,
+          "capitalIncome": 8723.54,
+          "salary": 115139.54,
+          "rank": 64430,
+          "rankOfLastYear": 64430,
+          "paidTaxes": 46480.02,
+          "taxRatio": 37.5253223155762,
+          "personId": "1960Kokkola Arto Juhani",
+          "fragmentId": "20241960Kokkola_Arto_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokko Jani Marko Juhani",
+      "id": "1978Kokko Jani Marko Juhani",
+      "gender": "m",
+      "birthYear": 1978,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51965,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 121185.87,
+          "capitalIncome": 8509.31,
+          "salary": 112676.56,
+          "rank": 68364,
+          "rankOfLastYear": 68364,
+          "paidTaxes": 47442.4,
+          "taxRatio": 39.14845847952406,
+          "personId": "1978Kokko Jani Marko Juhani",
+          "fragmentId": "20241978Kokko_Jani_Marko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kokko Ilkka Juhani",
+      "id": "1985Kokko Ilkka Juhani",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48887,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120689.33,
+          "capitalIncome": 782.73,
+          "salary": 119906.6,
+          "rank": 69158,
+          "rankOfLastYear": 69158,
+          "paidTaxes": 46156.6,
+          "taxRatio": 38.24414304064825,
+          "personId": "1985Kokko Ilkka Juhani",
+          "fragmentId": "20241985Kokko_Ilkka_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 21,
+  "totResults": 21
+}

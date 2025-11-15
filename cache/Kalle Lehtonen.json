@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Lehtonen Kalle Petteri",
+      "id": "1974Lehtonen Kalle Petteri",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25730,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 149373.22,
+          "capitalIncome": 1360.78,
+          "salary": 148012.44,
+          "rank": 39242,
+          "rankOfLastYear": 39242,
+          "paidTaxes": 62363.18,
+          "taxRatio": 41.7499067101854,
+          "personId": "1974Lehtonen Kalle Petteri",
+          "fragmentId": "20241974Lehtonen_Kalle_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

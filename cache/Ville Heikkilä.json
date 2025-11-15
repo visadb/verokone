@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "name": "Heikkilä Mikko-Ville",
+      "id": "1988Heikkilä Mikko-Ville",
+      "gender": "m",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 56585,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1501344.6,
+          "capitalIncome": 1409321.1,
+          "salary": 92023.5,
+          "rank": 613,
+          "rankOfLastYear": 613,
+          "paidTaxes": 509235.12,
+          "taxRatio": 33.918603363944555,
+          "personId": "1988Heikkilä Mikko-Ville",
+          "fragmentId": "20241988Heikkil-_Mikko-Ville"
+        }
+      }
+    },
+    {
+      "name": "Heikkilä Aleksi Ville Matias",
+      "id": "1984Heikkilä Aleksi Ville Matias",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5916,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 242966.99,
+          "capitalIncome": 0,
+          "salary": 242966.99,
+          "rank": 12175,
+          "rankOfLastYear": 12175,
+          "paidTaxes": 108942.32,
+          "taxRatio": 44.83832145263849,
+          "personId": "1984Heikkilä Aleksi Ville Matias",
+          "fragmentId": "20241984Heikkil-_Aleksi_Ville_Matias"
+        }
+      }
+    },
+    {
+      "name": "Heikkilä Ville Henrikki",
+      "id": "1981Heikkilä Ville Henrikki",
+      "birthYear": 1981,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 53395,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 135332.46,
+          "capitalIncome": 27917.29,
+          "salary": 107415.17,
+          "rank": 50865,
+          "rankOfLastYear": 50865,
+          "paidTaxes": 50130.38,
+          "taxRatio": 37.04239175139505,
+          "personId": "1981Heikkilä Ville Henrikki",
+          "fragmentId": "20241981Heikkil-_Ville_Henrikki"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

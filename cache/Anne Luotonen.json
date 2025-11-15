@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Luotonen Jonne Johannes",
+      "id": "1975Luotonen Jonne Johannes",
+      "birthYear": 1975,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25936,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 147616.26,
+          "capitalIncome": 0,
+          "salary": 147616.26,
+          "rank": 40456,
+          "rankOfLastYear": 40456,
+          "paidTaxes": 65476.97,
+          "taxRatio": 44.356204391033884,
+          "personId": "1975Luotonen Jonne Johannes",
+          "fragmentId": "20241975Luotonen_Jonne_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

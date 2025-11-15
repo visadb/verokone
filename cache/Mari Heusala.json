@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Heusala Mari Helena",
+      "id": "1966Heusala Mari Helena",
+      "gender": "n",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9780,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Uusimaa",
+          "totalIncome": 208243.48,
+          "capitalIncome": 3899.94,
+          "salary": 204343.54,
+          "rank": 17292,
+          "rankOfLastYear": 17292,
+          "paidTaxes": 88749.65,
+          "taxRatio": 42.618213064822,
+          "personId": "1966Heusala Mari Helena",
+          "fragmentId": "20241966Heusala_Mari_Helena"
+        }
+      }
+    },
+    {
+      "name": "Heusala Henna Maria",
+      "id": "1973Heusala Henna Maria",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44087,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 126542.39,
+          "capitalIncome": 2595.65,
+          "salary": 123946.74,
+          "rank": 60745,
+          "rankOfLastYear": 60745,
+          "paidTaxes": 50751.34,
+          "taxRatio": 40.10619682463718,
+          "personId": "1973Heusala Henna Maria",
+          "fragmentId": "20241973Heusala_Henna_Maria"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

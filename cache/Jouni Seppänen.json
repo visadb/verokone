@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Seppänen Jouni Olavi",
+      "id": "1969Seppänen Jouni Olavi",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 6215,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 240241.21,
+          "capitalIncome": 1412.97,
+          "salary": 238828.24,
+          "rank": 12471,
+          "rankOfLastYear": 12471,
+          "paidTaxes": 107959.04,
+          "taxRatio": 44.9377690030782,
+          "personId": "1969Seppänen Jouni Olavi",
+          "fragmentId": "20241969Sepp-nen_Jouni_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Seppänen Jouni Antero",
+      "id": "1978Seppänen Jouni Antero",
+      "birthYear": 1978,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29143,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 145132.22,
+          "capitalIncome": 3240.73,
+          "salary": 141891.49,
+          "rank": 42303,
+          "rankOfLastYear": 42303,
+          "paidTaxes": 61151.07,
+          "taxRatio": 42.13473066146167,
+          "personId": "1978Seppänen Jouni Antero",
+          "fragmentId": "20241978Sepp-nen_Jouni_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

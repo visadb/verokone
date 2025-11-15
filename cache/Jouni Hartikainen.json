@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "name": "Hartikainen Jouni Tapani",
+      "id": "1971Hartikainen Jouni Tapani",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33823,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 168168.81,
+          "capitalIncome": 32964.93,
+          "salary": 135203.88,
+          "rank": 29122,
+          "rankOfLastYear": 29122,
+          "paidTaxes": 62421.66,
+          "taxRatio": 37.11845258344874,
+          "personId": "1971Hartikainen Jouni Tapani",
+          "fragmentId": "20241971Hartikainen_Jouni_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Hartikainen Jouni Markku Juhani",
+      "id": "1983Hartikainen Jouni Markku Juhani",
+      "birthYear": 1983,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58959,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 129368.18,
+          "capitalIncome": 51917.29,
+          "salary": 77450.89,
+          "rank": 57245,
+          "rankOfLastYear": 57245,
+          "paidTaxes": 42917.72,
+          "taxRatio": 33.17486572045769,
+          "personId": "1983Hartikainen Jouni Markku Juhani",
+          "fragmentId": "20241983Hartikainen_Jouni_Markku_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Hartikainen Jouni Ilmari",
+      "id": "1980Hartikainen Jouni Ilmari",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51984,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128542.94,
+          "capitalIncome": 15933.25,
+          "salary": 112609.69,
+          "rank": 58224,
+          "rankOfLastYear": 58224,
+          "paidTaxes": 44584.33,
+          "taxRatio": 34.68438640037329,
+          "personId": "1980Hartikainen Jouni Ilmari",
+          "fragmentId": "20241980Hartikainen_Jouni_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Hartikainen Jouni Markus Kristian",
+      "id": "1980Hartikainen Jouni Markus Kristian",
+      "birthYear": 1980,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50838,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 122027.03,
+          "capitalIncome": 6150.92,
+          "salary": 115876.11,
+          "rank": 67114,
+          "rankOfLastYear": 67114,
+          "paidTaxes": 51291.22,
+          "taxRatio": 42.0326709582295,
+          "personId": "1980Hartikainen Jouni Markus Kristian",
+          "fragmentId": "20241980Hartikainen_Jouni_Markus_Kristian"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

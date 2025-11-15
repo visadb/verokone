@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Eronen Pasi Tapani",
+      "id": "1965Eronen Pasi Tapani",
+      "gender": "m",
+      "birthYear": 1965,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23671,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Keski-Suomi",
+          "totalIncome": 167055.36000000002,
+          "capitalIncome": 14891.94,
+          "salary": 152163.42,
+          "rank": 29573,
+          "rankOfLastYear": 29573,
+          "paidTaxes": 70658.63,
+          "taxRatio": 42.29653571127559,
+          "personId": "1965Eronen Pasi Tapani",
+          "fragmentId": "20241965Eronen_Pasi_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Eronen Pasi Ilmari",
+      "id": "1973Eronen Pasi Ilmari",
+      "birthYear": 1973,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41478,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 126410.91,
+          "capitalIncome": 0,
+          "salary": 126410.91,
+          "rank": 60915,
+          "rankOfLastYear": 60915,
+          "paidTaxes": 51962.38,
+          "taxRatio": 41.1059298600097,
+          "personId": "1973Eronen Pasi Ilmari",
+          "fragmentId": "20241973Eronen_Pasi_Ilmari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

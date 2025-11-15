@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Hallavo Nelli Pauliina",
+      "id": "1987Hallavo Nelli Pauliina",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45659,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132343.02,
+          "capitalIncome": 9757.6,
+          "salary": 122585.42,
+          "rank": 53871,
+          "rankOfLastYear": 53871,
+          "paidTaxes": 47849.69,
+          "taxRatio": 36.155809350580036,
+          "personId": "1987Hallavo Nelli Pauliina",
+          "fragmentId": "20241987Hallavo_Nelli_Pauliina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

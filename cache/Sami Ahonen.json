@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ahonen Sami Kimmo Johannes",
+      "id": "1971Ahonen Sami Kimmo Johannes",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45840,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122423.71,
+          "capitalIncome": 0,
+          "salary": 122423.71,
+          "rank": 66529,
+          "rankOfLastYear": 66529,
+          "paidTaxes": 47070.93,
+          "taxRatio": 38.44919419612427,
+          "personId": "1971Ahonen Sami Kimmo Johannes",
+          "fragmentId": "20241971Ahonen_Sami_Kimmo_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

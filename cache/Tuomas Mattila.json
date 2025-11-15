@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "name": "Mattila Pertti Tuomas",
+      "id": "1943Mattila Pertti Tuomas",
+      "gender": "m",
+      "birthYear": 1943,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50808,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 145551.83,
+          "capitalIncome": 29615.27,
+          "salary": 115936.56,
+          "rank": 41984,
+          "rankOfLastYear": 41984,
+          "paidTaxes": 56888.55,
+          "taxRatio": 39.08473703147533,
+          "personId": "1943Mattila Pertti Tuomas",
+          "fragmentId": "20241943Mattila_Pertti_Tuomas"
+        }
+      }
+    },
+    {
+      "name": "Mattila Tuomas Ilkka",
+      "id": "1988Mattila Tuomas Ilkka",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33146,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 136313.63,
+          "capitalIncome": 199.06,
+          "salary": 136114.57,
+          "rank": 49904,
+          "rankOfLastYear": 49904,
+          "paidTaxes": 54070.86,
+          "taxRatio": 39.66651023819115,
+          "personId": "1988Mattila Tuomas Ilkka",
+          "fragmentId": "20241988Mattila_Tuomas_Ilkka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

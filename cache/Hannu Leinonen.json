@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "name": "Leinonen Hannu Juhani",
+      "id": "1962Leinonen Hannu Juhani",
+      "gender": "m",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 439,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 729254.1799999999,
+          "capitalIncome": 10533.1,
+          "salary": 718721.08,
+          "rank": 1837,
+          "rankOfLastYear": 1837,
+          "paidTaxes": 367994.62,
+          "taxRatio": 50.461777263998684,
+          "personId": "1962Leinonen Hannu Juhani",
+          "fragmentId": "20241962Leinonen_Hannu_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Hannu Tapio",
+      "id": "1952Leinonen Hannu Tapio",
+      "gender": "m",
+      "birthYear": 1952,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12706,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 189071.38999999998,
+          "capitalIncome": 1635.05,
+          "salary": 187436.34,
+          "rank": 21796,
+          "rankOfLastYear": 21796,
+          "paidTaxes": 83865.12,
+          "taxRatio": 44.356324878132014,
+          "personId": "1952Leinonen Hannu Tapio",
+          "fragmentId": "20241952Leinonen_Hannu_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Jorma Hannu Antero",
+      "id": "1945Leinonen Jorma Hannu Antero",
+      "gender": "m",
+      "birthYear": 1945,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27289,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 145661.91,
+          "capitalIncome": 573.75,
+          "salary": 145088.16,
+          "rank": 41908,
+          "rankOfLastYear": 41908,
+          "paidTaxes": 64617.13,
+          "taxRatio": 44.36103439807977,
+          "personId": "1945Leinonen Jorma Hannu Antero",
+          "fragmentId": "20241945Leinonen_Jorma_Hannu_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

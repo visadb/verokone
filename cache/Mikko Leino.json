@@ -1,0 +1,263 @@
+{
+  "results": [
+    {
+      "name": "Leinola Mikko Tuomas",
+      "id": "1982Leinola Mikko Tuomas",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3156,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 338787.37,
+          "capitalIncome": 34688.63,
+          "salary": 304098.74,
+          "rank": 6228,
+          "rankOfLastYear": 6228,
+          "paidTaxes": 148931.62,
+          "taxRatio": 43.96020430159483,
+          "personId": "1982Leinola Mikko Tuomas",
+          "fragmentId": "20241982Leinola_Mikko_Tuomas"
+        }
+      }
+    },
+    {
+      "name": "Leino Mikko Juhani",
+      "id": "1969Leino Mikko Juhani",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9541,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 216761.16,
+          "capitalIncome": 10771.59,
+          "salary": 205989.57,
+          "rank": 15726,
+          "rankOfLastYear": 15726,
+          "paidTaxes": 92566.83,
+          "taxRatio": 42.70452787759578,
+          "personId": "1969Leino Mikko Juhani",
+          "fragmentId": "20241969Leino_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Mikko",
+      "id": "1975Leinonen Mikko",
+      "gender": "m",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14492,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 181412.23,
+          "capitalIncome": 1772.19,
+          "salary": 179640.04,
+          "rank": 24159,
+          "rankOfLastYear": 24159,
+          "paidTaxes": 75300.15,
+          "taxRatio": 41.507758324783275,
+          "personId": "1975Leinonen Mikko",
+          "fragmentId": "20241975Leinonen_Mikko"
+        }
+      }
+    },
+    {
+      "name": "Leino Mikko Juhani",
+      "id": "1973Leino Mikko Juhani",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19909,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 169502.16,
+          "capitalIncome": 8160.77,
+          "salary": 161341.39,
+          "rank": 28587,
+          "rankOfLastYear": 28587,
+          "paidTaxes": 66148.8,
+          "taxRatio": 39.025343393854094,
+          "personId": "1973Leino Mikko Juhani",
+          "fragmentId": "20241973Leino_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Mikko Tapani",
+      "id": "1970Leinonen Mikko Tapani",
+      "birthYear": 1970,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25943,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 148477.13999999998,
+          "capitalIncome": 872.77,
+          "salary": 147604.37,
+          "rank": 39836,
+          "rankOfLastYear": 39836,
+          "paidTaxes": 62352,
+          "taxRatio": 41.99434337164631,
+          "personId": "1970Leinonen Mikko Tapani",
+          "fragmentId": "20241970Leinonen_Mikko_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Mikko Petri",
+      "id": "1962Leinonen Mikko Petri",
+      "birthYear": 1962,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39217,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 147364.25,
+          "capitalIncome": 18645.67,
+          "salary": 128718.58,
+          "rank": 40641,
+          "rankOfLastYear": 40641,
+          "paidTaxes": 58839.23,
+          "taxRatio": 39.927750455079845,
+          "personId": "1962Leinonen Mikko Petri",
+          "fragmentId": "20241962Leinonen_Mikko_Petri"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Mikko Petteri",
+      "id": "1980Leinonen Mikko Petteri",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35030,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 133590.69,
+          "capitalIncome": 0,
+          "salary": 133590.69,
+          "rank": 52597,
+          "rankOfLastYear": 52597,
+          "paidTaxes": 51353.2,
+          "taxRatio": 38.440702716633915,
+          "personId": "1980Leinonen Mikko Petteri",
+          "fragmentId": "20241980Leinonen_Mikko_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Leinonen Mikko Juhani",
+      "id": "1981Leinonen Mikko Juhani",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38048,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130033.02,
+          "capitalIncome": 0,
+          "salary": 130033.02,
+          "rank": 56446,
+          "rankOfLastYear": 56446,
+          "paidTaxes": 48828.01,
+          "taxRatio": 37.550469872959965,
+          "personId": "1981Leinonen Mikko Juhani",
+          "fragmentId": "20241981Leinonen_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Leino Mikko Matias",
+      "id": "1966Leino Mikko Matias",
+      "gender": "m",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42288,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 125643.38,
+          "capitalIncome": 0,
+          "salary": 125643.38,
+          "rank": 61913,
+          "rankOfLastYear": 61913,
+          "paidTaxes": 48839.79,
+          "taxRatio": 38.871757509229695,
+          "personId": "1966Leino Mikko Matias",
+          "fragmentId": "20241966Leino_Mikko_Matias"
+        }
+      }
+    },
+    {
+      "name": "Leino Mikko ja Keijo kuolinpesä",
+      "id": "1900Leino Mikko ja Keijo kuolinpesä",
+      "birthYear": 1900,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 70191,
+          "taxYear": 2024,
+          "county": "Etelä-Karjala",
+          "totalIncome": 121673.68,
+          "capitalIncome": 121673.68,
+          "salary": 0,
+          "rank": 67594,
+          "rankOfLastYear": 67594,
+          "paidTaxes": 40169.05,
+          "taxRatio": 33.0137544948094,
+          "personId": "1900Leino Mikko ja Keijo kuolinpesä",
+          "fragmentId": "20241900Leino_Mikko_ja_Keijo_kuolinpes-"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 10,
+  "totResults": 10
+}

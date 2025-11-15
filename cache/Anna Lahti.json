@@ -1,0 +1,534 @@
+{
+  "results": [
+    {
+      "name": "Hanhilahti Anna Marja",
+      "id": "1956Hanhilahti Anna Marja",
+      "gender": "n",
+      "birthYear": 1956,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66664,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Pirkanmaa",
+          "totalIncome": 423956.05,
+          "capitalIncome": 399902.39,
+          "salary": 24053.66,
+          "rank": 4215,
+          "rankOfLastYear": 4215,
+          "paidTaxes": 139631.23,
+          "taxRatio": 32.93530779900417,
+          "personId": "1956Hanhilahti Anna Marja",
+          "fragmentId": "20241956Hanhilahti_Anna_Marja"
+        }
+      }
+    },
+    {
+      "name": "Lahti Iiris Johanna",
+      "id": "1984Lahti Iiris Johanna",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 55071,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 294170.3,
+          "capitalIncome": 194315.69,
+          "salary": 99854.61,
+          "rank": 8186,
+          "rankOfLastYear": 8186,
+          "paidTaxes": 98501.57,
+          "taxRatio": 33.48453939775702,
+          "personId": "1984Lahti Iiris Johanna",
+          "fragmentId": "20241984Lahti_Iiris_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lahtinen Sanna Kaarina",
+      "id": "1979Lahtinen Sanna Kaarina",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4628,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 266711.31,
+          "capitalIncome": 1110.67,
+          "salary": 265600.64,
+          "rank": 9991,
+          "rankOfLastYear": 9991,
+          "paidTaxes": 125767.87,
+          "taxRatio": 47.15505690403605,
+          "personId": "1979Lahtinen Sanna Kaarina",
+          "fragmentId": "20241979Lahtinen_Sanna_Kaarina"
+        }
+      }
+    },
+    {
+      "name": "Lahti Anne Johanna",
+      "id": "1971Lahti Anne Johanna",
+      "birthYear": 1971,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7191,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 233691.65,
+          "capitalIncome": 6760.56,
+          "salary": 226931.09,
+          "rank": 13233,
+          "rankOfLastYear": 13233,
+          "paidTaxes": 98841.75,
+          "taxRatio": 42.29579875874897,
+          "personId": "1971Lahti Anne Johanna",
+          "fragmentId": "20241971Lahti_Anne_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Polvenlahti Anna Sofia",
+      "id": "1983Polvenlahti Anna Sofia",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10114,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 201988.19,
+          "capitalIncome": 0,
+          "salary": 201988.19,
+          "rank": 18581,
+          "rankOfLastYear": 18581,
+          "paidTaxes": 87558.43,
+          "taxRatio": 43.34829179864426,
+          "personId": "1983Polvenlahti Anna Sofia",
+          "fragmentId": "20241983Polvenlahti_Anna_Sofia"
+        }
+      }
+    },
+    {
+      "name": "Rasilahti Satu Johanna",
+      "id": "1975Rasilahti Satu Johanna",
+      "birthYear": 1975,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54073,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 181083.95,
+          "capitalIncome": 76422.8,
+          "salary": 104661.15,
+          "rank": 24268,
+          "rankOfLastYear": 24268,
+          "paidTaxes": 67060.64,
+          "taxRatio": 37.032901038441004,
+          "personId": "1975Rasilahti Satu Johanna",
+          "fragmentId": "20241975Rasilahti_Satu_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lahti Soile Marjut Johanna",
+      "id": "1975Lahti Soile Marjut Johanna",
+      "birthYear": 1975,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16685,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 176229.43,
+          "capitalIncome": 4785.88,
+          "salary": 171443.55,
+          "rank": 25917,
+          "rankOfLastYear": 25917,
+          "paidTaxes": 77186.39,
+          "taxRatio": 43.798808178633955,
+          "personId": "1975Lahti Soile Marjut Johanna",
+          "fragmentId": "20241975Lahti_Soile_Marjut_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Juolahti Päivi Johanna",
+      "id": "1976Juolahti Päivi Johanna",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19794,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 166121.63999999998,
+          "capitalIncome": 4454.53,
+          "salary": 161667.11,
+          "rank": 29994,
+          "rankOfLastYear": 29994,
+          "paidTaxes": 70442.28,
+          "taxRatio": 42.40403598230791,
+          "personId": "1976Juolahti Päivi Johanna",
+          "fragmentId": "20241976Juolahti_P-ivi_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lauslahti Kirsi Johanna",
+      "id": "1962Lauslahti Kirsi Johanna",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19580,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 163101.50999999998,
+          "capitalIncome": 773.08,
+          "salary": 162328.43,
+          "rank": 31375,
+          "rankOfLastYear": 31375,
+          "paidTaxes": 66557.66,
+          "taxRatio": 40.80750693233926,
+          "personId": "1962Lauslahti Kirsi Johanna",
+          "fragmentId": "20241962Lauslahti_Kirsi_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Erälahti Kaarina Mari Susanna",
+      "id": "1973Erälahti Kaarina Mari Susanna",
+      "birthYear": 1973,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23099,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 153399.03,
+          "capitalIncome": 0,
+          "salary": 153399.03,
+          "rank": 36619,
+          "rankOfLastYear": 36619,
+          "paidTaxes": 62198.55,
+          "taxRatio": 40.54689915575086,
+          "personId": "1973Erälahti Kaarina Mari Susanna",
+          "fragmentId": "20241973Er-lahti_Kaarina_Mari_Susanna"
+        }
+      }
+    },
+    {
+      "name": "Karalahti Iida Johanna Katariina",
+      "id": "1987Karalahti Iida Johanna Katariina",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23982,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 152219.02,
+          "capitalIncome": 739.36,
+          "salary": 151479.66,
+          "rank": 37389,
+          "rankOfLastYear": 37389,
+          "paidTaxes": 63718.43,
+          "taxRatio": 41.85970320923102,
+          "personId": "1987Karalahti Iida Johanna Katariina",
+          "fragmentId": "20241987Karalahti_Iida_Johanna_Katariina"
+        }
+      }
+    },
+    {
+      "name": "Lahtinen Maija Johanna",
+      "id": "1978Lahtinen Maija Johanna",
+      "birthYear": 1978,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27782,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 149257.87,
+          "capitalIncome": 5082.91,
+          "salary": 144174.96,
+          "rank": 39322,
+          "rankOfLastYear": 39322,
+          "paidTaxes": 62208.78,
+          "taxRatio": 41.678726890582055,
+          "personId": "1978Lahtinen Maija Johanna",
+          "fragmentId": "20241978Lahtinen_Maija_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lahti-Nuuttila Teija Maarit Johanna",
+      "id": "1962Lahti-Nuuttila Teija Maarit Johanna",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25324,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 149072.76,
+          "capitalIncome": 344.84,
+          "salary": 148727.92,
+          "rank": 39427,
+          "rankOfLastYear": 39427,
+          "paidTaxes": 64562.09,
+          "taxRatio": 43.30911294591983,
+          "personId": "1962Lahti-Nuuttila Teija Maarit Johanna",
+          "fragmentId": "20241962Lahti-Nuuttila_Teija_Maarit_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lahtinen Anna Emilia",
+      "id": "1979Lahtinen Anna Emilia",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35753,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132742.54,
+          "capitalIncome": 0.14,
+          "salary": 132742.4,
+          "rank": 53442,
+          "rankOfLastYear": 53442,
+          "paidTaxes": 53566.32,
+          "taxRatio": 40.35354453817141,
+          "personId": "1979Lahtinen Anna Emilia",
+          "fragmentId": "20241979Lahtinen_Anna_Emilia"
+        }
+      }
+    },
+    {
+      "name": "Sajalahti Mervi Marjut Johanna",
+      "id": "1972Sajalahti Mervi Marjut Johanna",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37774,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130590.16,
+          "capitalIncome": 243.46,
+          "salary": 130346.7,
+          "rank": 55791,
+          "rankOfLastYear": 55791,
+          "paidTaxes": 50336.22,
+          "taxRatio": 38.54518594662875,
+          "personId": "1972Sajalahti Mervi Marjut Johanna",
+          "fragmentId": "20241972Sajalahti_Mervi_Marjut_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Lahtinen Sari Susanna",
+      "id": "1966Lahtinen Sari Susanna",
+      "birthYear": 1966,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38253,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129788.56,
+          "capitalIncome": 0,
+          "salary": 129788.56,
+          "rank": 56742,
+          "rankOfLastYear": 56742,
+          "paidTaxes": 51172.21,
+          "taxRatio": 39.42736555517682,
+          "personId": "1966Lahtinen Sari Susanna",
+          "fragmentId": "20241966Lahtinen_Sari_Susanna"
+        }
+      }
+    },
+    {
+      "name": "Harjulahti Anna Maria",
+      "id": "1983Harjulahti Anna Maria",
+      "birthYear": 1983,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38533,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 129493.35,
+          "capitalIncome": 0,
+          "salary": 129493.35,
+          "rank": 57097,
+          "rankOfLastYear": 57097,
+          "paidTaxes": 50530.11,
+          "taxRatio": 39.02139376269129,
+          "personId": "1983Harjulahti Anna Maria",
+          "fragmentId": "20241983Harjulahti_Anna_Maria"
+        }
+      }
+    },
+    {
+      "name": "Järvilahti Hanna Katariina",
+      "id": "1983Järvilahti Hanna Katariina",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49281,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128685.65000000001,
+          "capitalIncome": 9473.1,
+          "salary": 119212.55,
+          "rank": 58065,
+          "rankOfLastYear": 58065,
+          "paidTaxes": 45273.53,
+          "taxRatio": 35.18149071011414,
+          "personId": "1983Järvilahti Hanna Katariina",
+          "fragmentId": "20241983J-rvilahti_Hanna_Katariina"
+        }
+      }
+    },
+    {
+      "name": "Lahti Johanna Maria",
+      "id": "1975Lahti Johanna Maria",
+      "birthYear": 1975,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40116,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 127810.14,
+          "capitalIncome": 0,
+          "salary": 127810.14,
+          "rank": 59128,
+          "rankOfLastYear": 59128,
+          "paidTaxes": 48009.91,
+          "taxRatio": 37.56345936245747,
+          "personId": "1975Lahti Johanna Maria",
+          "fragmentId": "20241975Lahti_Johanna_Maria"
+        }
+      }
+    },
+    {
+      "name": "Hietalahti Johanna Kaisa Maria",
+      "id": "1978Hietalahti Johanna Kaisa Maria",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45614,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122629.1,
+          "capitalIncome": 0,
+          "salary": 122629.1,
+          "rank": 66228,
+          "rankOfLastYear": 66228,
+          "paidTaxes": 45682.74,
+          "taxRatio": 37.25277279210236,
+          "personId": "1978Hietalahti Johanna Kaisa Maria",
+          "fragmentId": "20241978Hietalahti_Johanna_Kaisa_Maria"
+        }
+      }
+    },
+    {
+      "name": "Karjanlahti Anna Kristiina",
+      "id": "1981Karjanlahti Anna Kristiina",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47883,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120758.7,
+          "capitalIncome": 0,
+          "salary": 120758.7,
+          "rank": 69062,
+          "rankOfLastYear": 69062,
+          "paidTaxes": 44186.03,
+          "taxRatio": 36.59034918395114,
+          "personId": "1981Karjanlahti Anna Kristiina",
+          "fragmentId": "20241981Karjanlahti_Anna_Kristiina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 21,
+  "totResults": 21
+}

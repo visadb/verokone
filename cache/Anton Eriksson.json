@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "name": "Eriksson Rebecka Antonia",
+      "id": "1986Eriksson Rebecka Antonia",
+      "gender": "n",
+      "birthYear": 1986,
+      "lastCounty": "Ahvenanmaa - Åland",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51896,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Ahvenanmaa - Åland",
+          "totalIncome": 231269.93,
+          "capitalIncome": 118332.97,
+          "salary": 112936.96,
+          "rank": 13532,
+          "rankOfLastYear": 13532,
+          "paidTaxes": 75497.9,
+          "taxRatio": 32.644927077203675,
+          "personId": "1986Eriksson Rebecka Antonia",
+          "fragmentId": "20241986Eriksson_Rebecka_Antonia"
+        }
+      }
+    },
+    {
+      "name": "Eriksson Anton Frank Mauritz",
+      "id": "1995Eriksson Anton Frank Mauritz",
+      "birthYear": 1995,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19160,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 163692.52,
+          "capitalIncome": 113.41,
+          "salary": 163579.11,
+          "rank": 31084,
+          "rankOfLastYear": 31084,
+          "paidTaxes": 68453.38,
+          "taxRatio": 41.81827001013853,
+          "personId": "1995Eriksson Anton Frank Mauritz",
+          "fragmentId": "20241995Eriksson_Anton_Frank_Mauritz"
+        }
+      }
+    },
+    {
+      "name": "Eriksson Anton Leonard",
+      "id": "1992Eriksson Anton Leonard",
+      "birthYear": 1992,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61640,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122686.06,
+          "capitalIncome": 62292.57,
+          "salary": 60393.49,
+          "rank": 66154,
+          "rankOfLastYear": 66154,
+          "paidTaxes": 37447.1,
+          "taxRatio": 30.522701601143602,
+          "personId": "1992Eriksson Anton Leonard",
+          "fragmentId": "20241992Eriksson_Anton_Leonard"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

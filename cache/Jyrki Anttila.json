@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Anttila Vesa Jyrki Juhani",
+      "id": "1960Anttila Vesa Jyrki Juhani",
+      "birthYear": 1960,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 14533,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 180920.24,
+          "capitalIncome": 1400.96,
+          "salary": 179519.28,
+          "rank": 24324,
+          "rankOfLastYear": 24324,
+          "paidTaxes": 77081.61,
+          "taxRatio": 42.60529944023953,
+          "personId": "1960Anttila Vesa Jyrki Juhani",
+          "fragmentId": "20241960Anttila_Vesa_Jyrki_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,409 @@
+{
+  "results": [
+    {
+      "name": "Salomaa Tiina Tuulikki",
+      "id": "1972Salomaa Tiina Tuulikki",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9507,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 242887.68,
+          "capitalIncome": 36667.96,
+          "salary": 206219.72,
+          "rank": 12182,
+          "rankOfLastYear": 12182,
+          "paidTaxes": 96643.73,
+          "taxRatio": 39.78947388356626,
+          "personId": "1972Salomaa Tiina Tuulikki",
+          "fragmentId": "20241972Salomaa_Tiina_Tuulikki"
+        }
+      }
+    },
+    {
+      "name": "Rahkola-Soisalo Päivi Kristiina",
+      "id": "1977Rahkola-Soisalo Päivi Kristiina",
+      "birthYear": 1977,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15415,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 176256.61,
+          "capitalIncome": 201.8,
+          "salary": 176054.81,
+          "rank": 25906,
+          "rankOfLastYear": 25906,
+          "paidTaxes": 72884.97,
+          "taxRatio": 41.351623635561815,
+          "personId": "1977Rahkola-Soisalo Päivi Kristiina",
+          "fragmentId": "20241977Rahkola-Soisalo_P-ivi_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salonen Riitta Kristiina",
+      "id": "1947Salonen Riitta Kristiina",
+      "gender": "n",
+      "birthYear": 1947,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25436,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Uusimaa",
+          "totalIncome": 161700.03,
+          "capitalIncome": 13196.77,
+          "salary": 148503.26,
+          "rank": 32040,
+          "rankOfLastYear": 32040,
+          "paidTaxes": 69470.37,
+          "taxRatio": 42.96249666744032,
+          "personId": "1947Salonen Riitta Kristiina",
+          "fragmentId": "20241947Salonen_Riitta_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salojärvi Päivi Kristiina",
+      "id": "1952Salojärvi Päivi Kristiina",
+      "birthYear": 1952,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23187,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 153335.05000000002,
+          "capitalIncome": 166.13,
+          "salary": 153168.92,
+          "rank": 36670,
+          "rankOfLastYear": 36670,
+          "paidTaxes": 73572.02,
+          "taxRatio": 47.9812149929191,
+          "personId": "1952Salojärvi Päivi Kristiina",
+          "fragmentId": "20241952Saloj-rvi_P-ivi_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salomaa Marja Kristiina",
+      "id": "1963Salomaa Marja Kristiina",
+      "birthYear": 1963,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24770,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 149848.02,
+          "capitalIncome": 0,
+          "salary": 149848.02,
+          "rank": 38932,
+          "rankOfLastYear": 38932,
+          "paidTaxes": 63562.25,
+          "taxRatio": 42.417811059498824,
+          "personId": "1963Salomaa Marja Kristiina",
+          "fragmentId": "20241963Salomaa_Marja_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salo Tiina Marjatta",
+      "id": "1960Salo Tiina Marjatta",
+      "birthYear": 1960,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30247,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 147738.97,
+          "capitalIncome": 7521.12,
+          "salary": 140217.85,
+          "rank": 40371,
+          "rankOfLastYear": 40371,
+          "paidTaxes": 60370.39,
+          "taxRatio": 40.862874568571854,
+          "personId": "1960Salo Tiina Marjatta",
+          "fragmentId": "20241960Salo_Tiina_Marjatta"
+        }
+      }
+    },
+    {
+      "name": "Tarusalo Tiina Maria",
+      "id": "1977Tarusalo Tiina Maria",
+      "birthYear": 1977,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 29887,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 141988.22,
+          "capitalIncome": 1237.56,
+          "salary": 140750.66,
+          "rank": 44798,
+          "rankOfLastYear": 44798,
+          "paidTaxes": 57648.6,
+          "taxRatio": 40.600973799094035,
+          "personId": "1977Tarusalo Tiina Maria",
+          "fragmentId": "20241977Tarusalo_Tiina_Maria"
+        }
+      }
+    },
+    {
+      "name": "Salo Tiina Tuulikki",
+      "id": "1961Salo Tiina Tuulikki",
+      "birthYear": 1961,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39790,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 134588.79,
+          "capitalIncome": 6428.48,
+          "salary": 128160.31,
+          "rank": 51579,
+          "rankOfLastYear": 51579,
+          "paidTaxes": 54274.24,
+          "taxRatio": 40.325973656498434,
+          "personId": "1961Salo Tiina Tuulikki",
+          "fragmentId": "20241961Salo_Tiina_Tuulikki"
+        }
+      }
+    },
+    {
+      "name": "Salonen Kristiina Johanna",
+      "id": "1977Salonen Kristiina Johanna",
+      "birthYear": 1977,
+      "lastCounty": "Satakunta",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35335,
+          "taxYear": 2024,
+          "county": "Satakunta",
+          "totalIncome": 134058.5,
+          "capitalIncome": 846,
+          "salary": 133212.5,
+          "rank": 52101,
+          "rankOfLastYear": 52101,
+          "paidTaxes": 54686.6,
+          "taxRatio": 40.79308660025288,
+          "personId": "1977Salonen Kristiina Johanna",
+          "fragmentId": "20241977Salonen_Kristiina_Johanna"
+        }
+      }
+    },
+    {
+      "name": "Salonen Leena Kristiina",
+      "id": "1976Salonen Leena Kristiina",
+      "birthYear": 1976,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 37240,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 130956.69,
+          "capitalIncome": 0,
+          "salary": 130956.69,
+          "rank": 55390,
+          "rankOfLastYear": 55390,
+          "paidTaxes": 54737.95,
+          "taxRatio": 41.79851369181674,
+          "personId": "1976Salonen Leena Kristiina",
+          "fragmentId": "20241976Salonen_Leena_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salonpää Terhi Kristiina",
+      "id": "1980Salonpää Terhi Kristiina",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39308,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129220.81,
+          "capitalIncome": 595.17,
+          "salary": 128625.64,
+          "rank": 57422,
+          "rankOfLastYear": 57422,
+          "paidTaxes": 49271.56,
+          "taxRatio": 38.12974086758936,
+          "personId": "1980Salonpää Terhi Kristiina",
+          "fragmentId": "20241980Salonp--_Terhi_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Mailasalo Marjo Kristiina",
+      "id": "1970Mailasalo Marjo Kristiina",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39473,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 128833.31,
+          "capitalIncome": 361.51,
+          "salary": 128471.8,
+          "rank": 57881,
+          "rankOfLastYear": 57881,
+          "paidTaxes": 50674.91,
+          "taxRatio": 39.33370181981664,
+          "personId": "1970Mailasalo Marjo Kristiina",
+          "fragmentId": "20241970Mailasalo_Marjo_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Salorinne Marja Kristiina",
+      "id": "1978Salorinne Marja Kristiina",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 49985,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 127451.75,
+          "capitalIncome": 9610.72,
+          "salary": 117841.03,
+          "rank": 59583,
+          "rankOfLastYear": 59583,
+          "paidTaxes": 46661.46,
+          "taxRatio": 36.61107831002713,
+          "personId": "1978Salorinne Marja Kristiina",
+          "fragmentId": "20241978Salorinne_Marja_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Merisalo Tiina-Sisko",
+      "id": "1961Merisalo Tiina-Sisko",
+      "birthYear": 1961,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43531,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124481.38,
+          "capitalIncome": 0,
+          "salary": 124481.38,
+          "rank": 63560,
+          "rankOfLastYear": 63560,
+          "paidTaxes": 46064.49,
+          "taxRatio": 37.005124782517676,
+          "personId": "1961Merisalo Tiina-Sisko",
+          "fragmentId": "20241961Merisalo_Tiina-Sisko"
+        }
+      }
+    },
+    {
+      "name": "Hiidensalo Kirsi-Marja Kristiina",
+      "id": "1961Hiidensalo Kirsi-Marja Kristiina",
+      "birthYear": 1961,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 50388,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 121797.33,
+          "capitalIncome": 4845.91,
+          "salary": 116951.42,
+          "rank": 67410,
+          "rankOfLastYear": 67410,
+          "paidTaxes": 45348.84,
+          "taxRatio": 37.23303294086988,
+          "personId": "1961Hiidensalo Kirsi-Marja Kristiina",
+          "fragmentId": "20241961Hiidensalo_Kirsi-Marja_Kristiina"
+        }
+      }
+    },
+    {
+      "name": "Pajusalo Sanna-Maija Kristiina",
+      "id": "1962Pajusalo Sanna-Maija Kristiina",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48046,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 120625.71,
+          "capitalIncome": 0,
+          "salary": 120625.71,
+          "rank": 69251,
+          "rankOfLastYear": 69251,
+          "paidTaxes": 45671.57,
+          "taxRatio": 37.8622185933662,
+          "personId": "1962Pajusalo Sanna-Maija Kristiina",
+          "fragmentId": "20241962Pajusalo_Sanna-Maija_Kristiina"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 16,
+  "totResults": 16
+}
