@@ -74,8 +74,10 @@ def load_tax_info(name: str, cache_dir: Path) -> Any:
 
 def format_tax_summary(name: str, tax_info: Any) -> str:
     if isinstance(tax_info, dict):
-        entries = tax_info.get("results") or tax_info.get("hits")
-        if isinstance(entries, list) and entries:
+        entries = tax_info.get("results")
+        if isinstance(entries, list):
+            if not entries:
+                return f"{name}: no data"
             first = entries[0]
             if isinstance(first, dict):
                 gross_income = first.get("gross_income") or first.get("total_income")
