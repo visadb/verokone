@@ -1,52 +1,10 @@
-Antti Forsell 1: 
-  Forsell Antti Antero(1978,Uusimaa)=129356EUR
-Antti Pitkänen 5: 
-  Pitkänen Antti Juhani(1947,Pohjois-Savo)=324830EUR
-  Pitkänen Eero Antti Juhani(1984,Uusimaa)=150476EUR
-  Pitkänen Antti Joonas(1987,Uusimaa)=137956EUR
-  Pitkänen Risto Antti Ilmari(1955,Päijät-Häme)=136912EUR
-  Pitkänen Antti Johannes(1980,Pohjois-Savo)=132331EUR
-Antti Rautanen 1: 
-  Rautanen Antti Veli Johannes(1988,Uusimaa)=125369EUR
-Antti Relander 1: 
-  Relander Antti Juhani(1986,Uusimaa)=134745EUR
-Antti Vesalainen 1: 
-  Vesalainen Antti Viljam(1982,Uusimaa)=383997EUR
-Ethan Watson 1: 
-  Watson Ethan Aaron Eric(1981,Uusimaa)=288125EUR
-Jari Mäkelä 6: 
-  Mäkelä Jari-Pekka(1964,Keski-Suomi)=562104EUR
-  Mäkelä Jari Heikki(1972,Pirkanmaa)=184878EUR
-  Mäkelä Jari Armas(1968,Kanta-Häme)=133398EUR
-  Mäkelä Jari Pekka(1966,Kymenlaakso)=132338EUR
-  Mäkelä Jari Tapio(1960,Uusimaa)=127295EUR
-  Mäkelä Jari Toimi(1967,Päijät-Häme)=120120EUR
-Jouni Jelkänen 1: 
-  Jelkänen Jouni Kalevi(1959,Pohjois-Karjala)=213605EUR
-Jussi Virtanen 4: 
-  Virtanen Jussi Kalevi(1981,Uusimaa)=213646EUR
-  Virtanen Jussi-Pekka Paavali(1968,Keski-Suomi)=169223EUR
-  Virtanen Jussi Ilmari(1968,Pirkanmaa)=157322EUR
-  Virtanen Jussi Oskari(1979,Uusimaa)=148302EUR
-Lasse Koskela 1: 
-  Koskela Lasse Samuel(1979,Uusimaa)=145440EUR
-Markus Lindqvist 2: 
-  Lindqvist Markus Mikael(1989,Uusimaa)=191043EUR
-  Lindqvist Henry Markus(1979,Uusimaa)=181624EUR
-Mika Kekäle 1: 
-  Kekäle Mika Krister(1988,Uusimaa)=135231EUR
-Mikko Korpela 1: 
-  Korpela Mikko Allan(1972,Keski-Suomi)=218321EUR
-Oskari Pirttikoski 1: 
-  Pirttikoski Hannes Oskari(1975,Uusimaa)=165153EUR
-Otto Hilska 1: 
-  Hilska Otto Veikko Rikhard(1985,Uusimaa)=1547406EUR
-Pyry Haulos 1: 
-  Haulos Pyry(1989,Uusimaa)=278972EUR
-Tomi Koskinen 4: 
-  Koskinen Tomi Juhani(1972,Keski-Suomi)=270088EUR
-  Koskinen Tomi Mikael(1980,Uusimaa)=234517EUR
-  Koskinen Tomi Petteri(1979,Uusimaa)=142838EUR
-  Koskinen Tomi Petteri(1991,Uusimaa)=138628EUR
-Tuomas Volotinen 1: 
-  Volotinen Tuomas Petteri(1986,Uusimaa)=275337EUR
+Antti Pitkänen: Pitkänen Antti Joonas(1987,Uusimaa)=137956EUR
+Antti Relander: Relander Antti Juhani(1986,Uusimaa)=134745EUR
+Antti Vesalainen: Vesalainen Antti Viljam(1982,Uusimaa)=383997EUR
+Ethan Watson: Watson Ethan Aaron Eric(1981,Uusimaa)=288125EUR
+Jouni Jelkänen: Jelkänen Jouni Kalevi(1959,Pohjois-Karjala)=213605EUR
+Markus Lindqvist: Lindqvist Markus Mikael(1989,Uusimaa)=191043EUR
+Mika Kekäle: Kekäle Mika Krister(1988,Uusimaa)=135231EUR
+Otto Hilska: Hilska Otto Veikko Rikhard(1985,Uusimaa)=1547406EUR
+Pyry Haulos: Haulos Pyry(1989,Uusimaa)=278972EUR
+Tuomas Volotinen: Volotinen Tuomas Petteri(1986,Uusimaa)=275337EUR
