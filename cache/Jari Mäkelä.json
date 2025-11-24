@@ -1,0 +1,158 @@
+{
+  "results": [
+    {
+      "name": "Mäkelä Jari-Pekka",
+      "id": "1964Mäkelä Jari-Pekka",
+      "gender": "m",
+      "birthYear": 1964,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10427,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Keski-Suomi",
+          "totalIncome": 562103.6599999999,
+          "capitalIncome": 362068.29,
+          "salary": 200035.37,
+          "rank": 2692,
+          "rankOfLastYear": 2692,
+          "paidTaxes": 212741.18,
+          "taxRatio": 37.847321613241235,
+          "personId": "1964Mäkelä Jari-Pekka",
+          "fragmentId": "20241964M-kel-_Jari-Pekka"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Jari Heikki",
+      "id": "1972Mäkelä Jari Heikki",
+      "birthYear": 1972,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13784,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 184877.84,
+          "capitalIncome": 2275.01,
+          "salary": 182602.83,
+          "rank": 23059,
+          "rankOfLastYear": 23059,
+          "paidTaxes": 83702.21,
+          "taxRatio": 45.27433358156932,
+          "personId": "1972Mäkelä Jari Heikki",
+          "fragmentId": "20241972M-kel-_Jari_Heikki"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Jari Armas",
+      "id": "1968Mäkelä Jari Armas",
+      "birthYear": 1968,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36913,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 133398.27,
+          "capitalIncome": 2098.69,
+          "salary": 131299.58,
+          "rank": 52800,
+          "rankOfLastYear": 52800,
+          "paidTaxes": 57113.22,
+          "taxRatio": 42.8140634807333,
+          "personId": "1968Mäkelä Jari Armas",
+          "fragmentId": "20241968M-kel-_Jari_Armas"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Jari Pekka",
+      "id": "1966Mäkelä Jari Pekka",
+      "birthYear": 1966,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44734,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 132338.35,
+          "capitalIncome": 8942.64,
+          "salary": 123395.71,
+          "rank": 53878,
+          "paidTaxes": 55548.28,
+          "taxRatio": 41.97443900426445,
+          "personId": "1966Mäkelä Jari Pekka",
+          "fragmentId": "20241966M-kel-_Jari_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Jari Tapio",
+      "id": "1960Mäkelä Jari Tapio",
+      "birthYear": 1960,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40767,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 127294.51,
+          "capitalIncome": 158.93,
+          "salary": 127135.58,
+          "rank": 59787,
+          "rankOfLastYear": 59787,
+          "paidTaxes": 49534.18,
+          "taxRatio": 38.91305288814105,
+          "personId": "1960Mäkelä Jari Tapio",
+          "fragmentId": "20241960M-kel-_Jari_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Mäkelä Jari Toimi",
+      "id": "1967Mäkelä Jari Toimi",
+      "birthYear": 1967,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48728,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 120119.93,
+          "capitalIncome": 49.81,
+          "salary": 120070.12,
+          "rank": 70035,
+          "rankOfLastYear": 70035,
+          "paidTaxes": 46812.93,
+          "taxRatio": 38.97182590765746,
+          "personId": "1967Mäkelä Jari Toimi",
+          "fragmentId": "20241967M-kel-_Jari_Toimi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 6,
+  "totResults": 6
+}

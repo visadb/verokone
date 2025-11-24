@@ -1,0 +1,342 @@
+{
+  "results": [
+    {
+      "name": "Mäkinen Eero Olavi Mikael",
+      "id": "1949Mäkinen Eero Olavi Mikael",
+      "gender": "m",
+      "birthYear": 1949,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51366,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 443520.28,
+          "capitalIncome": 328982.56,
+          "salary": 114537.72,
+          "rank": 3921,
+          "rankOfLastYear": 3921,
+          "paidTaxes": 157899.9,
+          "taxRatio": 35.60150620395531,
+          "personId": "1949Mäkinen Eero Olavi Mikael",
+          "fragmentId": "20241949M-kinen_Eero_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Alavillamo Kari Mikael",
+      "id": "1974Alavillamo Kari Mikael",
+      "gender": "m",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5090,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 256286.02,
+          "capitalIncome": 0,
+          "salary": 256286.02,
+          "rank": 10814,
+          "rankOfLastYear": 10814,
+          "paidTaxes": 122177.91,
+          "taxRatio": 47.67248326693746,
+          "personId": "1974Alavillamo Kari Mikael",
+          "fragmentId": "20241974Alavillamo_Kari_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Särvä Olavi Mikael",
+      "id": "1936Särvä Olavi Mikael",
+      "gender": "m",
+      "birthYear": 1936,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67412,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 216124.61000000002,
+          "capitalIncome": 199814.38,
+          "salary": 16310.23,
+          "rank": 15840,
+          "rankOfLastYear": 15840,
+          "paidTaxes": 67450.99,
+          "taxRatio": 31.20930559458268,
+          "personId": "1936Särvä Olavi Mikael",
+          "fragmentId": "20241936S-rv-_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Kuokkanen Hannu Olavi Mikael",
+      "id": "1957Kuokkanen Hannu Olavi Mikael",
+      "gender": "m",
+      "birthYear": 1957,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 11099,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Päijät-Häme",
+          "totalIncome": 210494.76,
+          "capitalIncome": 14504.56,
+          "salary": 195990.2,
+          "rank": 16865,
+          "rankOfLastYear": 16865,
+          "paidTaxes": 96713.93,
+          "taxRatio": 45.94600359647907,
+          "personId": "1957Kuokkanen Hannu Olavi Mikael",
+          "fragmentId": "20241957Kuokkanen_Hannu_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Alaviitala Mikael",
+      "id": "1964Alaviitala Mikael",
+      "birthYear": 1964,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59409,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 191772.79,
+          "capitalIncome": 117169.71,
+          "salary": 74603.08,
+          "rank": 21061,
+          "rankOfLastYear": 21061,
+          "paidTaxes": 62538.57,
+          "taxRatio": 32.610762976332566,
+          "personId": "1964Alaviitala Mikael",
+          "fragmentId": "20241964Alaviitala_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Heiskanen Mauri Olavi Mikael",
+      "id": "1964Heiskanen Mauri Olavi Mikael",
+      "birthYear": 1964,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18361,
+          "taxYear": 2024,
+          "county": "Pohjois-Savo",
+          "totalIncome": 171868.29,
+          "capitalIncome": 5803.72,
+          "salary": 166064.57,
+          "rank": 27579,
+          "rankOfLastYear": 27579,
+          "paidTaxes": 74584.58,
+          "taxRatio": 43.39635892112501,
+          "personId": "1964Heiskanen Mauri Olavi Mikael",
+          "fragmentId": "20241964Heiskanen_Mauri_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Veitola Antti Olavi Mikael",
+      "id": "1970Veitola Antti Olavi Mikael",
+      "birthYear": 1970,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 23507,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 159268.44,
+          "capitalIncome": 6756.72,
+          "salary": 152511.72,
+          "rank": 33280,
+          "rankOfLastYear": 33280,
+          "paidTaxes": 68485.37,
+          "taxRatio": 42.99996283004969,
+          "personId": "1970Veitola Antti Olavi Mikael",
+          "fragmentId": "20241970Veitola_Antti_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Norri Mikael Heikki Olavi",
+      "id": "1990Norri Mikael Heikki Olavi",
+      "birthYear": 1990,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60600,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 156372.59999999998,
+          "capitalIncome": 89158.17,
+          "salary": 67214.43,
+          "rank": 34887,
+          "rankOfLastYear": 34887,
+          "paidTaxes": 47817.37,
+          "taxRatio": 30.579123196774887,
+          "personId": "1990Norri Mikael Heikki Olavi",
+          "fragmentId": "20241990Norri_Mikael_Heikki_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Oksanen Mikael Olavi",
+      "id": "1968Oksanen Mikael Olavi",
+      "birthYear": 1968,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67308,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 149391.07,
+          "capitalIncome": 132091.89,
+          "salary": 17299.18,
+          "rank": 39233,
+          "rankOfLastYear": 39233,
+          "paidTaxes": 48111.75,
+          "taxRatio": 32.20523823813565,
+          "personId": "1968Oksanen Mikael Olavi",
+          "fragmentId": "20241968Oksanen_Mikael_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Krogerus Kaarlo Olavi Mikael",
+      "id": "1944Krogerus Kaarlo Olavi Mikael",
+      "birthYear": 1944,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35175,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 138049.49,
+          "capitalIncome": 4637.69,
+          "salary": 133411.8,
+          "rank": 48250,
+          "rankOfLastYear": 48250,
+          "paidTaxes": 58435.35,
+          "taxRatio": 42.329276261723244,
+          "personId": "1944Krogerus Kaarlo Olavi Mikael",
+          "fragmentId": "20241944Krogerus_Kaarlo_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Myllymäki Ari Olavi Mikael",
+      "id": "1959Myllymäki Ari Olavi Mikael",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 52172,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 135266.93,
+          "capitalIncome": 23303.89,
+          "salary": 111963.04,
+          "rank": 50926,
+          "rankOfLastYear": 50926,
+          "paidTaxes": 49137.7,
+          "taxRatio": 36.3264694482236,
+          "personId": "1959Myllymäki Ari Olavi Mikael",
+          "fragmentId": "20241959Myllym-ki_Ari_Olavi_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Mäkinen Mikael Olavi",
+      "id": "1982Mäkinen Mikael Olavi",
+      "birthYear": 1982,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60123,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 124127.42,
+          "capitalIncome": 53839.16,
+          "salary": 70288.26,
+          "rank": 64050,
+          "rankOfLastYear": 64050,
+          "paidTaxes": 40214.93,
+          "taxRatio": 32.39810349719667,
+          "personId": "1982Mäkinen Mikael Olavi",
+          "fragmentId": "20241982M-kinen_Mikael_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Palinperä Mikael Olavi",
+      "id": "1989Palinperä Mikael Olavi",
+      "birthYear": 1989,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 48209,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 121660.73,
+          "capitalIncome": 1179.67,
+          "salary": 120481.06,
+          "rank": 67616,
+          "rankOfLastYear": 67616,
+          "paidTaxes": 47248.91,
+          "taxRatio": 38.83661556198126,
+          "personId": "1989Palinperä Mikael Olavi",
+          "fragmentId": "20241989Palinper-_Mikael_Olavi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 13,
+  "totResults": 13
+}

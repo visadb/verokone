@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Saarinen Anri Sanna Marianne",
+      "id": "1974Saarinen Anri Sanna Marianne",
+      "birthYear": 1974,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32692,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 136693.63,
+          "capitalIncome": 0,
+          "salary": 136693.63,
+          "rank": 49503,
+          "rankOfLastYear": 49503,
+          "paidTaxes": 59126.2,
+          "taxRatio": 43.2545393666113,
+          "personId": "1974Saarinen Anri Sanna Marianne",
+          "fragmentId": "20241974Saarinen_Anri_Sanna_Marianne"
+        }
+      }
+    },
+    {
+      "name": "Ylikoski Marianne Sisko Susanna",
+      "id": "1970Ylikoski Marianne Sisko Susanna",
+      "birthYear": 1970,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41034,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 133449.01,
+          "capitalIncome": 6585.53,
+          "salary": 126863.48,
+          "rank": 52761,
+          "rankOfLastYear": 52761,
+          "paidTaxes": 55122.41,
+          "taxRatio": 41.30597147180035,
+          "personId": "1970Ylikoski Marianne Sisko Susanna",
+          "fragmentId": "20241970Ylikoski_Marianne_Sisko_Susanna"
+        }
+      }
+    },
+    {
+      "name": "Savukoski Susanna Marianne",
+      "id": "1988Savukoski Susanna Marianne",
+      "birthYear": 1988,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39483,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 129573.09,
+          "capitalIncome": 1111.05,
+          "salary": 128462.04,
+          "rank": 56992,
+          "rankOfLastYear": 56992,
+          "paidTaxes": 53493.59,
+          "taxRatio": 41.284490475607235,
+          "personId": "1988Savukoski Susanna Marianne",
+          "fragmentId": "20241988Savukoski_Susanna_Marianne"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Mannermaa Mira Johanna",
+      "id": "1970Mannermaa Mira Johanna",
+      "gender": "n",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17683,
+          "taxYear": 2024,
+          "gender": "n",
+          "county": "Uusimaa",
+          "totalIncome": 168246.92,
+          "capitalIncome": 0,
+          "salary": 168246.92,
+          "rank": 29080,
+          "rankOfLastYear": 29080,
+          "paidTaxes": 68334.8,
+          "taxRatio": 40.61578066332507,
+          "personId": "1970Mannermaa Mira Johanna",
+          "fragmentId": "20241970Mannermaa_Mira_Johanna"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

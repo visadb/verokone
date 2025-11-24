@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Watson Ethan Aaron Eric",
+      "id": "1981Watson Ethan Aaron Eric",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3798,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 288125.49,
+          "capitalIncome": 3113.57,
+          "salary": 285011.92,
+          "rank": 8511,
+          "rankOfLastYear": 8511,
+          "paidTaxes": 129207.46,
+          "taxRatio": 44.84416147977745,
+          "personId": "1981Watson Ethan Aaron Eric",
+          "fragmentId": "20241981Watson_Ethan_Aaron_Eric"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

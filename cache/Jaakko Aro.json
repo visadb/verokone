@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "name": "Paakkola Aaro Jaakko",
+      "id": "1946Paakkola Aaro Jaakko",
+      "gender": "m",
+      "birthYear": 1946,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65307,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 270069.96,
+          "capitalIncome": 235237.01,
+          "salary": 34832.95,
+          "rank": 9701,
+          "rankOfLastYear": 9701,
+          "paidTaxes": 86827.38,
+          "taxRatio": 32.14995847742563,
+          "personId": "1946Paakkola Aaro Jaakko",
+          "fragmentId": "20241946Paakkola_Aaro_Jaakko"
+        }
+      }
+    },
+    {
+      "name": "Hellas Aaro Jaakko",
+      "id": "1956Hellas Aaro Jaakko",
+      "gender": "m",
+      "birthYear": 1956,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59893,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 171466.94,
+          "capitalIncome": 99770.54,
+          "salary": 71696.4,
+          "rank": 27755,
+          "rankOfLastYear": 27755,
+          "paidTaxes": 57659.43,
+          "taxRatio": 33.62714118535037,
+          "personId": "1956Hellas Aaro Jaakko",
+          "fragmentId": "20241956Hellas_Aaro_Jaakko"
+        }
+      }
+    },
+    {
+      "name": "Virkkunen Aaro Jaakko",
+      "id": "1959Virkkunen Aaro Jaakko",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18542,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 165528.47,
+          "capitalIncome": 0,
+          "salary": 165528.47,
+          "rank": 30269,
+          "rankOfLastYear": 30269,
+          "paidTaxes": 67159.46,
+          "taxRatio": 40.57275464456357,
+          "personId": "1959Virkkunen Aaro Jaakko",
+          "fragmentId": "20241959Virkkunen_Aaro_Jaakko"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

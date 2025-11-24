@@ -1,0 +1,238 @@
+{
+  "results": [
+    {
+      "name": "Tarkiainen Jussi Paavo Tapani",
+      "id": "1971Tarkiainen Jussi Paavo Tapani",
+      "gender": "m",
+      "birthYear": 1971,
+      "lastCounty": "Etelä-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61146,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Savo",
+          "totalIncome": 698215.99,
+          "capitalIncome": 634557.54,
+          "salary": 63658.45,
+          "rank": 1965,
+          "rankOfLastYear": 1965,
+          "paidTaxes": 234293.54,
+          "taxRatio": 33.55602612309123,
+          "personId": "1971Tarkiainen Jussi Paavo Tapani",
+          "fragmentId": "20241971Tarkiainen_Jussi_Paavo_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Savonen Jussi Paavo Sakari",
+      "id": "1961Savonen Jussi Paavo Sakari",
+      "gender": "m",
+      "birthYear": 1961,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 58677,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 266250.12,
+          "capitalIncome": 186903.04,
+          "salary": 79347.08,
+          "rank": 10024,
+          "rankOfLastYear": 10024,
+          "paidTaxes": 83710.87,
+          "taxRatio": 31.44068817696683,
+          "personId": "1961Savonen Jussi Paavo Sakari",
+          "fragmentId": "20241961Savonen_Jussi_Paavo_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Haavisto Jussi Tapani",
+      "id": "1970Haavisto Jussi Tapani",
+      "birthYear": 1970,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61404,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 244589.82,
+          "capitalIncome": 182575.17,
+          "salary": 62014.65,
+          "rank": 12007,
+          "rankOfLastYear": 12007,
+          "paidTaxes": 76569.36,
+          "taxRatio": 31.30521131255585,
+          "personId": "1970Haavisto Jussi Tapani",
+          "fragmentId": "20241970Haavisto_Jussi_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Grönholm Jussi Paavo Antero",
+      "id": "1959Grönholm Jussi Paavo Antero",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13705,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 225170.04,
+          "capitalIncome": 42213.84,
+          "salary": 182956.2,
+          "rank": 14352,
+          "rankOfLastYear": 14352,
+          "paidTaxes": 95170.16,
+          "taxRatio": 42.26590713400415,
+          "personId": "1959Grönholm Jussi Paavo Antero",
+          "fragmentId": "20241959Gr-nholm_Jussi_Paavo_Antero"
+        }
+      }
+    },
+    {
+      "name": "Taavitsainen Jussi Tapio",
+      "id": "1966Taavitsainen Jussi Tapio",
+      "birthYear": 1966,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12872,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 194255.83,
+          "capitalIncome": 7515.87,
+          "salary": 186739.96,
+          "rank": 20383,
+          "rankOfLastYear": 20383,
+          "paidTaxes": 87853.88,
+          "taxRatio": 45.22586529320639,
+          "personId": "1966Taavitsainen Jussi Tapio",
+          "fragmentId": "20241966Taavitsainen_Jussi_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Jussi-Pekka Paavali",
+      "id": "1968Virtanen Jussi-Pekka Paavali",
+      "birthYear": 1968,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18917,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 169223.14,
+          "capitalIncome": 4861.51,
+          "salary": 164361.63,
+          "rank": 28698,
+          "rankOfLastYear": 28698,
+          "paidTaxes": 73668.02,
+          "taxRatio": 43.533065277006436,
+          "personId": "1968Virtanen Jussi-Pekka Paavali",
+          "fragmentId": "20241968Virtanen_Jussi-Pekka_Paavali"
+        }
+      }
+    },
+    {
+      "name": "Meriläinen Jussi Paavo Tapio",
+      "id": "1986Meriläinen Jussi Paavo Tapio",
+      "birthYear": 1986,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38300,
+          "taxYear": 2024,
+          "county": "Pohjois-Karjala",
+          "totalIncome": 142601.28,
+          "capitalIncome": 12855.79,
+          "salary": 129745.49,
+          "rank": 44305,
+          "rankOfLastYear": 44305,
+          "paidTaxes": 60412.34,
+          "taxRatio": 42.36451454012194,
+          "personId": "1986Meriläinen Jussi Paavo Tapio",
+          "fragmentId": "20241986Meril-inen_Jussi_Paavo_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Rautiainen Jussi Paavo",
+      "id": "1987Rautiainen Jussi Paavo",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 43595,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124415.05,
+          "capitalIncome": 0,
+          "salary": 124415.05,
+          "rank": 63637,
+          "rankOfLastYear": 63637,
+          "paidTaxes": 46373.05,
+          "taxRatio": 37.27286208541491,
+          "personId": "1987Rautiainen Jussi Paavo",
+          "fragmentId": "20241987Rautiainen_Jussi_Paavo"
+        }
+      }
+    },
+    {
+      "name": "Lehmusvirta Jussi Paavo Matias",
+      "id": "1960Lehmusvirta Jussi Paavo Matias",
+      "birthYear": 1960,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46426,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 123018.82,
+          "capitalIncome": 1080.55,
+          "salary": 121938.27,
+          "rank": 65659,
+          "rankOfLastYear": 65659,
+          "paidTaxes": 47657.43,
+          "taxRatio": 38.73995052139176,
+          "personId": "1960Lehmusvirta Jussi Paavo Matias",
+          "fragmentId": "20241960Lehmusvirta_Jussi_Paavo_Matias"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 9,
+  "totResults": 9
+}

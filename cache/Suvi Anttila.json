@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Ranttila Suvi Helinä",
+      "id": "1986Ranttila Suvi Helinä",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33621,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 135499.62,
+          "capitalIncome": 0,
+          "salary": 135499.62,
+          "rank": 50699,
+          "rankOfLastYear": 50699,
+          "paidTaxes": 55216.79,
+          "taxRatio": 40.75051280586617,
+          "personId": "1986Ranttila Suvi Helinä",
+          "fragmentId": "20241986Ranttila_Suvi_Helin-"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

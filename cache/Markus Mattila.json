@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "name": "Mattila Markus Tapani",
+      "id": "1977Mattila Markus Tapani",
+      "gender": "m",
+      "birthYear": 1977,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1926,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kanta-Häme",
+          "totalIncome": 471705.67000000004,
+          "capitalIncome": 99151.21,
+          "salary": 372554.46,
+          "rank": 3538,
+          "rankOfLastYear": 3538,
+          "paidTaxes": 211049.67,
+          "taxRatio": 44.74181325825487,
+          "personId": "1977Mattila Markus Tapani",
+          "fragmentId": "20241977Mattila_Markus_Tapani"
+        }
+      }
+    },
+    {
+      "name": "Mattila Markus Tapani",
+      "id": "1968Mattila Markus Tapani",
+      "gender": "m",
+      "birthYear": 1968,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16562,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "totalIncome": 180981.7,
+          "capitalIncome": 9093.92,
+          "salary": 171887.78,
+          "rank": 24304,
+          "rankOfLastYear": 24304,
+          "paidTaxes": 78201.16,
+          "taxRatio": 43.20942946165275,
+          "personId": "1968Mattila Markus Tapani",
+          "fragmentId": "20241968Mattila_Markus_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

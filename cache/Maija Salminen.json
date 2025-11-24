@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Tammi-Salminen Eva-Maija",
+      "id": "1971Tammi-Salminen Eva-Maija",
+      "birthYear": 1971,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33274,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 138993.91,
+          "capitalIncome": 3049.95,
+          "salary": 135943.96,
+          "rank": 47379,
+          "rankOfLastYear": 47379,
+          "paidTaxes": 57044.63,
+          "taxRatio": 41.04110028993356,
+          "personId": "1971Tammi-Salminen Eva-Maija",
+          "fragmentId": "20241971Tammi-Salminen_Eva-Maija"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

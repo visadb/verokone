@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Jelkänen Jouni Kalevi",
+      "id": "1959Jelkänen Jouni Kalevi",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66548,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Karjala",
+          "totalIncome": 213605.19,
+          "capitalIncome": 188401.63,
+          "salary": 25203.56,
+          "rank": 16294,
+          "rankOfLastYear": 16294,
+          "paidTaxes": 65746.57,
+          "taxRatio": 30.779481528515294,
+          "personId": "1959Jelkänen Jouni Kalevi",
+          "fragmentId": "20241959Jelk-nen_Jouni_Kalevi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

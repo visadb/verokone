@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Forsell Antti Antero",
+      "id": "1978Forsell Antti Antero",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 41030,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129355.85,
+          "capitalIncome": 2490.55,
+          "salary": 126865.3,
+          "rank": 57257,
+          "rankOfLastYear": 57257,
+          "paidTaxes": 48906.53,
+          "taxRatio": 37.807745069125204,
+          "personId": "1978Forsell Antti Antero",
+          "fragmentId": "20241978Forsell_Antti_Antero"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

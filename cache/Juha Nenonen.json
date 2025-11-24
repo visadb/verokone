@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Nenonen Jarkko Juhani",
+      "id": "1970Nenonen Jarkko Juhani",
+      "birthYear": 1970,
+      "lastCounty": "Kymenlaakso",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44772,
+          "taxYear": 2024,
+          "county": "Kymenlaakso",
+          "totalIncome": 168812.21,
+          "capitalIncome": 45450.29,
+          "salary": 123361.92,
+          "rank": 28842,
+          "rankOfLastYear": 28842,
+          "paidTaxes": 66931.62,
+          "taxRatio": 39.64856570505179,
+          "personId": "1970Nenonen Jarkko Juhani",
+          "fragmentId": "20241970Nenonen_Jarkko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Nenonen Matti Juhani Antero",
+      "id": "1950Nenonen Matti Juhani Antero",
+      "birthYear": 1950,
+      "lastCounty": "Pohjois-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 67498,
+          "taxYear": 2024,
+          "county": "Pohjois-Karjala",
+          "totalIncome": 144836.05,
+          "capitalIncome": 129777.42,
+          "salary": 15058.63,
+          "rank": 42526,
+          "rankOfLastYear": 42526,
+          "paidTaxes": 46826.4,
+          "taxRatio": 32.33062486860143,
+          "personId": "1950Nenonen Matti Juhani Antero",
+          "fragmentId": "20241950Nenonen_Matti_Juhani_Antero"
+        }
+      }
+    },
+    {
+      "name": "Nenonen Kari Juhani",
+      "id": "1974Nenonen Kari Juhani",
+      "birthYear": 1974,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45189,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 123002.45,
+          "capitalIncome": 0,
+          "salary": 123002.45,
+          "rank": 65683,
+          "rankOfLastYear": 65683,
+          "paidTaxes": 46394.68,
+          "taxRatio": 37.71850072905052,
+          "personId": "1974Nenonen Kari Juhani",
+          "fragmentId": "20241974Nenonen_Kari_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

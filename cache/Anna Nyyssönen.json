@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nyyssönen-Askola Marja Johanna",
+      "id": "1967Nyyssönen-Askola Marja Johanna",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 38852,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 132363.74,
+          "capitalIncome": 3218.2,
+          "salary": 129145.54,
+          "rank": 53848,
+          "rankOfLastYear": 53848,
+          "paidTaxes": 51575.97,
+          "taxRatio": 38.96533144197951,
+          "personId": "1967Nyyssönen-Askola Marja Johanna",
+          "fragmentId": "20241967Nyyss-nen-Askola_Marja_Johanna"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

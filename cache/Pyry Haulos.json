@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Haulos Pyry",
+      "id": "1989Haulos Pyry",
+      "gender": "m",
+      "birthYear": 1989,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 47816,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 278972.26,
+          "capitalIncome": 158167,
+          "salary": 120805.26,
+          "rank": 9093,
+          "rankOfLastYear": 9093,
+          "paidTaxes": 92968.88,
+          "taxRatio": 33.32549264934083,
+          "personId": "1989Haulos Pyry",
+          "fragmentId": "20241989Haulos_Pyry"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

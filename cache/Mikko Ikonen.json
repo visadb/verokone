@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "name": "Ikonen Mikko Tapio",
+      "id": "1976Ikonen Mikko Tapio",
+      "gender": "m",
+      "birthYear": 1976,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9647,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 242823.04,
+          "capitalIncome": 37500,
+          "salary": 205323.04,
+          "rank": 12189,
+          "rankOfLastYear": 12189,
+          "paidTaxes": 104109,
+          "taxRatio": 42.874432343817126,
+          "personId": "1976Ikonen Mikko Tapio",
+          "fragmentId": "20241976Ikonen_Mikko_Tapio"
+        }
+      }
+    },
+    {
+      "name": "Ikonen Mikko Pauli Markus",
+      "id": "1963Ikonen Mikko Pauli Markus",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62576,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 146039.24,
+          "capitalIncome": 91594.69,
+          "salary": 54444.55,
+          "rank": 41626,
+          "rankOfLastYear": 41626,
+          "paidTaxes": 43903.25,
+          "taxRatio": 30.06263932899131,
+          "personId": "1963Ikonen Mikko Pauli Markus",
+          "fragmentId": "20241963Ikonen_Mikko_Pauli_Markus"
+        }
+      }
+    },
+    {
+      "name": "Ikonen Raimo Mikko",
+      "id": "1958Ikonen Raimo Mikko",
+      "birthYear": 1958,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65162,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 125885.75,
+          "capitalIncome": 90000,
+          "salary": 35885.75,
+          "rank": 61616,
+          "rankOfLastYear": 61616,
+          "paidTaxes": 39441.89,
+          "taxRatio": 31.33149701217175,
+          "personId": "1958Ikonen Raimo Mikko",
+          "fragmentId": "20241958Ikonen_Raimo_Mikko"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

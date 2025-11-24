@@ -1,0 +1,188 @@
+{
+  "results": [
+    {
+      "name": "Kemppainen Vesa Matti",
+      "id": "1970Kemppainen Vesa Matti",
+      "gender": "m",
+      "birthYear": 1970,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 4827,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 261207.41,
+          "capitalIncome": 0,
+          "salary": 261207.41,
+          "rank": 10395,
+          "rankOfLastYear": 10395,
+          "paidTaxes": 113091.43,
+          "taxRatio": 43.29564387166505,
+          "personId": "1970Kemppainen Vesa Matti",
+          "fragmentId": "20241970Kemppainen_Vesa_Matti"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Matti Volmar Ilmari",
+      "id": "1987Kemppainen Matti Volmar Ilmari",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19752,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 222923.28000000003,
+          "capitalIncome": 61129.89,
+          "salary": 161793.39,
+          "rank": 14688,
+          "rankOfLastYear": 14688,
+          "paidTaxes": 86090.03,
+          "taxRatio": 38.61868083046328,
+          "personId": "1987Kemppainen Matti Volmar Ilmari",
+          "fragmentId": "20241987Kemppainen_Matti_Volmar_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Veli Matti",
+      "id": "1962Kemppainen Veli Matti",
+      "gender": "m",
+      "birthYear": 1962,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 16488,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 211378.46,
+          "capitalIncome": 39261.74,
+          "salary": 172116.72,
+          "rank": 16709,
+          "rankOfLastYear": 16709,
+          "paidTaxes": 87780.43,
+          "taxRatio": 41.52761355154163,
+          "personId": "1962Kemppainen Veli Matti",
+          "fragmentId": "20241962Kemppainen_Veli_Matti"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Hannu Matti Sakari",
+      "id": "1964Kemppainen Hannu Matti Sakari",
+      "birthYear": 1964,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31657,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 176997.41999999998,
+          "capitalIncome": 38895.95,
+          "salary": 138101.47,
+          "rank": 25662,
+          "rankOfLastYear": 25662,
+          "paidTaxes": 65782.31,
+          "taxRatio": 37.16568862981167,
+          "personId": "1964Kemppainen Hannu Matti Sakari",
+          "fragmentId": "20241964Kemppainen_Hannu_Matti_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Matti Kalervo",
+      "id": "1952Kemppainen Matti Kalervo",
+      "birthYear": 1952,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15643,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 175214.43,
+          "capitalIncome": 0,
+          "salary": 175214.43,
+          "rank": 26307,
+          "rankOfLastYear": 26307,
+          "paidTaxes": 74705.11,
+          "taxRatio": 42.63639130635531,
+          "personId": "1952Kemppainen Matti Kalervo",
+          "fragmentId": "20241952Kemppainen_Matti_Kalervo"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Aleksi Matti Valtteri",
+      "id": "1984Kemppainen Aleksi Matti Valtteri",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 27419,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 149200.24000000002,
+          "capitalIncome": 4333.39,
+          "salary": 144866.85,
+          "rank": 39360,
+          "rankOfLastYear": 39360,
+          "paidTaxes": 58358.15,
+          "taxRatio": 39.11397863703168,
+          "personId": "1984Kemppainen Aleksi Matti Valtteri",
+          "fragmentId": "20241984Kemppainen_Aleksi_Matti_Valtteri"
+        }
+      }
+    },
+    {
+      "name": "Kemppainen Matti Kalevi",
+      "id": "1939Kemppainen Matti Kalevi",
+      "gender": "m",
+      "birthYear": 1939,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60988,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 128699,
+          "capitalIncome": 64062.56,
+          "salary": 64636.44,
+          "rank": 58046,
+          "rankOfLastYear": 58046,
+          "paidTaxes": 42052.45,
+          "taxRatio": 32.675040210102644,
+          "personId": "1939Kemppainen Matti Kalevi",
+          "fragmentId": "20241939Kemppainen_Matti_Kalevi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 7,
+  "totResults": 7
+}

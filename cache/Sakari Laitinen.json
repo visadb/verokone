@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "name": "Laitinen Vilho Sakari",
+      "id": "1960Laitinen Vilho Sakari",
+      "gender": "m",
+      "birthYear": 1960,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 28516,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kanta-Häme",
+          "totalIncome": 237273.6,
+          "capitalIncome": 94398.28,
+          "salary": 142875.32,
+          "rank": 12801,
+          "rankOfLastYear": 12801,
+          "paidTaxes": 90429.18,
+          "taxRatio": 38.11177476128823,
+          "personId": "1960Laitinen Vilho Sakari",
+          "fragmentId": "20241960Laitinen_Vilho_Sakari"
+        }
+      }
+    },
+    {
+      "name": "Laitinen Timo Sakari",
+      "id": "1958Laitinen Timo Sakari",
+      "gender": "m",
+      "birthYear": 1958,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15123,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 179399.65,
+          "capitalIncome": 2234.13,
+          "salary": 177165.52,
+          "rank": 24837,
+          "rankOfLastYear": 24837,
+          "paidTaxes": 78357.24,
+          "taxRatio": 43.67747651681595,
+          "personId": "1958Laitinen Timo Sakari",
+          "fragmentId": "20241958Laitinen_Timo_Sakari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

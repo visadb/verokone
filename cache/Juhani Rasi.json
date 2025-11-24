@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "name": "Rasilainen Matti Juhani",
+      "id": "1948Rasilainen Matti Juhani",
+      "gender": "m",
+      "birthYear": 1948,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1952,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 414229.97000000003,
+          "capitalIncome": 43941.94,
+          "salary": 370288.03,
+          "rank": 4401,
+          "rankOfLastYear": 4401,
+          "paidTaxes": 193771.09,
+          "taxRatio": 46.7786263751027,
+          "personId": "1948Rasilainen Matti Juhani",
+          "fragmentId": "20241948Rasilainen_Matti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rasilainen Martti Juhani",
+      "id": "1945Rasilainen Martti Juhani",
+      "gender": "m",
+      "birthYear": 1945,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 59403,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Varsinais-Suomi",
+          "jobTitle": "Kuljetinjärjestelmiä valmistavan Raumasterin perustajia, hallituksen puheenjohtaja",
+          "totalIncome": 337119.27999999997,
+          "capitalIncome": 262482.3,
+          "salary": 74636.98,
+          "rank": 6287,
+          "rankOfLastYear": 6287,
+          "paidTaxes": 102389.21,
+          "taxRatio": 30.371804899440942,
+          "personId": "1945Rasilainen Martti Juhani",
+          "fragmentId": "20241945Rasilainen_Martti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Gerasimow Timo Juhani",
+      "id": "1981Gerasimow Timo Juhani",
+      "birthYear": 1981,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 22189,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 155742.56,
+          "capitalIncome": 235.62,
+          "salary": 155506.94,
+          "rank": 35213,
+          "rankOfLastYear": 35213,
+          "paidTaxes": 66321.31,
+          "taxRatio": 42.58393466756935,
+          "personId": "1981Gerasimow Timo Juhani",
+          "fragmentId": "20241981Gerasimow_Timo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Rasi Mikko Jaakko Juhani",
+      "id": "1980Rasi Mikko Jaakko Juhani",
+      "birthYear": 1980,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61647,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 123393.73000000001,
+          "capitalIncome": 63034.01,
+          "salary": 60359.72,
+          "rank": 65113,
+          "rankOfLastYear": 65113,
+          "paidTaxes": 40303.96,
+          "taxRatio": 32.66289138029946,
+          "personId": "1980Rasi Mikko Jaakko Juhani",
+          "fragmentId": "20241980Rasi_Mikko_Jaakko_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

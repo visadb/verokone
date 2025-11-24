@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Voutilainen Timo Matias",
+      "id": "1985Voutilainen Timo Matias",
+      "birthYear": 1985,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25312,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 148747.67,
+          "capitalIncome": 0,
+          "salary": 148747.67,
+          "rank": 39648,
+          "rankOfLastYear": 39648,
+          "paidTaxes": 61881.71,
+          "taxRatio": 41.6018012248528,
+          "personId": "1985Voutilainen Timo Matias",
+          "fragmentId": "20241985Voutilainen_Timo_Matias"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

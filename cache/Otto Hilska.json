@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Hilska Otto Veikko Rikhard",
+      "id": "1985Hilska Otto Veikko Rikhard",
+      "gender": "m",
+      "birthYear": 1985,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 42061,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 1547406.43,
+          "capitalIncome": 1421541.01,
+          "salary": 125865.42,
+          "rank": 575,
+          "rankOfLastYear": 575,
+          "paidTaxes": 509933.73,
+          "taxRatio": 32.954091447067334,
+          "personId": "1985Hilska Otto Veikko Rikhard",
+          "fragmentId": "20241985Hilska_Otto_Veikko_Rikhard"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

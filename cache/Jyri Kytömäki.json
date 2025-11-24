@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kytömäki Jyri Kosti",
+      "id": "1977Kytömäki Jyri Kosti",
+      "birthYear": 1977,
+      "lastCounty": "Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7647,
+          "taxYear": 2024,
+          "county": "Pohjanmaa",
+          "totalIncome": 316676.34,
+          "capitalIncome": 94477.86,
+          "salary": 222198.48,
+          "rank": 7079,
+          "rankOfLastYear": 7079,
+          "paidTaxes": 131982.79,
+          "taxRatio": 41.67750265144532,
+          "personId": "1977Kytömäki Jyri Kosti",
+          "fragmentId": "20241977Kyt-m-ki_Jyri_Kosti"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

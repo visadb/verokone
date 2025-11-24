@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Knuutinen Sanna Kaisa",
+      "id": "1977Knuutinen Sanna Kaisa",
+      "birthYear": 1977,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 36479,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 157102.69999999998,
+          "capitalIncome": 25256.24,
+          "salary": 131846.46,
+          "rank": 34492,
+          "rankOfLastYear": 34492,
+          "paidTaxes": 61300,
+          "taxRatio": 39.01906205303919,
+          "personId": "1977Knuutinen Sanna Kaisa",
+          "fragmentId": "20241977Knuutinen_Sanna_Kaisa"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

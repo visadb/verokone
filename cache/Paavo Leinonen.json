@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Leinonen Paavo Johannes",
+      "id": "1949Leinonen Paavo Johannes",
+      "birthYear": 1949,
+      "lastCounty": "Lappi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 7943,
+          "taxYear": 2024,
+          "county": "Lappi",
+          "totalIncome": 229689.41999999998,
+          "capitalIncome": 10333.9,
+          "salary": 219355.52,
+          "rank": 13749,
+          "rankOfLastYear": 13749,
+          "paidTaxes": 3106.11,
+          "taxRatio": 1.3523086958032287,
+          "personId": "1949Leinonen Paavo Johannes",
+          "fragmentId": "20241949Leinonen_Paavo_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Korpela Mikko Allan",
+      "id": "1972Korpela Mikko Allan",
+      "gender": "m",
+      "birthYear": 1972,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 9719,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Keski-Suomi",
+          "totalIncome": 218321.22,
+          "capitalIncome": 13494.8,
+          "salary": 204826.42,
+          "rank": 15459,
+          "rankOfLastYear": 15459,
+          "paidTaxes": 96615.97,
+          "taxRatio": 44.25404456790778,
+          "personId": "1972Korpela Mikko Allan",
+          "fragmentId": "20241972Korpela_Mikko_Allan"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

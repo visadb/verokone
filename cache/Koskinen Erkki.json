@@ -1,0 +1,109 @@
+{
+  "results": [
+    {
+      "name": "Koskinen Perttu Erkki Pellervo",
+      "id": "1978Koskinen Perttu Erkki Pellervo",
+      "birthYear": 1978,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 20784,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 164698.28,
+          "capitalIncome": 5784.33,
+          "salary": 158913.95,
+          "rank": 30637,
+          "rankOfLastYear": 30637,
+          "paidTaxes": 66103.14,
+          "taxRatio": 40.13590184426941,
+          "personId": "1978Koskinen Perttu Erkki Pellervo",
+          "fragmentId": "20241978Koskinen_Perttu_Erkki_Pellervo"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Hannu Erkki Johannes",
+      "id": "1954Koskinen Hannu Erkki Johannes",
+      "gender": "m",
+      "birthYear": 1954,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33178,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kanta-Häme",
+          "totalIncome": 138625.84999999998,
+          "capitalIncome": 2550.27,
+          "salary": 136075.58,
+          "rank": 47726,
+          "rankOfLastYear": 47726,
+          "paidTaxes": 57973.8,
+          "taxRatio": 41.820338703062966,
+          "personId": "1954Koskinen Hannu Erkki Johannes",
+          "fragmentId": "20241954Koskinen_Hannu_Erkki_Johannes"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Erkki Tuomas Petteri",
+      "id": "1961Koskinen Erkki Tuomas Petteri",
+      "birthYear": 1961,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33692,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 135370.73,
+          "capitalIncome": 0,
+          "salary": 135370.73,
+          "rank": 50821,
+          "rankOfLastYear": 50821,
+          "paidTaxes": 57427.44,
+          "taxRatio": 42.42234639644774,
+          "personId": "1961Koskinen Erkki Tuomas Petteri",
+          "fragmentId": "20241961Koskinen_Erkki_Tuomas_Petteri"
+        }
+      }
+    },
+    {
+      "name": "Koskinen Sormo Erkki Ilmari",
+      "id": "1951Koskinen Sormo Erkki Ilmari",
+      "birthYear": 1951,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44951,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 128728.90000000001,
+          "capitalIncome": 5533.63,
+          "salary": 123195.27,
+          "rank": 58012,
+          "rankOfLastYear": 58012,
+          "paidTaxes": 54456.54,
+          "taxRatio": 42.303274556063165,
+          "personId": "1951Koskinen Sormo Erkki Ilmari",
+          "fragmentId": "20241951Koskinen_Sormo_Erkki_Ilmari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

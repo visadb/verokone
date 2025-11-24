@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Pelkonen Hannu Tapani",
+      "id": "1967Pelkonen Hannu Tapani",
+      "gender": "m",
+      "birthYear": 1967,
+      "lastCounty": "Kainuu",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 1935,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kainuu",
+          "totalIncome": 381408.39999999997,
+          "capitalIncome": 9446.74,
+          "salary": 371961.66,
+          "rank": 5098,
+          "rankOfLastYear": 5098,
+          "paidTaxes": 183895.55,
+          "taxRatio": 48.2148662693323,
+          "personId": "1967Pelkonen Hannu Tapani",
+          "fragmentId": "20241967Pelkonen_Hannu_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

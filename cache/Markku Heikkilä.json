@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "name": "Heikkilä Markku Antti",
+      "id": "1956Heikkilä Markku Antti",
+      "birthYear": 1956,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66806,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 197454.37,
+          "capitalIncome": 174856.97,
+          "salary": 22597.4,
+          "rank": 19598,
+          "rankOfLastYear": 19598,
+          "paidTaxes": 62602.63,
+          "taxRatio": 31.70485920367323,
+          "personId": "1956Heikkilä Markku Antti",
+          "fragmentId": "20241956Heikkil-_Markku_Antti"
+        }
+      }
+    },
+    {
+      "name": "Heikkilä Markku Juhani",
+      "id": "1940Heikkilä Markku Juhani",
+      "gender": "m",
+      "birthYear": 1940,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 51611,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 126411.68000000001,
+          "capitalIncome": 12608.6,
+          "salary": 113803.08,
+          "rank": 60914,
+          "rankOfLastYear": 60914,
+          "paidTaxes": 48243.93,
+          "taxRatio": 38.16413957950721,
+          "personId": "1940Heikkilä Markku Juhani",
+          "fragmentId": "20241940Heikkil-_Markku_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Heikkilä Markku Johannes",
+      "id": "1972Heikkilä Markku Johannes",
+      "gender": "m",
+      "birthYear": 1972,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46620,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 123377.11,
+          "capitalIncome": 1605.98,
+          "salary": 121771.13,
+          "rank": 65138,
+          "rankOfLastYear": 65138,
+          "paidTaxes": 49301.75,
+          "taxRatio": 39.96020817799996,
+          "personId": "1972Heikkilä Markku Johannes",
+          "fragmentId": "20241972Heikkil-_Markku_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

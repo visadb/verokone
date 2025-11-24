@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Nylén Mikko Kalevi Antton",
+      "id": "1987Nylén Mikko Kalevi Antton",
+      "birthYear": 1987,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 15606,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 178870.45,
+          "capitalIncome": 3523.28,
+          "salary": 175347.17,
+          "rank": 25017,
+          "rankOfLastYear": 25017,
+          "paidTaxes": 78204.61,
+          "taxRatio": 43.721369292691996,
+          "personId": "1987Nylén Mikko Kalevi Antton",
+          "fragmentId": "20241987Nyl-n_Mikko_Kalevi_Antton"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

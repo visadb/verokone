@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Ikäheimonen Aki Matti",
+      "id": "1959Ikäheimonen Aki Matti",
+      "gender": "m",
+      "birthYear": 1959,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 17699,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 169075.21000000002,
+          "capitalIncome": 877.42,
+          "salary": 168197.79,
+          "rank": 28748,
+          "rankOfLastYear": 28748,
+          "paidTaxes": 67426.91,
+          "taxRatio": 39.87983217646158,
+          "personId": "1959Ikäheimonen Aki Matti",
+          "fragmentId": "20241959Ik-heimonen_Aki_Matti"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

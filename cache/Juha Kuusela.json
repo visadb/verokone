@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "name": "Kuusela Markku Juhani",
+      "id": "1949Kuusela Markku Juhani",
+      "gender": "m",
+      "birthYear": 1949,
+      "lastCounty": "Etelä-Karjala",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 65530,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Etelä-Karjala",
+          "totalIncome": 384499.89,
+          "capitalIncome": 351399.8,
+          "salary": 33100.09,
+          "rank": 5021,
+          "rankOfLastYear": 5021,
+          "paidTaxes": 126678.83,
+          "taxRatio": 32.94638913940911,
+          "personId": "1949Kuusela Markku Juhani",
+          "fragmentId": "20241949Kuusela_Markku_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Miska Juhani",
+      "id": "1969Kuusela Miska Juhani",
+      "gender": "m",
+      "birthYear": 1969,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5404,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 253645.3,
+          "capitalIncome": 2894.81,
+          "salary": 250750.49,
+          "rank": 11061,
+          "rankOfLastYear": 11061,
+          "paidTaxes": 109757.83,
+          "taxRatio": 43.27217180842697,
+          "personId": "1969Kuusela Miska Juhani",
+          "fragmentId": "20241969Kuusela_Miska_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Juha Pekka",
+      "id": "1964Kuusela Juha Pekka",
+      "gender": "m",
+      "birthYear": 1964,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 8943,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 210715.57,
+          "capitalIncome": 0,
+          "salary": 210715.57,
+          "rank": 16825,
+          "rankOfLastYear": 16825,
+          "paidTaxes": 89722.4,
+          "taxRatio": 42.57986251324475,
+          "personId": "1964Kuusela Juha Pekka",
+          "fragmentId": "20241964Kuusela_Juha_Pekka"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Paavo Juhani",
+      "id": "1943Kuusela Paavo Juhani",
+      "gender": "m",
+      "birthYear": 1943,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 39930,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Kanta-Häme",
+          "totalIncome": 161784.25,
+          "capitalIncome": 33780.86,
+          "salary": 128003.39,
+          "rank": 31996,
+          "rankOfLastYear": 31996,
+          "paidTaxes": 65480.09,
+          "taxRatio": 40.47371113071884,
+          "personId": "1943Kuusela Paavo Juhani",
+          "fragmentId": "20241943Kuusela_Paavo_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Mikko Juhani",
+      "id": "1972Kuusela Mikko Juhani",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 21601,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 156932.75,
+          "capitalIncome": 0,
+          "salary": 156932.75,
+          "rank": 34594,
+          "rankOfLastYear": 34594,
+          "paidTaxes": 64590,
+          "taxRatio": 41.15775706472996,
+          "personId": "1972Kuusela Mikko Juhani",
+          "fragmentId": "20241972Kuusela_Mikko_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Matti Juhani",
+      "id": "1938Kuusela Matti Juhani",
+      "birthYear": 1938,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34317,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 148563.49000000002,
+          "capitalIncome": 14052.01,
+          "salary": 134511.48,
+          "rank": 39778,
+          "rankOfLastYear": 39778,
+          "paidTaxes": 68636.54,
+          "taxRatio": 46.20013975169807,
+          "personId": "1938Kuusela Matti Juhani",
+          "fragmentId": "20241938Kuusela_Matti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Juha-Matti",
+      "id": "1967Kuusela Juha-Matti",
+      "birthYear": 1967,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25957,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 147879.32,
+          "capitalIncome": 294.56,
+          "salary": 147584.76,
+          "rank": 40266,
+          "rankOfLastYear": 40266,
+          "paidTaxes": 58244.29,
+          "taxRatio": 39.386365855617946,
+          "personId": "1967Kuusela Juha-Matti",
+          "fragmentId": "20241967Kuusela_Juha-Matti"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Onni Juhani",
+      "id": "1961Kuusela Onni Juhani",
+      "birthYear": 1961,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 63375,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 146847.97,
+          "capitalIncome": 98012,
+          "salary": 48835.97,
+          "rank": 41017,
+          "rankOfLastYear": 41017,
+          "paidTaxes": 46060.33,
+          "taxRatio": 31.365997092094634,
+          "personId": "1961Kuusela Onni Juhani",
+          "fragmentId": "20241961Kuusela_Onni_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Arto Jouni Juhana",
+      "id": "1977Kuusela Arto Jouni Juhana",
+      "birthYear": 1977,
+      "lastCounty": "Kanta-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 62365,
+          "taxYear": 2024,
+          "county": "Kanta-Häme",
+          "totalIncome": 143014.46,
+          "capitalIncome": 87126.31,
+          "salary": 55888.15,
+          "rank": 43964,
+          "rankOfLastYear": 43964,
+          "paidTaxes": 45656.47,
+          "taxRatio": 31.924373241698778,
+          "personId": "1977Kuusela Arto Jouni Juhana",
+          "fragmentId": "20241977Kuusela_Arto_Jouni_Juhana"
+        }
+      }
+    },
+    {
+      "name": "Kuusela Kari Juhani",
+      "id": "1960Kuusela Kari Juhani",
+      "birthYear": 1960,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45409,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 122815.38,
+          "capitalIncome": 0,
+          "salary": 122815.38,
+          "rank": 65964,
+          "rankOfLastYear": 65964,
+          "paidTaxes": 49152.9,
+          "taxRatio": 40.021779031258134,
+          "personId": "1960Kuusela Kari Juhani",
+          "fragmentId": "20241960Kuusela_Kari_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Iso-Kuusela Antti Juhani",
+      "id": "1980Iso-Kuusela Antti Juhani",
+      "birthYear": 1980,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 46101,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 122449,
+          "capitalIncome": 240.25,
+          "salary": 122208.75,
+          "rank": 66486,
+          "rankOfLastYear": 66486,
+          "paidTaxes": 44370.38,
+          "taxRatio": 36.23580429403261,
+          "personId": "1980Iso-Kuusela Antti Juhani",
+          "fragmentId": "20241980Iso-Kuusela_Antti_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 11,
+  "totResults": 11
+}

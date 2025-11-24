@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "Volotinen Tuomas Petteri",
+      "id": "1986Volotinen Tuomas Petteri",
+      "gender": "m",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5499,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 275336.88,
+          "capitalIncome": 26282.76,
+          "salary": 249054.12,
+          "rank": 9335,
+          "rankOfLastYear": 9335,
+          "paidTaxes": 114207.25,
+          "taxRatio": 41.47909644360029,
+          "personId": "1986Volotinen Tuomas Petteri",
+          "fragmentId": "20241986Volotinen_Tuomas_Petteri"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

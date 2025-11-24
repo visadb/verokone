@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "name": "Virtanen Jussi Kalevi",
+      "id": "1981Virtanen Jussi Kalevi",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 33328,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 213645.95,
+          "capitalIncome": 77766.81,
+          "salary": 135879.14,
+          "rank": 16287,
+          "rankOfLastYear": 16287,
+          "paidTaxes": 77780.58,
+          "taxRatio": 36.40629742805796,
+          "personId": "1981Virtanen Jussi Kalevi",
+          "fragmentId": "20241981Virtanen_Jussi_Kalevi"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Jussi-Pekka Paavali",
+      "id": "1968Virtanen Jussi-Pekka Paavali",
+      "birthYear": 1968,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 18917,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 169223.14,
+          "capitalIncome": 4861.51,
+          "salary": 164361.63,
+          "rank": 28698,
+          "rankOfLastYear": 28698,
+          "paidTaxes": 73668.02,
+          "taxRatio": 43.533065277006436,
+          "personId": "1968Virtanen Jussi-Pekka Paavali",
+          "fragmentId": "20241968Virtanen_Jussi-Pekka_Paavali"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Jussi Ilmari",
+      "id": "1968Virtanen Jussi Ilmari",
+      "birthYear": 1968,
+      "lastCounty": "Pirkanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 24644,
+          "taxYear": 2024,
+          "county": "Pirkanmaa",
+          "totalIncome": 157322.17,
+          "capitalIncome": 7213.78,
+          "salary": 150108.39,
+          "rank": 34368,
+          "rankOfLastYear": 34368,
+          "paidTaxes": 68660.92,
+          "taxRatio": 43.64351190935136,
+          "personId": "1968Virtanen Jussi Ilmari",
+          "fragmentId": "20241968Virtanen_Jussi_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Virtanen Jussi Oskari",
+      "id": "1979Virtanen Jussi Oskari",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 25967,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 148301.5,
+          "capitalIncome": 732.52,
+          "salary": 147568.98,
+          "rank": 39966,
+          "rankOfLastYear": 39966,
+          "paidTaxes": 58839.47,
+          "taxRatio": 39.67557307242341,
+          "personId": "1979Virtanen Jussi Oskari",
+          "fragmentId": "20241979Virtanen_Jussi_Oskari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 4,
+  "totResults": 4
+}

@@ -1,0 +1,56 @@
+{
+  "results": [
+    {
+      "name": "Härkönen Sampo Kaleva",
+      "id": "1955Härkönen Sampo Kaleva",
+      "birthYear": 1955,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5696,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 246137.72,
+          "capitalIncome": 0,
+          "salary": 246137.72,
+          "rank": 11844,
+          "paidTaxes": 110136.94,
+          "taxRatio": 44.74606330147204,
+          "personId": "1955Härkönen Sampo Kaleva",
+          "fragmentId": "20241955H-rk-nen_Sampo_Kaleva"
+        }
+      }
+    },
+    {
+      "name": "Tulokas Sampo Seppo Kaleva",
+      "id": "1954Tulokas Sampo Seppo Kaleva",
+      "birthYear": 1954,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 70130,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124800.57,
+          "capitalIncome": 124800.57,
+          "salary": 0,
+          "rank": 63104,
+          "rankOfLastYear": 63104,
+          "paidTaxes": 37416.14,
+          "taxRatio": 29.980744478971527,
+          "personId": "1954Tulokas Sampo Seppo Kaleva",
+          "fragmentId": "20241954Tulokas_Sampo_Seppo_Kaleva"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

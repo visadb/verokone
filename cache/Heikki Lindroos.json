@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Lindroos Heikki Leo Jalmari",
+      "id": "1983Lindroos Heikki Leo Jalmari",
+      "birthYear": 1983,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 69735,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 159261.62,
+          "capitalIncome": 159261.62,
+          "salary": 0,
+          "rank": 33283,
+          "rankOfLastYear": 33283,
+          "paidTaxes": 53110.26,
+          "taxRatio": 33.34780846760192,
+          "personId": "1983Lindroos Heikki Leo Jalmari",
+          "fragmentId": "20241983Lindroos_Heikki_Leo_Jalmari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

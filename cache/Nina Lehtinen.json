@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Lehtinen Nina Viveka",
+      "id": "1969Lehtinen Nina Viveka",
+      "birthYear": 1969,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 10445,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 199953.41,
+          "capitalIncome": 0,
+          "salary": 199953.41,
+          "rank": 19038,
+          "rankOfLastYear": 19038,
+          "paidTaxes": 88153.13,
+          "taxRatio": 44.086835028219824,
+          "personId": "1969Lehtinen Nina Viveka",
+          "fragmentId": "20241969Lehtinen_Nina_Viveka"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

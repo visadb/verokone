@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Kekäle Mika Krister",
+      "id": "1988Kekäle Mika Krister",
+      "birthYear": 1988,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61928,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 135231.35,
+          "capitalIncome": 76744.99,
+          "salary": 58486.36,
+          "rank": 50954,
+          "rankOfLastYear": 50954,
+          "paidTaxes": 37772.54,
+          "taxRatio": 27.931792443098434,
+          "personId": "1988Kekäle Mika Krister",
+          "fragmentId": "20241988Kek-le_Mika_Krister"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

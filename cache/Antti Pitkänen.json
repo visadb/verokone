@@ -1,0 +1,136 @@
+{
+  "results": [
+    {
+      "name": "Pitkänen Antti Juhani",
+      "id": "1947Pitkänen Antti Juhani",
+      "gender": "m",
+      "birthYear": 1947,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 2674,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 324829.53,
+          "capitalIncome": 0,
+          "salary": 324829.53,
+          "rank": 6760,
+          "rankOfLastYear": 6760,
+          "paidTaxes": 159912.85,
+          "taxRatio": 49.229775999737456,
+          "personId": "1947Pitkänen Antti Juhani",
+          "fragmentId": "20241947Pitk-nen_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Eero Antti Juhani",
+      "id": "1984Pitkänen Eero Antti Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 30573,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 150475.61,
+          "capitalIncome": 10789.11,
+          "salary": 139686.5,
+          "rank": 38519,
+          "rankOfLastYear": 38519,
+          "paidTaxes": 56641.92,
+          "taxRatio": 37.64192748578989,
+          "personId": "1984Pitkänen Eero Antti Juhani",
+          "fragmentId": "20241984Pitk-nen_Eero_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Antti Joonas",
+      "id": "1987Pitkänen Antti Joonas",
+      "birthYear": 1987,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31765,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 137955.75,
+          "capitalIncome": 0,
+          "salary": 137955.75,
+          "rank": 48330,
+          "rankOfLastYear": 48330,
+          "paidTaxes": 52982.76,
+          "taxRatio": 38.40561919311084,
+          "personId": "1987Pitkänen Antti Joonas",
+          "fragmentId": "20241987Pitk-nen_Antti_Joonas"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Risto Antti Ilmari",
+      "id": "1955Pitkänen Risto Antti Ilmari",
+      "birthYear": 1955,
+      "lastCounty": "Päijät-Häme",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 61345,
+          "taxYear": 2024,
+          "county": "Päijät-Häme",
+          "totalIncome": 136912.25,
+          "capitalIncome": 74498.69,
+          "salary": 62413.56,
+          "rank": 49306,
+          "rankOfLastYear": 49306,
+          "paidTaxes": 33817.69,
+          "taxRatio": 24.70026604631799,
+          "personId": "1955Pitkänen Risto Antti Ilmari",
+          "fragmentId": "20241955Pitk-nen_Risto_Antti_Ilmari"
+        }
+      }
+    },
+    {
+      "name": "Pitkänen Antti Johannes",
+      "id": "1980Pitkänen Antti Johannes",
+      "gender": "m",
+      "birthYear": 1980,
+      "lastCounty": "Pohjois-Savo",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 60979,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Pohjois-Savo",
+          "totalIncome": 132331.24,
+          "capitalIncome": 67650.67,
+          "salary": 64680.57,
+          "rank": 53887,
+          "rankOfLastYear": 53887,
+          "paidTaxes": 43238.88,
+          "taxRatio": 32.6747334945248,
+          "personId": "1980Pitkänen Antti Johannes",
+          "fragmentId": "20241980Pitk-nen_Antti_Johannes"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 5,
+  "totResults": 5
+}

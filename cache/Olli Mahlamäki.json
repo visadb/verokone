@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Mahlamäki Olli Ilmari",
+      "id": "1982Mahlamäki Olli Ilmari",
+      "birthYear": 1982,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 3681,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 289677.63,
+          "capitalIncome": 1143.39,
+          "salary": 288534.24,
+          "rank": 8430,
+          "rankOfLastYear": 8430,
+          "paidTaxes": 129190.19,
+          "taxRatio": 44.59791734694875,
+          "personId": "1982Mahlamäki Olli Ilmari",
+          "fragmentId": "20241982Mahlam-ki_Olli_Ilmari"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

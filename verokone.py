@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import json
 import sys
-import time
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -85,7 +84,9 @@ def format_tax_summary(name: str, tax_info: Any) -> str:
 
 
 def main() -> None:
-    names_file = Path("names.txt")
+    if len(sys.argv) > 2:
+        raise SystemExit(f"Usage: {Path(sys.argv[0]).name} [names_file]")
+    names_file = Path(sys.argv[1]) if len(sys.argv) == 2 else Path("names.txt")
     cache_dir = Path("cache")
     for name in read_names(names_file):
         try:

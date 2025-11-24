@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Kinnunen Jani Kristian",
+      "id": "1972Kinnunen Jani Kristian",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 40834,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 130599.48999999999,
+          "capitalIncome": 3525.34,
+          "salary": 127074.15,
+          "rank": 55780,
+          "rankOfLastYear": 55780,
+          "paidTaxes": 52251.05,
+          "taxRatio": 40.00861718525854,
+          "personId": "1972Kinnunen Jani Kristian",
+          "fragmentId": "20241972Kinnunen_Jani_Kristian"
+        }
+      }
+    },
+    {
+      "name": "Kinnunen Jani Juhani",
+      "id": "1984Kinnunen Jani Juhani",
+      "birthYear": 1984,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 45401,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 129742.69,
+          "capitalIncome": 6922.86,
+          "salary": 122819.83,
+          "rank": 56798,
+          "rankOfLastYear": 56798,
+          "paidTaxes": 52404.59,
+          "taxRatio": 40.39116962967239,
+          "personId": "1984Kinnunen Jani Juhani",
+          "fragmentId": "20241984Kinnunen_Jani_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

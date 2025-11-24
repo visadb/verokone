@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "name": "Lindqvist Markus Mikael",
+      "id": "1989Lindqvist Markus Mikael",
+      "birthYear": 1989,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12645,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 191043.4,
+          "capitalIncome": 3337.28,
+          "salary": 187706.12,
+          "rank": 21267,
+          "rankOfLastYear": 21267,
+          "paidTaxes": 80636.51,
+          "taxRatio": 42.20847723606259,
+          "personId": "1989Lindqvist Markus Mikael",
+          "fragmentId": "20241989Lindqvist_Markus_Mikael"
+        }
+      }
+    },
+    {
+      "name": "Lindqvist Henry Markus",
+      "id": "1979Lindqvist Henry Markus",
+      "birthYear": 1979,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 19146,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 181624.22,
+          "capitalIncome": 17992.94,
+          "salary": 163631.28,
+          "rank": 24089,
+          "rankOfLastYear": 24089,
+          "paidTaxes": 73538.76,
+          "taxRatio": 40.48951180629984,
+          "personId": "1979Lindqvist Henry Markus",
+          "fragmentId": "20241979Lindqvist_Henry_Markus"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 2,
+  "totResults": 2
+}

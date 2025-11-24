@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Relander Antti Juhani",
+      "id": "1986Relander Antti Juhani",
+      "birthYear": 1986,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 34164,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 134744.96,
+          "capitalIncome": 0,
+          "salary": 134744.96,
+          "rank": 51446,
+          "rankOfLastYear": 51446,
+          "paidTaxes": 50993.25,
+          "taxRatio": 37.84427261694983,
+          "personId": "1986Relander Antti Juhani",
+          "fragmentId": "20241986Relander_Antti_Juhani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}

@@ -1,0 +1,136 @@
+{
+  "results": [
+    {
+      "name": "Tuomi Antti Olavi",
+      "id": "1981Tuomi Antti Olavi",
+      "birthYear": 1981,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 5461,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 249621.43,
+          "capitalIncome": 0,
+          "salary": 249621.43,
+          "rank": 11465,
+          "rankOfLastYear": 11465,
+          "paidTaxes": 115092.85,
+          "taxRatio": 46.10695884564078,
+          "personId": "1981Tuomi Antti Olavi",
+          "fragmentId": "20241981Tuomi_Antti_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Tuomikoski Jaakko Antti Juhani",
+      "id": "1950Tuomikoski Jaakko Antti Juhani",
+      "gender": "m",
+      "birthYear": 1950,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 13424,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 193170.75,
+          "capitalIncome": 8882.53,
+          "salary": 184288.22,
+          "rank": 20677,
+          "rankOfLastYear": 20677,
+          "paidTaxes": 86665.94,
+          "taxRatio": 44.864939438294876,
+          "personId": "1950Tuomikoski Jaakko Antti Juhani",
+          "fragmentId": "20241950Tuomikoski_Jaakko_Antti_Juhani"
+        }
+      }
+    },
+    {
+      "name": "Tuominen Juha Antti",
+      "id": "1963Tuominen Juha Antti",
+      "gender": "m",
+      "birthYear": 1963,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 12858,
+          "taxYear": 2024,
+          "gender": "m",
+          "county": "Uusimaa",
+          "totalIncome": 186795.95,
+          "capitalIncome": 0,
+          "salary": 186795.95,
+          "rank": 22449,
+          "rankOfLastYear": 22449,
+          "paidTaxes": 83193.29,
+          "taxRatio": 44.53698808780383,
+          "personId": "1963Tuominen Juha Antti",
+          "fragmentId": "20241963Tuominen_Juha_Antti"
+        }
+      }
+    },
+    {
+      "name": "Tuominiemi Antti Hermanni",
+      "id": "1977Tuominiemi Antti Hermanni",
+      "birthYear": 1977,
+      "lastCounty": "Etelä-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 35532,
+          "taxYear": 2024,
+          "county": "Etelä-Pohjanmaa",
+          "totalIncome": 142774.11,
+          "capitalIncome": 9763.14,
+          "salary": 133010.97,
+          "rank": 44156,
+          "rankOfLastYear": 44156,
+          "paidTaxes": 60010.74,
+          "taxRatio": 42.031948229269304,
+          "personId": "1977Tuominiemi Antti Hermanni",
+          "fragmentId": "20241977Tuominiemi_Antti_Hermanni"
+        }
+      }
+    },
+    {
+      "name": "Tuominen Antti Tapani",
+      "id": "1981Tuominen Antti Tapani",
+      "birthYear": 1981,
+      "lastCounty": "Keski-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 32145,
+          "taxYear": 2024,
+          "county": "Keski-Suomi",
+          "totalIncome": 137498.72,
+          "capitalIncome": 93.78,
+          "salary": 137404.94,
+          "rank": 48748,
+          "rankOfLastYear": 48748,
+          "paidTaxes": 55742.45,
+          "taxRatio": 40.54034103008377,
+          "personId": "1981Tuominen Antti Tapani",
+          "fragmentId": "20241981Tuominen_Antti_Tapani"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 5,
+  "totResults": 5
+}

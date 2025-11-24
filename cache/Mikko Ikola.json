@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "name": "Leikola Mikko Eino Olavi",
+      "id": "1968Leikola Mikko Eino Olavi",
+      "birthYear": 1968,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 66423,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 211737.13999999998,
+          "capitalIncome": 185326.86,
+          "salary": 26410.28,
+          "rank": 16643,
+          "rankOfLastYear": 16643,
+          "paidTaxes": 66833.22,
+          "taxRatio": 31.564240453989324,
+          "personId": "1968Leikola Mikko Eino Olavi",
+          "fragmentId": "20241968Leikola_Mikko_Eino_Olavi"
+        }
+      }
+    },
+    {
+      "name": "Poikolainen Mikko Samuli",
+      "id": "1972Poikolainen Mikko Samuli",
+      "birthYear": 1972,
+      "lastCounty": "Uusimaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 44130,
+          "taxYear": 2024,
+          "county": "Uusimaa",
+          "totalIncome": 124585.34,
+          "capitalIncome": 675.22,
+          "salary": 123910.12,
+          "rank": 63401,
+          "rankOfLastYear": 63401,
+          "paidTaxes": 48022.28,
+          "taxRatio": 38.5456908493407,
+          "personId": "1972Poikolainen Mikko Samuli",
+          "fragmentId": "20241972Poikolainen_Mikko_Samuli"
+        }
+      }
+    },
+    {
+      "name": "Seppälä Mikko Nikolai",
+      "id": "1980Seppälä Mikko Nikolai",
+      "birthYear": 1980,
+      "lastCounty": "Varsinais-Suomi",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 54338,
+          "taxYear": 2024,
+          "county": "Varsinais-Suomi",
+          "totalIncome": 120476.46,
+          "capitalIncome": 17149.25,
+          "salary": 103327.21,
+          "rank": 69460,
+          "rankOfLastYear": 69460,
+          "paidTaxes": 44818.23,
+          "taxRatio": 37.200819147574556,
+          "personId": "1980Seppälä Mikko Nikolai",
+          "fragmentId": "20241980Sepp-l-_Mikko_Nikolai"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 3,
+  "totResults": 3
+}

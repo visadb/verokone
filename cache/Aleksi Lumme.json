@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "Lumme Henri Aarne Aleksi",
+      "id": "1979Lumme Henri Aarne Aleksi",
+      "birthYear": 1979,
+      "lastCounty": "Pohjois-Pohjanmaa",
+      "taxYearsDefined": [
+        2024
+      ],
+      "taxYears": {
+        "2024": {
+          "salaryRank": 31698,
+          "taxYear": 2024,
+          "county": "Pohjois-Pohjanmaa",
+          "totalIncome": 141181.59,
+          "capitalIncome": 3125,
+          "salary": 138056.59,
+          "rank": 45470,
+          "rankOfLastYear": 45470,
+          "paidTaxes": 56513.1,
+          "taxRatio": 40.02866096068191,
+          "personId": "1979Lumme Henri Aarne Aleksi",
+          "fragmentId": "20241979Lumme_Henri_Aarne_Aleksi"
+        }
+      }
+    }
+  ],
+  "offset": 0,
+  "count": 1,
+  "totResults": 1
+}
